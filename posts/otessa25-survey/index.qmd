@@ -28,24 +28,8 @@ Our team is spread across most of the country and we each live and work on land 
 
 ## OTESSA25
 
-Evolving our understanding of technology-integrated assessment: A review of the literature and development of a new framework
+[Evolving our understanding of technology-integrated assessment: A review of the literature and development of a new framework](https://cmadland.github.io/slides/posts/deck-otessa24)
 
-## Spring 2020
-
-![Screenshot of Ross yelling 'Pivot' while trying to move a couch around a tight corner and up some stairs.](pivot.png)
-
-## Summer 2021
-
-Candidacy
-
-# The Project
-
--   Technology
--   Assessment
-
-::: {.notes}
-
-:::
 
 ## Two Papers
 
