@@ -21,7 +21,7 @@ footer: "Special thanks to BCcampus"
 Our team is spread across most of the country and we each live and work on land that has been cared for by Indigenous people for millenia. We each acknowledge that our abundant lives were made possible because of the displacement of the original stewards of the land.
 
 ::: {.notes}
-notes here
+
 :::
 
 # Background
