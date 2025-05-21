@@ -1,0 +1,17 @@
+{
+  "posts/post-with-code/index.qmd": {
+    "index.html": "aac94fc2"
+  },
+  "posts/deck-otessa24/index.qmd": {
+    "index.html": "2cfd9319"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "886af61e"
+  },
+  "index.qmd": {
+    "index.html": "1e936347"
+  },
+  "about.qmd": {
+    "about.html": "d13d8077"
+  }
+}
