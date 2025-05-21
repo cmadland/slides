@@ -1,0 +1,353 @@
+---
+title: "OTESSA25"
+author: "Colin Madland<sup>1</sup>, Valerie Irvine<sup>1</sup>, Christopher DeLuca<sup>2</sup>, and Okan Bulut<sup>3</sup>"
+institute: "<sup>1</sup>University of Victoria, <sup>2</sup>Queens University, <sup>3</sup>University of Alberta"
+date: "2025-06-05"
+format:
+  revealjs:
+    multiplex: true
+    incremental: true
+bibliography: ../../references.bib
+csl: ../../apa.csl
+logo: otessa-logo-CS6.png
+footer: "Special thanks to BCcampus" 
+
+---
+
+## Developing the Technology-integrated Assessment Scale
+
+## Acknowledgements
+
+Our team is spread across most of the country and we each live and work on land that has been cared for by Indigenous people for millenia. We each acknowledge that our abundant lives were made possible because of the displacement of the original stewards of the land.
+
+::: {.notes}
+
+:::
+
+# Background
+
+## OTESSA25
+
+Evolving our understanding of technology-integrated assessment: A review of the literature and development of a new framework
+
+## Spring 2020
+
+![Screenshot of Ross yelling 'Pivot' while trying to move a couch around a tight corner and up some stairs.](pivot.png)
+
+## Summer 2021
+
+Candidacy
+
+# The Project
+
+-   Technology
+-   Assessment
+
+::: {.notes}
+
+:::
+
+## Two Papers
+
+Madland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024b). Technology-Integrated Assessment: A Literature Review. The Open/Technology in Education, Society, and Scholarship Association Journal, 4(1), 1–48. <https://doi.org/10.18357/otessaj.2024.4.1.57>
+
+Madland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024a). Developing the Technology-Integrated Assessment Framework. The Open/Technology in Education, Society, and Scholarship Association Journal, 4(1), 1–19. <https://doi.org/10.18357/otessaj.2024.4.1.63>
+
+
+
+
+## What are your most important concerns related to technology-integrated assessment?
+
+. . .
+
+![QR Code](qr.png)
+
+## ...
+
+::: {style="position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;"}
+<iframe sandbox="allow-scripts allow-same-origin allow-presentation" allowfullscreen="true" allowtransparency="true" frameborder="0" height="315" src="https://www.mentimeter.com/app/presentation/albxhuhjazekedyahzzmdcg3nwvoa9r6/embed" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="420">
+
+</iframe>
+:::
+
+::: {.notes}
+
+:::
+
+# Process
+
+## Literature Review [@madlandTechnologyIntegratedAssessmentLiterature2024]
+
+![Designing assessment in a digital world from @bearman2022](fig1-bearman-framework.drawio.png)
+
+
+::: {.notes}
+
+:::
+
+## Assessment Design in a Digital World [@bearman2022] 
+
+::: {.columns}
+::: {.column}
+#### Digital Tools
+
+- Assessment Rationales
+- Level of Digital Enhancement [@puenteduraBuildingTransformationIntroduction2009]
+- Potential Harms
+:::
+::: {.column}
+#### Digital Literacies
+
+- Mastery or Proficiency
+- Evaluation and Critique
+
+#### Human Capabilities
+
+- Future Activities
+- Future Self
+:::
+::: 
+
+<!-- end columns -->
+ 
+  
+## Search
+
+![PRISMA Diagram of Search Results](fig2-prisma3.drawio.png)
+
+::: {.notes}
+
+:::
+
+## Global Distribution
+
+![Map of most common countries of publication.](fig4-pubmap.png)
+
+::: {.notes}
+
+:::
+
+## Predict the Ranking of these Themes
+
+![QR Code](qr.png)
+
+## ...
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/albxhuhjazekedyahzzmdcg3nwvoa9r6/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
+::: {.notes}
+
+:::
+
+## Actual Ranking
+
+![Number of Citations by Theme in the Literature.](fig7-citations-by-theme.png)
+
+::: {.notes}
+
+:::
+
+## Comparing Themes to @bearman2022
+
+![Colours show different levels of alignment between @bearman2022 and the themes in the literature.](fig8-bearman-x-lit.drawio.png)
+
+::: {.notes}
+
+:::
+
+## What do you notice? What do you wonder?
+
+![QR Code](qr.png)
+
+## ...
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/albxhuhjazekedyahzzmdcg3nwvoa9r6/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
+# Model Building [@madlandDevelopingTechnologyIntegratedAssessment2024]
+
+## Missing from the Literature
+
+- Level of Digital Enhancement (SAMR)
+- Evaluation and Critique of Digital Tools (Digital Literacies)
+- Human Capabilities
+
+Dropped
+
+## Missing from the @bearman2022 Framework
+
+- Efficiency and Workload
+- Academic Integrity
+- Community
+
+## Missing from both Literature and Framework
+
+- Indigenous approaches
+  - Respect
+  - Relevance
+  - Reciprocity
+  - Responsibility
+  - Relationship
+
+## Maintaining
+
+Purposes of Assessment
+
+- ...OF Learning
+- ...FOR Learning
+- ...AS Learning
+
+## Modifying
+
+- Assessment Design
+
+## Consolidating
+
+- Workload + Efficiency = Technology Acceptance
+- Human Capabilities + Potential Harms = Duty of Care
+
+## UTAUT
+
+![Simplified Diagram of the Unified Theory of Acceptance and Use of Technology](fig2-utaut.drawio.png)
+
+## Extending
+
+- @delucaApproachesClassroomAssessment2016 - Measurement Theory
+
+## Indigenizing
+
+- Community/Relationships & Respect & Responsibility --> Duty of Care
+- Relevance & Reciprocity --> Assessment Design
+
+## 4 Components
+
+::: r-vstack
+::: {data-id="box1" auto-animate-delay="0" style="background: #5EC962; width: 50px; height: 50px; border-radius: 30px; margin: 10px;" title="Assessment Design"}
+:::
+Assessment Design
+
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #21918C; width: 50px; height: 50px; border-radius: 30px; margin: 10px;" title="Technology Acceptance"}
+:::
+Technology Acceptance
+
+::: {data-id="box3" auto-animate-delay="0.2" style="background: #3B528B; width: 50px; height: 50px; border-radius: 30px; margin: 10px;" title="Duty of Care"}
+:::
+Duty of Care
+
+::: {data-id="box4" auto-animate-delay="0.3" style="background: #440154; width: 50px; height: 50px; border-radius: 30px; margin: 10px;" title="Purposes of Assessment"}
+:::
+Purposes of Assessment
+:::
+
+##  {auto-animate="true" auto-animate-easing="ease-in-out"}
+
+::: r-hstack
+::: {data-id="box1" auto-animate-delay="0" style="background: #5EC962; width: 50px; height: 50px; border-radius: 30px; margin: 10px;" title="Assessment Design"}
+:::
+
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #21918C; width: 50px; height: 50px; border-radius: 30px; margin: 10px;" title="Technology Acceptance"}
+:::
+
+::: {data-id="box3" auto-animate-delay="0.2" style="background: #3B528B; width: 50px; height: 50px; border-radius: 30px; margin: 10px;" title="Duty of Care"}
+:::
+
+::: {data-id="box4" auto-animate-delay="0.3" style="background: #440154; width: 50px; height: 50px; border-radius: 30px; margin: 10px;" title="Purposes of Assessment"}
+:::
+:::
+
+##  {auto-animate="true" auto-animate-easing="ease-in-out"}
+
+::: r-stack
+::: {data-id="box1" style="background: #5EC962; width: 600px; height: 600px; border-radius: 300px;" title="Assessment Design"}
+:::
+
+::: {data-id="box2" style="background: #21918C; width: 450px; height: 450px; border-radius: 300px;" title="Technology Acceptance"}
+:::
+
+::: {data-id="box3" style="background: #3B528B; width: 300px; height: 300px; border-radius: 300px;" title="Duty of Care"}
+:::
+
+::: {data-id="box4" style="background: #440154; width: 150px; height: 150px; border-radius: 300px;" title="Purposes of Assessment"}
+:::
+:::
+
+## 
+
+![Full Model](tiaf-q-full.drawio.png)
+
+## Alt-View
+```{mermaid}
+flowchart TD
+classDef purpose fill:#440154,color:#fff,stroke:#440154,stroke-width:4px
+classDef duty fill:#3B528B,color:#fff,stroke:#3B528B,stroke-width:4px
+classDef accept fill:#21918c,color:#fff,stroke:#21918c,stroke-width:4px
+classDef design fill:#5EC962,color:#000,stroke:#5EC962,stroke-width:4px
+  A[Technology-Integrated Assessment] --- B(Assessment Purpose)
+  A(Technology-Integrated Assessment) --- C(Duty of Care)
+  A(Technology-Integrated Assessment) --- D(Technology Acceptance)
+  A(Technology-Integrated Assessment) --- E(Assessment Design)
+  B --- F([Assessment of Learning]) --- G([Assessment for Learning]) --- H([Assessment as Learning])
+  C --- I([Bias]) --- J([Inclusion]) --- K([Relationships]) --- L([Ethical EdTech])
+  D --- M([Performance Expectancy]) --- N([Effort Expectancy]) --- O([Social Influence]) --- P([Facilitating Conditions])
+  E --- Q([Measurement Theory]) --- R([Academic Integrity]) --- S([Relevance]) --- T([Reciprocity])
+  class B,F,G,H purpose
+  class C,I,J,K,L duty
+  class D,M,N,O,P accept
+  class E,Q,R,S,T design
+
+```
+
+## Funding and Support
+
+This  research  was supported by the  BCcampus  Research  Fellows  Program, which provides B.C. post-secondary educators and students with funding to conduct small-scale research on teaching and learning, as well as explore evidence-based teaching practices that focus on student success and learning.
+
+## References {.unnumbered}
+
+::: {#refs}
+:::
+
+
+
+<!--
+## Consolidating
+::: r-hstack
+::: {data-id="box1" auto-animate-delay="0" style="background: #5EC962; width: 200px; height: 150px; border-radius: 30px; margin: 10px; font-color: #ffffff;" title="Workload;"}
+:::
+Workload
+
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #21918C; width: 200px; height: 150px; border-radius: 30px; margin: 10px;" title="Efficiency;"}
+:::
+Efficiency
+:::
+
+## Consolidating {auto-animate="true" auto-animate-easing="ease-in-out"}
+
+::: r-hstack
+::: {data-id="box1" auto-animate-delay="0" style="background: #5EC962; width: 200px; height: 150px; border-radius: 30px; margin: 10px; font-color: #ffffff;" title="Technology Acceptance;"}
+
+:::
+
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #21918C; width: 200px; height: 150px; border-radius: 30px; margin: 10px;"}
+
+:::
+:::
+
+
+##  {auto-animate="true" auto-animate-easing="ease-in-out"}
+
+::: r-stack
+::: {data-id="box1" style="background: #ffffff; width: 200px; height: 150px; border-radius: 30px; margin: 10px;"}
+:::
+
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #21918C; width: 200px; height: 150px; border-radius: 30px; margin: 10px;" title="Technology Acceptance"}
+
+:::
+:::
+
+## test
+::: r-hstack
+::: {data-id="box1" auto-animate-delay="0" style="background: #21918C; width: 200px; height: 150px; border-radius: 30px; margin: 10px; font-color: #ffffff;" title="Technology Acceptance"}
+:::
+:::
+Technology Acceptance
+
+-->
