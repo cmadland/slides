@@ -7,11 +7,11 @@ format:
   revealjs:
     multiplex: true
     incremental: true
+    theme: night
 bibliography: ../../references.bib
 csl: ../../apa.csl
 logo: otessa-logo-CS6.png
 footer: "Special thanks to BCcampus" 
-
 ---
 
 ## Developing the Technology-integrated Assessment Scale
@@ -26,181 +26,20 @@ Our team is spread across most of the country and we each live and work on land 
 
 # Background
 
-## OTESSA25
+## OTESSA24
 
-[Evolving our understanding of technology-integrated assessment: A review of the literature and development of a new framework](https://cmadland.github.io/slides/posts/deck-otessa24)
+### [Evolving our understanding of technology-integrated assessment: A review of the literature and development of a new framework](https://cmadland.github.io/slides/posts/deck-otessa24)
 
 
 ## Two Papers
 
-Madland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024b). Technology-Integrated Assessment: A Literature Review. The Open/Technology in Education, Society, and Scholarship Association Journal, 4(1), 1–48. <https://doi.org/10.18357/otessaj.2024.4.1.57>
+- Madland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024b). Technology-Integrated Assessment: A Literature Review. *The Open/Technology in Education, Society, and Scholarship Association Journal, 4*(1), 1–48. <https://doi.org/10.18357/otessaj.2024.4.1.57>
 
-Madland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024a). Developing the Technology-Integrated Assessment Framework. The Open/Technology in Education, Society, and Scholarship Association Journal, 4(1), 1–19. <https://doi.org/10.18357/otessaj.2024.4.1.63>
+- Madland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024a). Developing the Technology-Integrated Assessment Framework. *The Open/Technology in Education, Society, and Scholarship Association Journal, 4*(1), 1–19. <https://doi.org/10.18357/otessaj.2024.4.1.63>
 
 
 
-
-## What are your most important concerns related to technology-integrated assessment?
-
-. . .
-
-![QR Code](qr.png)
-
-## ...
-
-::: {style="position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;"}
-<iframe sandbox="allow-scripts allow-same-origin allow-presentation" allowfullscreen="true" allowtransparency="true" frameborder="0" height="315" src="https://www.mentimeter.com/app/presentation/albxhuhjazekedyahzzmdcg3nwvoa9r6/embed" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="420">
-
-</iframe>
-:::
-
-::: {.notes}
-
-:::
-
-# Process
-
-## Literature Review [@madlandTechnologyIntegratedAssessmentLiterature2024]
-
-![Designing assessment in a digital world from @bearman2022](fig1-bearman-framework.drawio.png)
-
-
-::: {.notes}
-
-:::
-
-## Assessment Design in a Digital World [@bearman2022] 
-
-::: {.columns}
-::: {.column}
-#### Digital Tools
-
-- Assessment Rationales
-- Level of Digital Enhancement [@puenteduraBuildingTransformationIntroduction2009]
-- Potential Harms
-:::
-::: {.column}
-#### Digital Literacies
-
-- Mastery or Proficiency
-- Evaluation and Critique
-
-#### Human Capabilities
-
-- Future Activities
-- Future Self
-:::
-::: 
-
-<!-- end columns -->
- 
-  
-## Search
-
-![PRISMA Diagram of Search Results](fig2-prisma3.drawio.png)
-
-::: {.notes}
-
-:::
-
-## Global Distribution
-
-![Map of most common countries of publication.](fig4-pubmap.png)
-
-::: {.notes}
-
-:::
-
-## Predict the Ranking of these Themes
-
-![QR Code](qr.png)
-
-## ...
-
-<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/albxhuhjazekedyahzzmdcg3nwvoa9r6/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
-
-::: {.notes}
-
-:::
-
-## Actual Ranking
-
-![Number of Citations by Theme in the Literature.](fig7-citations-by-theme.png)
-
-::: {.notes}
-
-:::
-
-## Comparing Themes to @bearman2022
-
-![Colours show different levels of alignment between @bearman2022 and the themes in the literature.](fig8-bearman-x-lit.drawio.png)
-
-::: {.notes}
-
-:::
-
-## What do you notice? What do you wonder?
-
-![QR Code](qr.png)
-
-## ...
-
-<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/albxhuhjazekedyahzzmdcg3nwvoa9r6/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
-
-# Model Building [@madlandDevelopingTechnologyIntegratedAssessment2024]
-
-## Missing from the Literature
-
-- Level of Digital Enhancement (SAMR)
-- Evaluation and Critique of Digital Tools (Digital Literacies)
-- Human Capabilities
-
-Dropped
-
-## Missing from the @bearman2022 Framework
-
-- Efficiency and Workload
-- Academic Integrity
-- Community
-
-## Missing from both Literature and Framework
-
-- Indigenous approaches
-  - Respect
-  - Relevance
-  - Reciprocity
-  - Responsibility
-  - Relationship
-
-## Maintaining
-
-Purposes of Assessment
-
-- ...OF Learning
-- ...FOR Learning
-- ...AS Learning
-
-## Modifying
-
-- Assessment Design
-
-## Consolidating
-
-- Workload + Efficiency = Technology Acceptance
-- Human Capabilities + Potential Harms = Duty of Care
-
-## UTAUT
-
-![Simplified Diagram of the Unified Theory of Acceptance and Use of Technology](fig2-utaut.drawio.png)
-
-## Extending
-
-- @delucaApproachesClassroomAssessment2016 - Measurement Theory
-
-## Indigenizing
-
-- Community/Relationships & Respect & Responsibility --> Duty of Care
-- Relevance & Reciprocity --> Assessment Design
+# Technology-integrated Assessment Framework (TIAF)
 
 ## 4 Components
 
@@ -279,6 +118,48 @@ classDef design fill:#5EC962,color:#000,stroke:#5EC962,stroke-width:4px
   class E,Q,R,S,T design
 
 ```
+
+## Differentiation
+
+- 5Rs of Indigenous Education
+  - Respect
+  - Relevance
+  - Reciprocity
+  - Responsibility
+  - Relationship
+
+---
+
+## Differentiation
+
+- Duty of Care
+  - Bias
+  - Inclusion
+  - Relationships
+  - Ethical EdTech
+
+---
+
+## Differentiation
+
+- Technology Acceptance
+  - Performance Expectancy
+  - Effort Expectancy
+  - Social Influence
+  - Facilitating Conditions
+
+---
+
+# Analysis
+
+---
+
+## Exploratory Factor Analysis
+
+- specify constructs
+- identify parameters
+- generate and refine items
+- content validity
 
 ## Funding and Support
 
