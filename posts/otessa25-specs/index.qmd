@@ -1,12 +1,12 @@
 ---
-title: "Table of Specifications"
+title: "Archives"
 author: "Colin Madland"
 date: "2025-06-05"
 categories: [otessa25]
 image: "image.jpg"
 ---
 
-### Table of Specifications
+## Table of Specifications
 
 | Meta-Construct | Construct | Description |
 |  ---  |  ---  |  ---  |
@@ -30,6 +30,64 @@ image: "image.jpg"
 |       | Reciprocity | Reciprocity refers to the idea that assessment with technology should enrich both learners and instructors, as well as the learners' communities [@tessaroFiveIndigenizingOnline2018]. Reciprocity must be an intentional component of the design of assessment strategies [@rodriguez-trianaInstructionStudentEngagement2020].      |
 |       | Relevance |  Assessment practice ought to be relevant to the culture of the learner. In Indigenous learning contexts, this suggests an emphasis on oral communication and learning in a community context [@tessaroFiveIndigenizingOnline2018]. We extend this argument and assert that oral communication is a key factor in ensuring ethical practice in any context.     |
 :  {.striped .hover tbl-colwidths="[20,20,60]"}
+
+## Parameters (Rough Sample)
+
+
+### Assessment of learning
+
+~~- factored into a final grade~~ - occurs after learning - certification of proficiency - communication of proficiency (learners, other institutions, agencies) - expressed symbolically - used to rank learners ~~- (hodge-podge) symbols that conflate achievement and behaviour~~ - quantitative - often uses security measures to prevent academic dishonesty - The teacher is responsible for assessment
+
+#### Possible questions
+
+Have you engaged in the following assessment practices:
+
+-   provide a grade (numeric or percentage) on all learner work
+-   ban genAI tools to ensure work submitted belongs to each individual learner
+-   use tools to detect plagiarism or other forms of cheating
+-   deduct 'points' for late assignments
+-   assign grades based on how other learners perform
+-   calculate final grades as an average of all assignments throughout the course
+
+### Assessment for learning
+
+-   creating descriptions to be used to inform future learning
+-   learners are evaluated according to their own performance in light of criteria
+-   occurs multiple times during learning
+-   depends on teachers diagnostic skills
+-   the teacher is responsible for assessment
+-   focus is on improving learning [@earl2014]
+
+#### Possible questions
+
+Have you engaged in the following assessment practices:
+
+-   use learner performance to inform future learning activities
+-   provide proficiency feedback related to how learners performed in relation to outcomes (proficiency scale)
+-   assign ungraded self-check activities throughout the learning
+-   allow learners to revise and resubmit work that does not meet proficiency standards
+-   calculate final grades based on the highest level of proficiency achieved throughout the course
+
+### Assessment as Learning
+
+The key characteristic of assessment as learning is that learners are challenged to monitor and reflect on their own progress relative to the course outcomes [@boudAssessmentaslearningDevelopmentStudents2021]. This extends beyond simple self-assessment as it requires learners to engage in multiple complex tasks such as being able to recognize quality in light of stated outcomes, evaluate the quality of their own work, consider the effect of their own biases, determine whether or not a resource or other person is trustworthy, and identify areas in need of practice [@boudCreatingAgendaDeveloping2018]. Understanding and being able to recognize quality involves learners developing a clear framework or conceptualization of the domain of knowledge or skill being explored in the unit, course, or program [@ajjawi2018].
+
+-   learners monitor their own learning
+-   learners make their own adjustments based on their analysis of their proficiency
+-   Learners use their own knowledge to construct meaning
+-   learners identify when they don't understand something
+-   the learner has agency for assessment
+
+#### Possible Questions
+
+Have you engaged in the following assessment practices:
+
+-   learners are provided opportunity to check their understanding to identify gaps in their understanding
+-   encourage learners to document their learning process to make it visible
+-   provide learners opportunity to identify their own questions relevant to the course outcomes
+-   collaborate with learners to evaluate the quality of genAI outputs
+-   ask learners to evaluate their own assignments in light of proficiency scales
+   
 
 ## References
 
