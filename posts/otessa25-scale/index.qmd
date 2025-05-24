@@ -8,8 +8,8 @@ format:
     multiplex: true
     incremental: true
     theme: night
-bibliography: ../../references.bib
-csl: ../../apa.csl
+# bibliography: refs.bib
+# csl: .apa.csl
 logo: otessa-logo-CS6.png
 footer: "Special thanks to BCcampus" 
 ---
@@ -163,7 +163,7 @@ classDef design fill:#5EC962,color:#000,stroke:#5EC962,stroke-width:4px
 
 ---
 
-## Specifications
+# [Table of Specifications](https://cmadland.github.io/slides/posts/otessa25-specs/)
 
 
 

@@ -8,13 +8,17 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/cmadland
+      - icon: bluesky
+        href: https://bsky.app
 format:
   html:
     theme: cosmo
     css: styles.css
+
+# References
+bibliography: refs.bib
+csl: apa.csl
 
 
 
