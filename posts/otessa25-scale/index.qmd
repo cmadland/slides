@@ -161,6 +161,15 @@ classDef design fill:#5EC962,color:#000,stroke:#5EC962,stroke-width:4px
 - generate and refine items
 - content validity
 
+---
+
+## Specifications
+
+
+
+
+---
+
 ## Funding and Support
 
 This  research  was supported by the  BCcampus  Research  Fellows  Program, which provides B.C. post-secondary educators and students with funding to conduct small-scale research on teaching and learning, as well as explore evidence-based teaching practices that focus on student success and learning.
