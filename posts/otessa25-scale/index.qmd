@@ -165,7 +165,7 @@ classDef design fill:#5EC962,color:#000,stroke:#5EC962,stroke-width:4px
 
 # [Table of Specifications](https://cmadland.github.io/slides/posts/otessa25-specs/)
 
-
+![QR Code](OTESSA25-QR-p1.png)
 
 
 ---
