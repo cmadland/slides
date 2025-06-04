@@ -125,13 +125,6 @@ flowchart TD
 
 ---
 
-```{r}
-# Show all the data from df_gr in the output
-kable(df_gr, caption = "Traditional Gradebook") %>%
-  kableExtra::kable_styling(full_width = TRUE)
-```
-
----
 
 ```{r}
 # Calculate the mean for each student from columns 2 to 5 in df_gr
@@ -145,6 +138,15 @@ kable(student_means, caption = "Mean Grade for Each Learner") %>%
   kableExtra::kable_styling(full_width = TRUE) 
 
 ```
+
+---
+
+```{r}
+# Show all the data from df_gr in the output
+kable(df_gr, caption = "Traditional Gradebook") %>%
+  kableExtra::kable_styling(full_width = TRUE)
+```
+
 
 ---
 
