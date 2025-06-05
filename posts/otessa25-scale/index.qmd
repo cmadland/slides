@@ -2,7 +2,7 @@
 title: "OTESSA25"
 author: "Colin Madland<sup>1</sup>, Valerie Irvine<sup>1</sup>, Christopher DeLuca<sup>2</sup>, and Okan Bulut<sup>3</sup>"
 institute: "<sup>1</sup>University of Victoria, <sup>2</sup>Queens University, <sup>3</sup>University of Alberta"
-date: "2025-06-05"
+date: "2025-06-06"
 format:
   revealjs:
     multiplex: true
@@ -12,6 +12,7 @@ format:
 # csl: .apa.csl
 logo: otessa-logo-CS6.png
 footer: "Special thanks to BCcampus" 
+draft: true
 ---
 
 ## Developing the Technology-integrated Assessment Scale

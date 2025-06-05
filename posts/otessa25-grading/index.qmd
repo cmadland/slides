@@ -38,6 +38,20 @@ df_gr <- read.csv("data/pattern.csv")
 
 ---
 
+## Preliminaries
+
+- have a syllabus you are willing to share at the ready
+- trust is essential
+- community is essential
+- criticize the system, not the people
+
+---
+
+# [https://cmad.land](https://cmad.land)
+- click 'Slides'
+
+---
+
 ## [Folks, we have a problem!](https://cmadland.github.io/starch-elliott)
 
 ---
@@ -120,9 +134,12 @@ flowchart TD
     style subgraph_p3azrijwm fill:#C8E6C9
 ```
 
+
 ---
 
 ## Philosophical Foundation
+
+
 
 ---
 
@@ -211,6 +228,14 @@ Completion
 
 ---
 
+## Practicalities
+
+---
+
+## What does traditional grading hide?
+
+---
+
 
 ```{r}
 # Calculate the mean for each student from columns 2 to 5 in df_gr
@@ -225,6 +250,10 @@ kable(student_means, caption = "Mean Grade for Each Learner") %>%
 
 ```
 
+:::{.notes}
+Typically, final grades are reported as a letter or number (0-100), but this hides a tremendous amount of information about what the student actually knows or can do, or has become.
+:::
+
 ---
 
 ```{r}
@@ -233,6 +262,28 @@ kable(df_gr, caption = "Traditional Gradebook") %>%
   kableExtra::kable_styling(full_width = TRUE)
 ```
 
+
+---
+
+## Remember 'Duty of Care'
+
+- Bias
+- Inclusion
+- Relationships
+- Ethical EdTech
+
+:::{.notes}
+Start with a human approach, emphasizing trust, empathy, and relationships.
+:::
+
+---
+
+## 4 Pillars of Grading
+1. Clear objectives
+2. Helpful and actionable feedback - make a plan!
+3.  Marks indicate progress
+4.  Resubmission/Reassessment without penalty
+  
 
 ---
 

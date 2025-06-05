@@ -4,6 +4,7 @@ author: "Colin Madland"
 date: "2025-06-05"
 categories: [otessa25]
 image: "image.jpg"
+draft: true
 ---
 
 ## Table of Specifications
