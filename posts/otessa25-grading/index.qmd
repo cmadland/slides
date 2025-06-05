@@ -130,17 +130,17 @@ flowchart TD
 
 ---
 
-![](slide2.png)
+![](slide2.png){fig-alt="Four stacks of blocks starting with one block and progressively increasing by one block. This shows predictable growth in one direction."}
 
 
 ---
 
-![](slide3.png)
+![](slide3.png){fig-alt="A number of coloured blocks stacked on each other. One cluster is starting to build upwards. Another cluster is just two blocks sitting close to each other. The former represents students who achieve with assessments so are given more assessments and those beget opportunities that result in an accumulation of experiences. The two blocks sitting there represent the student who is deemed to not have achieved enough in assessments to warrant opportunities."}
 
 
 ---
 
-![](slide4.png)
+![](slide4.png){fig-alt="Blocks progressively increasing in size from 1 block to 5 blocks in a 1x block progression. This progression is an ideal and does not represent the impact of factors like postal code, total family income, native English speakers ACEs score, food, clothing, housing. "}
 
 ---
 
@@ -162,8 +162,7 @@ A[Do you make decisions?] ---> B((YES!)) ---> C{You're a Designer!}
 
 ---
 
-## Are you more concerned with Billy than you are with the 
-FALSE NEGATIVE?
+## Are you more concerned with Billy than you are with the FALSE NEGATIVE?
 
 ---
 
