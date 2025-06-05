@@ -169,9 +169,7 @@ flowchart LR
 A[Do you make decisions?] ---> B((YES!)) ---> C{You're a Designer!}
 ```
 
----
 
-## Even teacherswho say they value creativity may actually find creative characteristics undesirable.
 
 ---
 
@@ -234,6 +232,8 @@ Completion
 
 ## What does traditional grading hide?
 
+## Colin's Story
+
 ---
 
 
@@ -279,10 +279,10 @@ Start with a human approach, emphasizing trust, empathy, and relationships.
 ---
 
 ## 4 Pillars of Grading
-1. Clear objectives
-2. Helpful and actionable feedback - make a plan!
-3.  Marks indicate progress
-4.  Resubmission/Reassessment without penalty
+1. Clear objectives - what are your objectives? Who designed them?
+2. Helpful and actionable feedback in the context of a relationship
+3.  'Marks' indicate progress
+4.  'Late' submission/resubmission/reassessment without penalty
   
 
 ---
@@ -290,7 +290,7 @@ Start with a human approach, emphasizing trust, empathy, and relationships.
 ## Can we begin a community of practice today?
 
 ---
-
+<!-- 
 - 
  - Jess example of sisters
   - 1 sister - high achiever; field trip to the art museum - phd in english lit
@@ -313,4 +313,4 @@ Start with a human approach, emphasizing trust, empathy, and relationships.
 - ethics all the way down  
 - teachers' ability to design and architect the conditions to allow equity to emerge
 
-- do it in community!! 
+- do it in community!!  -->
