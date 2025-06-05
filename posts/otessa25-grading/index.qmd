@@ -125,6 +125,20 @@ flowchart TD
 
 ---
 
+![](slide2.png)
+
+
+---
+
+![](slide3.png)
+
+
+---
+
+![](slide4.png)
+
+---
+
 
 ```{r}
 # Calculate the mean for each student from columns 2 to 5 in df_gr
