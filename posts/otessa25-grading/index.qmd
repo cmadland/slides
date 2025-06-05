@@ -51,6 +51,7 @@ df_gr <- read.csv("data/pattern.csv")
 ---
 
 ```{mermaid}
+%%{init: {'theme':'dark'}}%%
 flowchart TD
         A["Technology-Integrated Assessment"]
  subgraph subgraph_2rvu6wpa7["First Order Factors"]
@@ -146,9 +147,71 @@ flowchart TD
 ## Who is a Designer?
 
 ```{mermaid}
+%%{init: {'theme':'dark'}}%%
 flowchart LR
 A[Do you make decisions?] ---> B((YES!)) ---> C{You're a Designer!}
 ```
+
+---
+
+## Even teacherswho say they value creativity may actually find creative characteristics undesirable.
+
+---
+
+## What is your tolerance for the FALSE POSITIVE?
+
+---
+
+## Are you more concerned with Billy than you are with the 
+FALSE NEGATIVE?
+
+---
+
+## If we cannot have a perfect predictor, what is the error rate that we will tolerate?
+
+---
+
+Who is accountable?  
+Who is responsible?  
+Where does the buck stop?  
+What is YOUR moral responsibility?  
+ 
+---
+
+power asymmetries  
+racial dynamics  
+mental health considerations  
+and other challenges  
+
+---
+
+## When do we apply ethics?
+
+---
+
+## What you measure is what you value
+
+\# of logins  
+Time of submission  
+“success” / absence of failure  
+Completion  
+“diversity”  
+
+---
+
+## Who do the rules limit?
+
+- We all are limited by rules  
+- No exceptions  
+- You must report on your department’s success using these measures  
+- Only English speakers can learn from this material  
+- Only graduate students can take this course  
+- Your thoughts must be organized in a 5 paragraph essay  
+- You cannot use Wikipedia as a reference  
+ 
+
+---
+
 
 ```{r}
 # Calculate the mean for each student from columns 2 to 5 in df_gr
@@ -174,6 +237,11 @@ kable(df_gr, caption = "Traditional Gradebook") %>%
 
 ---
 
+## Can we begin a community of practice today?
+
+---
+
+- 
  - Jess example of sisters
   - 1 sister - high achiever; field trip to the art museum - phd in english lit
   - middle sister - loved art; not as good as #1 in academics, was not invited to art museum - went on to get masters at Sorbonne

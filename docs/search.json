@@ -39,7 +39,63 @@
     "href": "posts/otessa25-grading/index.html#who-is-a-designer",
     "title": "Assessment for Equity",
     "section": "Who is a Designer?",
-    "text": "Who is a Designer?\n\n\n\n\n\nflowchart LR\nA[Do you make decisions?] ---&gt; B((YES!)) ---&gt; C{You're a Designer!}\n\n\n\n\n\n\n\n\n\nMean Grade for Each Learner\n\n\nstudent\nMean\n\n\n\n\nStudent1\n75\n\n\nStudent2\n75\n\n\nStudent3\n75\n\n\nStudent4\n75"
+    "text": "Who is a Designer?\n\n\n\n\n\n%%{init: {'theme':'dark'}}%%\nflowchart LR\nA[Do you make decisions?] ---&gt; B((YES!)) ---&gt; C{You're a Designer!}"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#even-teachers-who-say-they-value-creativity-may-actually-find-creative-characteristics-undesirable.",
+    "href": "posts/otessa25-grading/index.html#even-teachers-who-say-they-value-creativity-may-actually-find-creative-characteristics-undesirable.",
+    "title": "Assessment for Equity",
+    "section": "Even teachers\u000bwho say they value creativity may actually find creative characteristics undesirable.\u000b",
+    "text": "Even teachers\u000bwho say they value creativity may actually find creative characteristics undesirable."
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#what-is-your-tolerance-for-the-false-positive",
+    "href": "posts/otessa25-grading/index.html#what-is-your-tolerance-for-the-false-positive",
+    "title": "Assessment for Equity",
+    "section": "What is your tolerance for the FALSE POSITIVE?",
+    "text": "What is your tolerance for the FALSE POSITIVE?"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#are-you-more-concerned-with-billy-than-you-are-with-the",
+    "href": "posts/otessa25-grading/index.html#are-you-more-concerned-with-billy-than-you-are-with-the",
+    "title": "Assessment for Equity",
+    "section": "Are you more concerned with Billy than you are with the",
+    "text": "Are you more concerned with Billy than you are with the\nFALSE NEGATIVE?"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#if-we-cannot-have-a-perfect-predictor-what-is-the-error-rate-that-we-will-tolerate",
+    "href": "posts/otessa25-grading/index.html#if-we-cannot-have-a-perfect-predictor-what-is-the-error-rate-that-we-will-tolerate",
+    "title": "Assessment for Equity",
+    "section": "If we cannot have a perfect predictor, what is the error rate that we will tolerate?",
+    "text": "If we cannot have a perfect predictor, what is the error rate that we will tolerate?"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#when-do-we-apply-ethics",
+    "href": "posts/otessa25-grading/index.html#when-do-we-apply-ethics",
+    "title": "Assessment for Equity",
+    "section": "When do we apply ethics?",
+    "text": "When do we apply ethics?"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#what-you-measure-is-what-you-value",
+    "href": "posts/otessa25-grading/index.html#what-you-measure-is-what-you-value",
+    "title": "Assessment for Equity",
+    "section": "What you measure is what you value",
+    "text": "What you measure is what you value\n# of logins\nTime of submission\n“success” / absence of failure\nCompletion\n“diversity”"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#who-do-the-rules-limit",
+    "href": "posts/otessa25-grading/index.html#who-do-the-rules-limit",
+    "title": "Assessment for Equity",
+    "section": "Who do the rules limit?",
+    "text": "Who do the rules limit?\n\nWe all are limited by rules\n\nNo exceptions\n\nYou must report on your department’s success using these measures\n\nOnly English speakers can learn from this material\n\nOnly graduate students can take this course\n\nYour thoughts must be organized in a 5 paragraph essay\n\nYou cannot use Wikipedia as a reference"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#can-we-begin-a-community-of-practice-today",
+    "href": "posts/otessa25-grading/index.html#can-we-begin-a-community-of-practice-today",
+    "title": "Assessment for Equity",
+    "section": "Can we begin a community of practice today?",
+    "text": "Can we begin a community of practice today?"
   },
   {
     "objectID": "posts/deck-otessa24/index.html#evolving-our-understanding-of-technology-integrated-assessment-a-review-of-the-literature-and-development-of-a-new-framework",
