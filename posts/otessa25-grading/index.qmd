@@ -38,7 +38,11 @@ df_gr <- read.csv("data/pattern.csv")
 
 ---
 
-# Theoretical Foundation
+## [Folks, we have a problem!](https://cmadland.github.io/starch-elliott)
+
+---
+
+## Theoretical Foundation
 
 ---
 
@@ -117,11 +121,11 @@ flowchart TD
 
 ---
 
-# Philosophical Foundation
+## Philosophical Foundation
 
 ---
 
-# Jess' Story
+## Jess' Story
 
 ---
 
@@ -139,6 +143,12 @@ flowchart TD
 
 ---
 
+## Who is a Designer?
+
+```{mermaid}
+flowchart LR
+A[Do you make decisions?] ---> B((YES!)) ---> C{You're a Designer!}
+```
 
 ```{r}
 # Calculate the mean for each student from columns 2 to 5 in df_gr
