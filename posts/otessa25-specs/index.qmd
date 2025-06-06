@@ -4,7 +4,6 @@ author: "Colin Madland"
 date: "2025-06-05"
 categories: [otessa25]
 image: "image.jpg"
-draft: true
 ---
 
 ## Table of Specifications
@@ -37,7 +36,16 @@ draft: true
 
 ### Assessment of learning
 
-~~- factored into a final grade~~ - occurs after learning - certification of proficiency - communication of proficiency (learners, other institutions, agencies) - expressed symbolically - used to rank learners ~~- (hodge-podge) symbols that conflate achievement and behaviour~~ - quantitative - often uses security measures to prevent academic dishonesty - The teacher is responsible for assessment
+~~- factored into a final grade~~ 
+- occurs after learning   
+- certification of proficiency -    
+- communication of proficiency (learners, other institutions, agencies)  
+- expressed symbolically   
+- used to rank learners   
+- ~~- (hodge-podge) symbols that conflate achievement and behaviour~~   
+- quantitative   
+- often uses security measures to prevent academic dishonesty   
+- The teacher is responsible for assessment  
 
 #### Possible questions
 
@@ -385,6 +393,359 @@ Presuming you decide to use technology, how likely are you to take the following
 | | Measurement Theory | Examine assessment data to ensure content and construct validity. | 
 | | Relevance | | 
 | | Reciprocity | |
+
+## Questionnaire
+
+
+##### Part A: Demographics
+
+1. Contact Information (only for prize draw)
+   1. Name
+   2. Email
+3.  At which institution do you primarily teach?
+   - British Columbia Institute of Technology
+   - Camosun College
+   - Capilano University
+   - Douglas College
+   - Kwantlen Polytechnic University
+   - Langara College
+   - Royal Roads University
+   - Simon Fraser University
+   - Thompson Rivers University
+   - University of British Columbia
+   - University of British Columbia Okanagan
+   - University of Fraser Valley
+   - University of Northern British Columbia
+   - University of Victoria
+   - Vancouver Island University
+2. What best describes your role?
+    - {{IF}} Research faculty (research, teaching, service)
+    - {{IF}} Teaching faculty (teaching, service)
+    - Sessional or adjunct
+    - Other, please specify
+3.  {{THEN}} What best describes your status at your institution? 
+    - Limited Term
+    - Pre-tenure
+    - Tenured
+    - Other, please specify.
+4. When we describe who participated in our study, which ethnic background category should we include you in? 
+<!--open-ended or drop – send to chris – would we get a hard time from a journal if we try to publish without gender or ethnic info
+    - Black (e.g., African, Afro-Caribbean)
+    - East Asian (e.g., Chinese, Korean, Japanese, Taiwanese)
+    - Lantino/x/a, South, Central American, or Caribbean, Hispanic
+    - West Asian or Arab (e.g., Lebanese, Afghan, Egyptian, Iranian, Armenian, etc.)
+    - South Asian (e.g., Indian, Pakistani, Sri Lankan, Indo-Caribbean, etc.)
+    - Southeast Asian (e.g., Filipino, Vietnamese, Cambodian, Thai, etc.)
+    - White (European ancestry)
+    - Multi-ethnic and/or mixed ethnicities
+    - Indigenous (e.g., First Nations, Inuit, Métis, Native American, Alaska Native)
+    - Prefer not to answer.
+    - Identify my cultural background as something else:
+-->
+1. Please indicate your age group:
+    - 18-24
+    - 25-34
+    - 35-44
+    - 45-54
+    - 55-64
+    - 65+
+2. Sometimes we want to look at similarities and differences across gender groupings, which can help to understand the specific needs of a group. Which gender category should we include you in?  <!--//todo #24-->
+- Woman
+- Transgender woman
+- Man
+- Transgender man
+- Nonbinary
+- Two-Spirit
+- Genderqueer
+- Prefer not to answer
+- None of these apply to me. I would like to be categorized as:
+
+
+##### Part B: Survey Questions by Construct
+
+<!--
+//todo #17
+-->
+
+Please rate your level of agreement or disagreement with each statement.
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+###### Assessment of Learning
+
+<!--
+Assessment *of* learning is what we typically call *summative assessment* where the intent of the assessment is to certify whether or not learners have achieved the learning outcomes. It occurs at the end of the learning experience and does not have an impact on future teaching or learning. Assessment of learning results in a symbolic representation of each learner's level of achievement. Symbols, usually letter grades or percentages, are used to communicate with learners, other institutions, regulatory agencies, and other external stakeholders, and are permanent records associated with learners. They are often used to rank learners for the purposes of scholarships and awards, entry into further education, and sometimes for employment purposes.
+
+-->
+- The primary purpose of assessment is to assign a grade to student work. 
+- Assessment involves instructors making judgements about how well a student is learning *in relation to other learners*.
+- Instructors should provide a letter or percentage grade for every assignment.
+- Assessment results should be used to certify student achievement for reporting purposes.
+- Assessment should occur only *at the end* of a learning experience or unit.
+
+###### Assessment for Learning
+
+<!--
+Assessment *for* learning refers to activities within a learning experience that are designed to provide information on a learner's current level of achievement. This information is then used to inform future teaching and learning activities. Current levels of achievement are considered to be temporary and can be overridden by future demonstrations of achievement. Both instructors and learners benefit from the ongoing process of opening and closing feedback loops [@carlessFeedbackLoopsLongerterm2019], which require feedback to be actively used to improve learning.
+
+-->
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Learners should have the opportunity to revise and resubmit assessed work to demonstrate progress.
+- Instructors should provide learners with opportunities to check their understanding throughout the course (e.g., ungraded quizzes, exit slips).
+- Assessment involves the instructor judging a student’s performance *in relation to a set of goals/standards/criteria*.
+<!--
+- The purpose of assessment is to improve student learning.
+- The results of assessment should inform future teaching. 
+- 
+-->
+
+###### Assessment as Learning
+
+<!--
+Assessment *as* learning is the process of learners developing the skill of "evaluative judgement" [@boudAssessmentaslearningDevelopmentStudents2021], which is the ability of learners to judge their own level of achievement in relation to the learning outcomes. It is a reflexive process whereby learners consider the results of their learning strategies and develop more effective strategies to enhance their performance. Assessment *as* learning allows learners to construct meaning from their experiences, identify gaps in their own knowledge, and to make meaningful decisions about their level of proficiency. Assessment *as* learning requires learners to be able to discern quality, judge learning processes, manage their biases, assess the trustworthiness of sources and seek opportunities for practice [@boudAssessmentaslearningDevelopmentStudents2021].
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Assessment should allow learners to consider their own work in relation to exemplars.
+- Instructors should provide self-assessment opportunities to help learners recognize and address gaps in their learning.
+- Assessment should involve learners reflecting on their learning strategies.
+- Learners should evaluate their own work.
+
+###### Bias
+
+<!--
+Bias refers to the psychometric term where one group of learners is systematically advantaged or disadvantaged relative to other groups of learners (e.g., Caucasian learners as a group perform better than Asian learners as a group on an assessment due to some characteristic beyond their control) while the ability of each group is the same [@woo2023]. Bias can result from either the inclusion of construct-irrelevant content (e.g., considering learner age when assessing their ability) or the omission of construct-relevant content resulting in variance in scores.
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Instructors have a responsibility to ensure subgroups (e.g., ethnicities, genders, etc) are not assigned systematically higher or lower grades.
+- Learners should not be given full credit for work submitted past the due date.
+- Instructors should examine their position in power structures in relation to assessing learning.
+- Assessment can be harmful to some learners more than others.
+- When assessing learning, instructors have a responsibility to recognize and uphold the dignity and value of all learners. 
+<!--- Assessment should uphold equity. //todo #21-->
+
+###### Inclusion
+
+<!--
+Inclusion involves recognizing marginalized learners as having equitable agency in a learning community [@nieminen2024]. Marginalization can be based on a wide variety of factors and includes items listed in &sect; 3.1 of the *Canadian Human Rights Act* [@ministerofjusticeCanadianHumanRights1985]. 
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Instructors should avoid using technology for assessment that may make it difficult for learners requiring accommodation to participate.
+- Instructors should provide learners with multiple options (e.g., written paper, oral presentation, or video) for demonstrating their achievement in relation to the learning outcomes.
+- Assessment accommodations should be offered proactively to all learners.
+- Assessment accommodations and strategies for inclusion should be co-designed by instructors and learners with disabilities.
+- An assessment can be waived for a learner when necessary to provide accommodations.
+<!--
+- Assessment tasks should promote interdependence between abled and disabled learners.
+-->
+
+###### Relationships
+
+<!--
+Relationship is intended to highlight the importance of designing assessment to foster positive relations between instructors and learners, learners and others in the class, learners and their individual communities [@tessaroFiveIndigenizingOnline2018], and learners and society as a whole [@nieminenDesigningDigitalAuthentic2022].
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Assessment should be flexible to incorporate developing positive relationships between learners and their communities.
+-  Assessment practices should foster relationships between learners in the course. 
+-  Assessment practices should foster relationships between the instructor and learners in the course.
+- When assessing learning, instructors should know and understand learners' cultural backgrounds.
+- When assessing learning, instructors should know and understand learners’ personal contexts and challenges.
+- It is important to encourage teamwork, collaboration, cooperation and other similar skills.
+- It is important to foster relationships throughout a course so that learners feel comfortable supporting each other in assessment tasks.
+<!--
+- Assessment of group tasks should include both individual and group accountability.
+
+-->
+
+###### Ethical EdTech
+
+<!--
+Instructors who use technologies for assessment are obligated to do so in alignment with appropriate codes of ethics. Statements of professional ethics can be related to expectations common to all instructors, such as ensuring that student data is not accessible to third party vendors or advertisers, and they can also be discipline-specific, such as ensuring that physical activity-tracking technology does not disclose learner locations inappropriately [@spectorEthicsEducationalTechnology2016]. Professional ethics involve obligations to individual learners, to society, and to the profession of teaching  
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Assessment technology tools should protect learners' privacy. 
+- Assessment technologies should respect the laws and norms of diverse regions.
+- Learners should be able to provide informed consent to use assessment technologies outside of institutionally supported tools.
+- Learners should be able to opt out of assessment technologies that could cause them harm.
+- I have ethical concerns about using technology for assessment.
+- Automated tools (e.g., artificial intelligence, etc) that replace human decision-making should not be used to assess learner performance.
+
+<!--
+- Inappropriate use of technology for assessment can damage the profession of teaching in higher education.
+
+Mistrust in alogrithm… proctorio racist…
+concerns about all learners having a fair treatment when engaging in technology required for assessment
+Concers around enterprise-level software that treat all learners the same, when some might be marginalized by the algorithms built in… ..
+
+-->
+###### Measurement
+
+<!--
+Educational measurement is a quantitative approach to generating inferences about learner ability, often known as psychometrics. A foundational idea of psychometrics is that the end result of assessment is always an *inference* or an *interpretation* about learner ability based on data collected through various tasks; it is not a direct measurement of a quantity of ability [@pellegrinoKnowingWhatStudents2001]. In order for inferences of learner ability to be accurate interpretations, they must be valid, reliable, and fair.
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Assessment results should be similar across time and across diverse groups of learners.
+- Assessment results should lead to accurate interpretations about what learners know.
+- Assessment should only cover what is taught in class.
+- Grades should reflect only what learners know.
+- Oral conversations are a valid form of assessment.
+- Assessment tasks should be the same for all learners.
+- Assessment accommodations are unfair to the rest of the students in the class
+
+<!--
+- Assessment data should be analyzed for statistical strength.
+- Assessment tasks and items should be revised or dropped if they do not show sufficient validity.
+- Assessment tasks and items should be revised or dropped if they do not show sufficient reliability.
+-->
+
+###### Academic Integrity
+
+<!--
+Modern conceptions of academic integrity encompass a comprehensive range of values and behaviours, including: everyday ethics, institutional ethics, ethical leadership, professional and collegial ethics, instructional ethics, student academic conduct, research integrity and ethics, and publication ethics [@eatonComprehensiveAcademicIntegrity2024]. This description goes beyond ethical learner conduct and extends to the ethical conduct of instructors in the context of instruction and assessment. Dawson [-@dawsonValidityMattersMore2024] argues that academic integrity is key to instructors being able to derive valid inferences from learner performance.
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Learners should complete assessment tasks without the use of automated tools (e.g., artificial intelligence).
+- Automated software should be used to check for academic misconduct.
+- Assigning grades that do not reflect what a learner knows is an act of academic dishonesty.
+- If a student was not taught content, then it should not appear on an assessment.
+- Conducting an assessment when a learner is experiencing personal distress is not appropriate. <!--this is commentary on relational aspect of asmt-->
+- Conducting an assessment that is not in line with learners' accommodation needs is not teaching with integrity.
+
+<!--
+- Assessment tasks should be designed to minimize the likelihood of academic misconduct.
+- Acadmic misconduct reduces the validity of inferences drawn from assessment data.
+
+-->
+
+###### Relevance
+
+<!--
+Assessment practice ought to be relevant to the culture of the learner. In Indigenous learning contexts, this suggests an emphasis on oral communication and learning in a community context [@tessaroFiveIndigenizingOnline2018]. We extend this argument and assert that oral communication is a key factor in ensuring ethical practice in any context. 
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Assessment should be relevant to learners' contexts (e.g., their culture and interests, their larger community, their career goals).
+- Whenever possible, assessment tasks should allow learners to apply their learning to their own context.
+- Assessment strategies should be flexible to allow for learners to contextualize their work.
+- Assessment tasks should allow learners to demonstrate their knowledge in ways that matter to them.
+- Assessment tasks should allow learners to make meaningful contributions to society.
+- Assessment tasks should provide opportunities for learners to enrich their local communities.
+
+
+<!--
+- Assessment tasks should allow learners to do meaningful work in their career.
+
+--> 
+
+###### Reciprocity
+
+<!--
+Reciprocity refers to the idea that assessment with technology should enrich both learners and instructors, as well as the learners' communities [@tessaroFiveIndigenizingOnline2018]. Reciprocity must be an intentional component of the design of assessment strategies [@rodriguez-trianaInstructionStudentEngagement2020].
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Learners should have the opportunity to influence the course learning outcomes.
+- Learners should have the opportunity to have input on the design of assessment tasks.
+- Final grades should be determined in consultation between instructors and learners.
+-  Assessment should be reciprocal, fostering personal growth among both instructors and students.
+-  Instructors should be open to their students bringing new ideas or perspectives to the content through assessment.
+
+
+<!--
+- Assessment tasks should provide opportunity for learners to enrich their local communities.
+-->
+
+###### Performance Expectancy 
+
+<!--
+Performance expectancy relates to the technology user's perception that the technology will enable them to perform their job or task at a higher level, it will save them time, or it will reduce the amount of time they need to spend on some tasks [@venkatesh2003].
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Assessing learning with technology would help me manage my assessment workload.
+- Using technology would improve my assessment practice.
+- I would find technology useful for assessing learning.
+- Using technology for assessment would help me do a more accurate job of assessing learning.
+- Using technology for assessment would help learners better understand their assessment.
+
+
+<!--
+- Technology-integrated assessment tasks would increase learners' understanding of the course concepts.
+-->
+
+
+###### Effort Expectancy 
+
+<!--
+Effort expectancy relates to the ease of use of the technology. Ease of use is most salient among older women who have less experience with the technology, and it decreases in importance for all users with sustained use [@venkatesh2003].
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Using technology for assessment is easy for me.
+- Learning how to use technology for assessment would be easy for me.
+- Assessing learning with technology would increase my workload. {{reverse coded}}
+- Learning to use technology for assessment would be too much work. {{reverse coded}}
+
+
+###### Social Influences 
+
+<!--
+Social influence is the degree to which other people who are important to the user think that they should use the technology. When use of the technology is voluntary, social influence is not a significant factor in predicting acceptance, but when use is mandatory, social influences seem to increase compliance [@venkatesh2003].
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- Learners in my classes think that I should use technology for assessment.
+- People who are important to me think I should use technology for assessment.
+- Colleagues at my institution encourage me to use technology for assessment.
+- Colleagues in my discipline who are outside my institution think I should use technology for assessment.
+- My institution encourages the use of technology for assessment.
+- Administrators at my institution think I should use technology for assessment.
+
+###### Facilitating Conditions 
+
+<!--
+Facilitating conditions are related to the user's belief that there will be sufficient institutional support in using the technology. When both performance and effort expectancy are high (the technology will improve outcomes with minimal effort), the facilitating conditions construct becomes less significant [@venkatesh2003]
+
+-->
+
+Strongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree
+
+- My institution would support me in assessing learning with technology
+- My institution would help me offer quality technology-integrated assessment.
+- In general, my institution would be supportive of technology-integrated assessment.
+- I would have the resources necessary to use technology for assessment (e.g., equipment, internet access, etc.).
+- Help would be available if I experience difficulties with technology-integrated assessment.
 
 ## References
 

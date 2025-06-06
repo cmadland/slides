@@ -12,7 +12,6 @@ format:
 # csl: .apa.csl
 logo: otessa-logo-CS6.png
 footer: "Special thanks to BCcampus" 
-draft: true
 ---
 
 ## Developing the Technology-integrated Assessment Scale
@@ -178,7 +177,9 @@ Note: Archived /WIP/
 
 # [Draft Questions](https://cmadland.github.io/slides/posts/otessa25-specs/#draft-1-scenario-based-questions)
 
+---
 
+# [Pilot Questions]()
 
 ## Funding and Support
 
