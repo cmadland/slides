@@ -131,11 +131,11 @@ classDef design fill:#5EC962,color:#000,stroke:#5EC962,stroke-width:4px
 ## Differentiation
 
 - 5Rs of Indigenous Education [@tessaroFiveIndigenizingOnline2018]
-  - Respect
+  - Relationship
+  - Respect  
+  - Responsibility
   - Relevance
   - Reciprocity
-  - Responsibility
-  - Relationship
 
 ---
 
