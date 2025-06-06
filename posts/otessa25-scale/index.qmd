@@ -12,6 +12,7 @@ format:
 # csl: .apa.csl
 logo: otessa-logo-CS6.png
 footer: "Special thanks to BCcampus" 
+freeze: false
 ---
 
 ## Developing the Technology-integrated Assessment Scale
@@ -189,6 +190,23 @@ Note: Archived /WIP/
 
 # [Pilot Questions](https://cmadland.github.io/slides/posts/otessa25-specs/#questionnaire)
 
+---
+
+# Content Validity
+
+## Expert Reviews
+
+---
+
+# Next Steps
+
+- pilot study @UVic
+- scale revisions
+  - 3 items per construct
+- Survey administration acros BC PSE
+
+---
+
 ## Funding and Support
 
 This  research  was supported by the  BCcampus  Research  Fellows  Program, which provides B.C. post-secondary educators and students with funding to conduct small-scale research on teaching and learning, as well as explore evidence-based teaching practices that focus on student success and learning.
@@ -198,49 +216,3 @@ This  research  was supported by the  BCcampus  Research  Fellows  P
 ::: {#refs}
 :::
 
-
-
-<!--
-## Consolidating
-::: r-hstack
-::: {data-id="box1" auto-animate-delay="0" style="background: #5EC962; width: 200px; height: 150px; border-radius: 30px; margin: 10px; font-color: #ffffff;" title="Workload;"}
-:::
-Workload
-
-::: {data-id="box2" auto-animate-delay="0.1" style="background: #21918C; width: 200px; height: 150px; border-radius: 30px; margin: 10px;" title="Efficiency;"}
-:::
-Efficiency
-:::
-
-## Consolidating {auto-animate="true" auto-animate-easing="ease-in-out"}
-
-::: r-hstack
-::: {data-id="box1" auto-animate-delay="0" style="background: #5EC962; width: 200px; height: 150px; border-radius: 30px; margin: 10px; font-color: #ffffff;" title="Technology Acceptance;"}
-
-:::
-
-::: {data-id="box2" auto-animate-delay="0.1" style="background: #21918C; width: 200px; height: 150px; border-radius: 30px; margin: 10px;"}
-
-:::
-:::
-
-
-##  {auto-animate="true" auto-animate-easing="ease-in-out"}
-
-::: r-stack
-::: {data-id="box1" style="background: #ffffff; width: 200px; height: 150px; border-radius: 30px; margin: 10px;"}
-:::
-
-::: {data-id="box2" auto-animate-delay="0.1" style="background: #21918C; width: 200px; height: 150px; border-radius: 30px; margin: 10px;" title="Technology Acceptance"}
-
-:::
-:::
-
-## test
-::: r-hstack
-::: {data-id="box1" auto-animate-delay="0" style="background: #21918C; width: 200px; height: 150px; border-radius: 30px; margin: 10px; font-color: #ffffff;" title="Technology Acceptance"}
-:::
-:::
-Technology Acceptance
-
--->
