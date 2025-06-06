@@ -4,6 +4,7 @@ author: "Colin Madland"
 date: "2025-06-05"
 categories: [otessa25]
 image: "image.jpg"
+# references: ../../references.bib
 ---
 
 ## Table of Specifications
@@ -65,7 +66,7 @@ Have you engaged in the following assessment practices:
 -   occurs multiple times during learning
 -   depends on teachers diagnostic skills
 -   the teacher is responsible for assessment
--   focus is on improving learning [@earl2014]
+-   focus is on improving learning [@earlChallengingConceptionsAssessment2014]
 
 #### Possible questions
 
@@ -79,7 +80,7 @@ Have you engaged in the following assessment practices:
 
 ### Assessment as Learning
 
-The key characteristic of assessment as learning is that learners are challenged to monitor and reflect on their own progress relative to the course outcomes [@boudAssessmentaslearningDevelopmentStudents2021]. This extends beyond simple self-assessment as it requires learners to engage in multiple complex tasks such as being able to recognize quality in light of stated outcomes, evaluate the quality of their own work, consider the effect of their own biases, determine whether or not a resource or other person is trustworthy, and identify areas in need of practice [@boudCreatingAgendaDeveloping2018]. Understanding and being able to recognize quality involves learners developing a clear framework or conceptualization of the domain of knowledge or skill being explored in the unit, course, or program [@ajjawi2018].
+The key characteristic of assessment as learning is that learners are challenged to monitor and reflect on their own progress relative to the course outcomes [@boudAssessmentaslearningDevelopmentStudents2021]. This extends beyond simple self-assessment as it requires learners to engage in multiple complex tasks such as being able to recognize quality in light of stated outcomes, evaluate the quality of their own work, consider the effect of their own biases, determine whether or not a resource or other person is trustworthy, and identify areas in need of practice [@boudCreatingAgendaDeveloping2018]. Understanding and being able to recognize quality involves learners developing a clear framework or conceptualization of the domain of knowledge or skill being explored in the unit, course, or program [@ajjawiConceptualisingEvaluativeJudgement2018].
 
 -   learners monitor their own learning
 -   learners make their own adjustments based on their analysis of their proficiency
@@ -394,7 +395,7 @@ Presuming you decide to use technology, how likely are you to take the following
 | | Relevance | | 
 | | Reciprocity | |
 
-## Questionnaire
+## Pilot Questions
 
 
 ##### Part A: Demographics

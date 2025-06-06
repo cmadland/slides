@@ -12,7 +12,8 @@ format:
 # csl: .apa.csl
 # logo: otessa-logo-CS6.png
 footer: "cmadland@uvic.ca | jmitchell@ocadu.ca" 
-freeze: false
+freeze: true
+toc: true
 ---
 
 

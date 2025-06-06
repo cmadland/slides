@@ -1,5 +1,5 @@
 ---
-title: "OTESSA25"
+title: "Technology-integrated Assessment Scale"
 author: "Colin Madland<sup>1</sup>, Valerie Irvine<sup>1</sup>, Christopher DeLuca<sup>2</sup>, and Okan Bulut<sup>3</sup>"
 institute: "<sup>1</sup>University of Victoria, <sup>2</sup>Queens University, <sup>3</sup>University of Alberta"
 date: "2025-06-06"
@@ -20,16 +20,19 @@ footer: "Special thanks to BCcampus"
 
 Our team is spread across most of the country and we each live and work on land that has been cared for by Indigenous people for millenia. We each acknowledge that our abundant lives were made possible because of the displacement of the original stewards of the land.
 
-::: {.notes}
+---
 
-:::
+# [https://cmad.land](https://cmad.land)
+- click 'Slides'
 
-# Background
 
-## OTESSA24
+---
+
+## Background - OTESSA24
 
 ### [Evolving our understanding of technology-integrated assessment: A review of the literature and development of a new framework](https://cmadland.github.io/slides/posts/deck-otessa24)
 
+---
 
 ## Two Papers
 
@@ -38,8 +41,9 @@ Our team is spread across most of the country and we each live and work on land 
 - Madland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024a). Developing the Technology-Integrated Assessment Framework. *The Open/Technology in Education, Society, and Scholarship Association Journal, 4*(1), 1–19. <https://doi.org/10.18357/otessaj.2024.4.1.63>
 
 
+---
 
-# Technology-integrated Assessment Framework (TIAF)
+## Technology-integrated Assessment Framework (TIAF)
 
 ## 4 Components
 
@@ -93,9 +97,11 @@ Purposes of Assessment
 :::
 :::
 
-## 
+--- 
 
 ![Full Model](tiaf-q-full.drawio.png)
+
+---
 
 ## Alt-View
 ```{mermaid}
@@ -118,6 +124,8 @@ classDef design fill:#5EC962,color:#000,stroke:#5EC962,stroke-width:4px
   class E,Q,R,S,T design
 
 ```
+
+---
 
 ## Differentiation
 
@@ -150,7 +158,7 @@ classDef design fill:#5EC962,color:#000,stroke:#5EC962,stroke-width:4px
 
 ---
 
-# Analysis
+## Analysis
 
 ---
 
@@ -179,7 +187,7 @@ Note: Archived /WIP/
 
 ---
 
-# [Pilot Questions]()
+# [Pilot Questions](https://cmadland.github.io/slides/posts/otessa25-specs/#questionnaire)
 
 ## Funding and Support
 
