@@ -200,7 +200,7 @@ Note: Archived /WIP/
 
 # Next Steps
 
-- pilot study @UVic
+- pilot study \@UVic
 - scale revisions
   - 3 items per construct
 - Survey administration acros BC PSE
