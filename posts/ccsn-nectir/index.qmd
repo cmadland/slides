@@ -1,0 +1,73 @@
+---
+title: "nectir.ai at TWU"
+author: "Colin Madland"
+date: "2025-06-12"
+categories: [ai, nectir.ai]
+image: "feet.jpg"
+format:
+  revealjs:
+    multiplex: true
+    incremental: true
+    theme: night
+# bibliography: refs.bib
+# csl: .apa.csl
+# logo: otessa-logo-CS6.png
+footer: "colin.madland@twu.ca | <https://cmad.land>" 
+freeze: false
+toc: true
+toc-title: "Agenda"
+link-external-icon: true
+---
+
+## nectir.ai 
+
+- pilot implementation in a set of 3 asynchronous courses
+
+:::{.notes}
+wondering if you can speak to just the high level what we did, and how we customized the AI tool. Looking at the analytics it's not being used too much, so not too much to report on, but we can at least speak to our attempt to make a custom course specific AI assistant.
+:::
+
+---
+
+## Set-up
+
+![Screenshot of nectir.ai details in Moodle.](nectirai.png)
+
+---
+
+## UX
+
+![Screenshot of nectir.ai user experience.](nectirai-ux.png)
+
+---
+
+## Settings
+
+![Screenshot of nectir.ai settings.](nectirai-settings.png)
+
+---
+
+## Knowledge and Data Settings
+
+::: {.columns}
+::: {.column}
+![Screenshot of nectir.ai knowledge.](nectirai-knowledge.png)
+:::
+::: {.column}
+ ![Screenshot of nectir.ai data settings.](nectirai-data.png)
+:::
+:::
+
+
+
+
+# [Prompt](https://cmadland.github.io/slides/posts/prompt)
+
+---
+
+## Advanced Settings
+
+ ![Screenshot of nectir.ai advanced settings.](nectirai-advanced.png)
+
+ ---
+
