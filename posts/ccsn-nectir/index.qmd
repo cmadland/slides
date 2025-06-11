@@ -3,7 +3,7 @@ title: "nectir.ai at TWU"
 author: "Colin Madland"
 date: "2025-06-12"
 categories: [ai, nectir.ai]
-image: "feet.jpg"
+image: "bike.jpg"
 format:
   revealjs:
     multiplex: true
