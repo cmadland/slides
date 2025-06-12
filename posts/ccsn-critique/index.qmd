@@ -23,6 +23,11 @@ link-external-icon: true
 
 ---
 
+[cmad.land](https://cmad.land)
+- slides
+
+---
+
 ## Why is genAI compelling? 
 
 ::: {.columns}
@@ -35,6 +40,8 @@ link-external-icon: true
 - we naturally pretend that there is agency behind seemingly sensible outputs
 :::
 ::: 
+
+# What is intelligence?
 
 ---
 
