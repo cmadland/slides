@@ -14,8 +14,8 @@ csl: ../../apa.csl
 # logo: otessa-logo-CS6.png
 footer: "colin.madland@twu.ca | <https://cmad.land>" 
 freeze: false
-toc: true
-toc-title: "Agenda"
+# toc: true
+# toc-title: "Agenda"
 link-external-icon: true
 ---
 
@@ -27,10 +27,12 @@ link-external-icon: true
 
 ::: {.columns}
 ::: {.column}
-*imago dei*
+***IMAGO DEI***
 :::
 ::: {.column}
-anthropomorphosis
+**ANTHROPOMORPHOSIS**
+
+- we naturally pretend that there is agency behind seemingly sensible outputs
 :::
 ::: 
 
@@ -40,18 +42,67 @@ anthropomorphosis
 
 ::: {.columns}
 ::: {.column}
-regression
+**REGRESSION**
 :::
 ::: {.column}
-probability
+**PROBABILITY**
 :::
 :::
 
 
 
-# ~~truth~~
+# genAI and the truth
 
-# bullshit
-[@frankfurtBullshit2005]
+# genAI as a mirror
 
-# hallucinations
+- the only basis for an output is historical data with all its embedded biases, but amplified
+
+
+
+---
+
+::: {.columns}
+::: {.column}
+**HALLUCINATIONS**
+
+- genAI is not capable of generating 'hallucinations', which are errors in perception
+- genAI contains no mind with which to perceive anything
+  
+:::
+::: {.column}
+**LIES**
+
+- likewise, genAI is not capable of lying, which requires a knowing departure from the truth
+- genAI has no mind with which to apprehend the truth of anything nor to exercise agency
+:::
+::: 
+
+---
+
+# bullshenanigans
+- bullshenanigans do not require any grounding in reality, it is simply extruded to fill a gap, or 'flood the zone' [@frankfurtBullshit2005]
+
+---
+
+## Sources of BS [@jiSurveyHallucinationNatural2023]
+
+- bad data
+- bad inferences from training
+- bad encoding
+- previous BS
+
+---
+
+## Mitigating BS
+
+- good data 
+- good training
+- good encoding
+- there's nothing you can do, BS is inevitable
+
+## Dealing with BS
+
+- human fact-checking
+- having two chatbots respond to each other's output until they align (!?)
+
+---

@@ -431,14 +431,42 @@
     "href": "posts/ccsn-critique/index.html#why-is-genai-compelling",
     "title": "AI for Faculty and Admin",
     "section": "Why is genAI compelling?",
-    "text": "Why is genAI compelling?\n\n\nimago dei\n\nanthropomorphosis"
+    "text": "Why is genAI compelling?\n\n\nIMAGO DEI\n\nANTHROPOMORPHOSIS\n\nwe naturally pretend that there is agency behind seemingly sensible outputs"
   },
   {
     "objectID": "posts/ccsn-critique/index.html#what-is-genai-doing",
     "href": "posts/ccsn-critique/index.html#what-is-genai-doing",
     "title": "AI for Faculty and Admin",
     "section": "What is genAI doing?",
-    "text": "What is genAI doing?\n\n\nregression\n\nprobability"
+    "text": "What is genAI doing?\n\n\nREGRESSION\n\nPROBABILITY"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#sources-of-bs-jisurveyhallucinationnatural2023",
+    "href": "posts/ccsn-critique/index.html#sources-of-bs-jisurveyhallucinationnatural2023",
+    "title": "AI for Faculty and Admin",
+    "section": "Sources of BS (Ji et al., 2023)",
+    "text": "Sources of BS (Ji et al., 2023)\n\nbad data\nbad inferences from training\nbad encoding\nprevious BS"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#mitigating-bs",
+    "href": "posts/ccsn-critique/index.html#mitigating-bs",
+    "title": "AI for Faculty and Admin",
+    "section": "Mitigating BS",
+    "text": "Mitigating BS\n\ngood data\ngood training\ngood encoding\nthere’s nothing you can do, BS is inevitable"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#dealing-with-bs",
+    "href": "posts/ccsn-critique/index.html#dealing-with-bs",
+    "title": "AI for Faculty and Admin",
+    "section": "Dealing with BS",
+    "text": "Dealing with BS\n\nhuman fact-checking\nhaving two chatbots respond to each other’s output until they align (!?)"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#references",
+    "href": "posts/ccsn-critique/index.html#references",
+    "title": "AI for Faculty and Admin",
+    "section": "",
+    "text": "colin.madland@twu.ca | https://cmad.land\n\n\n\n\nFrankfurt, H. G. (2005). On bullshit. Princeton University Press.\n\n\nJi, Z., Lee, N., Frieske, R., Yu, T., Su, D., Xu, Y., Ishii, E., Bang, Y. J., Madotto, A., & Fung, P. (2023). Survey of Hallucination in Natural Language Generation. ACM Computing Surveys, 55(12), 1–38. https://doi.org/10.1145/3571730"
   },
   {
     "objectID": "posts/otessa25-grading/index.html#preliminaries",
