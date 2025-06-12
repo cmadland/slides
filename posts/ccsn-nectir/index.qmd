@@ -11,7 +11,7 @@ format:
     theme: night
 # bibliography: refs.bib
 # csl: .apa.csl
-# logo: otessa-logo-CS6.png
+logo: twulogo.png
 footer: "colin.madland@twu.ca | <https://cmad.land>" 
 freeze: false
 toc: true
