@@ -23,9 +23,6 @@ link-external-icon: true
 
 - pilot implementation in a set of 3 asynchronous courses
 
-:::{.notes}
-wondering if you can speak to just the high level what we did, and how we customized the AI tool. Looking at the analytics it's not being used too much, so not too much to report on, but we can at least speak to our attempt to make a custom course specific AI assistant.
-:::
 
 ---
 
