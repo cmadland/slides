@@ -130,6 +130,25 @@ link-external-icon: true
 
 ---
 
+::: {.columns}
+::: {.column}
+**Input**
+
+- text
+- music
+- image
+  
+:::
+::: {.column}
+**Output**
+
+- translated text
+- transposed music, chord charts
+- arrest warrant
+
+:::
+::: 
+
 ## Resources
 
 - The AI Con [@benderAICONHype2025]
