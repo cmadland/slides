@@ -117,14 +117,14 @@ link-external-icon: true
 
 ---
 
- $$p(\text{doom})$$ vs $$p(\text{hope})$$
+ $p(\text{doom})$ vs $p(\text{hope})$
 
 ---
 
 ## Recommendations
 
 - genAI is not inevitable.
-- Resistance and Refusal is possible.
+- Resistance and Refusal are possible.
 - small, focussed
 - pay attention to inputs and outputs
 
