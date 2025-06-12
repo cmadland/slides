@@ -55,9 +55,14 @@ link-external-icon: true
 
 # genAI as a mirror
 
-- the only basis for an output is historical data with all its embedded biases, but amplified
+- the only basis for an output is historical data with all its embedded biases, 
+- ...but amplified and distorted
 
+---
 
+## What do mirrors not show?
+
+![Picture of a white man's legs standing in a small river.](feet.jpg)
 
 ---
 
@@ -77,10 +82,13 @@ link-external-icon: true
 :::
 ::: 
 
+- stochastic parrots [@benderDangersStochasticParrots2021]
 ---
 
-# bullshenanigans
+# "bullshenanigans"
+
 - bullshenanigans do not require any grounding in reality, it is simply extruded to fill a gap, or 'flood the zone' [@frankfurtBullshit2005]
+
 
 ---
 
@@ -104,5 +112,26 @@ link-external-icon: true
 
 - human fact-checking
 - having two chatbots respond to each other's output until they align (!?)
+
+---
+
+ $$p(\text{doom})$$ vs $$p(\text{hope})$$
+
+---
+
+## Recommendations
+
+- genAI is not inevitable.
+- Resistance and Refusal is possible.
+- small, focussed
+- pay attention to inputs and outputs
+
+---
+
+## Resources
+
+- The AI Con [@benderAICONHype2025]
+- The AI Mirror [@vallorAIMirrorHow2024]
+- [Mystery AI Hype Theatre](https://podcasts.apple.com/us/podcast/mystery-ai-hype-theater-3000/id1690426042)
 
 ---
