@@ -154,5 +154,6 @@ link-external-icon: true
 - The AI Con [@benderAICONHype2025]
 - The AI Mirror [@vallorAIMirrorHow2024]
 - [Mystery AI Hype Theatre](https://podcasts.apple.com/us/podcast/mystery-ai-hype-theater-3000/id1690426042)
+- [OTESSA25 Keynote - Helen Beetham, Laura Czerniewicz, Catherine Cronin](https://drive.google.com/file/d/1JiKREj-4icwd6DKOg55xtlnIYS4ia_V6/view?usp=drive_link)
 
 ---
