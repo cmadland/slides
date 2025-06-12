@@ -14,9 +14,14 @@ format:
 logo: twulogo.png
 footer: "colin.madland@twu.ca | <https://cmad.land>" 
 freeze: false
-toc: true
-toc-title: "Agenda"
+# toc: true
+# toc-title: "Agenda"
 link-external-icon: true
+---
+
+[cmad.land](https://cmad.land)
+- slides
+
 ---
 
 ## nectir.ai 
