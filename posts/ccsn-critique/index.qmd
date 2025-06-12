@@ -30,16 +30,11 @@ link-external-icon: true
 
 ## Why is genAI compelling? 
 
-::: {.columns}
-::: {.column}
-***IMAGO DEI***
-:::
-::: {.column}
-**ANTHROPOMORPHOSIS**
+
+## anthropomorphosis
 
 - we naturally pretend that there is agency behind seemingly sensible outputs
-:::
-::: 
+
 
 # What is intelligence?
 
