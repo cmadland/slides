@@ -1,0 +1,82 @@
+---
+title: "Transforming Assessment"
+author: "Colin Madland"
+date: "2025-10-23"
+categories: [assessment, transformation, transaction]
+image: "vineyard.jpg"
+format:
+  revealjs:
+    multiplex: true
+    incremental: true
+    theme: dark
+  pptx: default
+bibliography: ../../refs.bib
+csl: ../../apa.csl
+logo: twulogo.png
+# footer: "colin.madland@twu.ca | <https://cmad.land>" 
+freeze: false
+# toc: true
+# toc-title: "Agenda"
+link-external-icon: true
+draft: true
+---
+
+
+
+
+# What is Assessment?
+
+---
+
+## Assessment Triangle {background-color="white"}
+
+![](assessment-tri.png){fig-align="center" alt="A teal triangle diagram illustrating the assessment triangle. The three sides are labeled Observation, Interpretation, and Cognition in white text. Inside the triangle, three white arrows form a smaller triangle, showing the relationships between the three concepts. The background is plain white, and the tone is neutral and informative."}
+
+
+
+---
+
+## Purposes of Assessment...
+
+...of learning  
+...for learning  
+...as learning
+
+
+
+# Assessment Identity
+beliefs | feelings | knowledge | skills
+
+
+
+# learning is ontological
+
+---
+
+## Breakout
+
+# Discuss with your group how you would characterize your assessment identity.
+
+---
+
+## Highlights?
+
+---
+
+## Assessment as Transaction
+
+```{mermaid}
+sequenceDiagram
+Learner ->> Instructor: Here is my paper!
+Instructor -->> Learner: Here is your grade!
+Learner ->> Instructor: Here is another paper.
+Instructor -->> Learner: Here is another grade.
+Instructor -->> Learner: Here is your final grade.
+Instructor -->> Institution: Here is their final grade.
+Institution ->> Learner: Here are your credits.
+```
+
+---
+
+[cmad.land](https://cmad.land)
+- slides
