@@ -85,34 +85,6 @@ Poll: Enter 1-3 words at a time that summarize your assessment identity. (WordCl
 
 ---
 
-## Assessment as Transaction
-
-![](friere-book.png){fig-align="center" alt="Listing from the TWU Norma Marion Alloway Library for the book 'Pedagogy of the Oppressed' by Paulo Freire."}
-
----
-
-
-> Instead of communicating, the teacher issues communiqués and makes deposits which the students patiently receive, memorize, and repeat. This is the "banking" concept of education, in which the scope of action allowed to students extends only as far as receiving, filing, and storing the deposits. [@freirePedagogyOppressed1990, p. 72]
-
-
-
----
-
-
-
-
-```{mermaid}
-sequenceDiagram
-Instructor -->> Learner: This is true. (deposit)
-Learner ->> Instructor: Here is my paper! (payment)
-Instructor -->> Learner: Here is your grade! (product)
-Learner ->> Instructor: Here is another paper. (payment)
-Instructor -->> Learner: Here is another grade. (product)
-Instructor -->> Institution: Here is their final grade. 
-Institution -->> Learner: Here is your final grade. (product)
-Institution ->> Learner: Here are your credits. (product)
-```
-
 
 
 # Stop. Be outside. Think.
