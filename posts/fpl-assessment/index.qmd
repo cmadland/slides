@@ -1,5 +1,5 @@
 ---
-title: "Transforming Assessment"
+title: "Re-imagining Assessment Choices"
 author: "Colin Madland"
 date: "2025-10-23"
 categories: [assessment, transformation, transaction]
@@ -13,15 +13,27 @@ format:
 bibliography: ../../refs.bib
 csl: ../../apa.csl
 logo: twulogo.png
-# footer: "colin.madland@twu.ca | <https://cmad.land>" 
+footer: "colin.madland@twu.ca | TWU Faculty Professional Learning Seminar " 
 freeze: false
 # toc: true
 # toc-title: "Agenda"
 link-external-icon: true
 draft: true
+echo: false
 ---
 
+```{r}
+#| label: libraries
+library(tinytable)
+library(tidyverse)
+```
 
+```{r}
+#| label: read_csv
+df_letters <- read.csv("letter_grades.csv")
+df_equiv <- read.csv("pct_grades.csv")
+df_types <- read.csv("data-types.csv")
+```
 
 
 # What is Assessment?
@@ -44,39 +56,152 @@ draft: true
 
 
 
-# Assessment Identity
-beliefs | feelings | knowledge | skills
+
 
 
 
 # learning is ontological
 
----
+> "The mission of Trinity Western University, as an arm of the Church, is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life."
 
-## Breakout
+# teaching is ontological
 
-# Discuss with your group how you would characterize your assessment identity.
+# assessing is ontological
+
+# Assessment Identity
+beliefs | feelings | knowledge | skills
+
+
+
+# Discuss with your group how you would characterize your assessment identity as it is and how it came to be.
 
 ---
 
 ## Highlights?
 
+::: {.notes}
+Poll: Enter 1-3 words at a time that summarize your assessment identity. (WordCloud)
+:::
+
 ---
 
 ## Assessment as Transaction
 
+![](friere-book.png){fig-align="center" alt="Listing from the TWU Norma Marion Alloway Library for the book 'Pedagogy of the Oppressed' by Paulo Freire."}
+
+---
+
+
+> Instead of communicating, the teacher issues communiqués and makes deposits which the students patiently receive, memorize, and repeat. This is the "banking" concept of education, in which the scope of action allowed to students extends only as far as receiving, filing, and storing the deposits. [@freirePedagogyOppressed1990, p. 72]
+
+
+
+---
+
+
+
+
 ```{mermaid}
 sequenceDiagram
-Learner ->> Instructor: Here is my paper!
-Instructor -->> Learner: Here is your grade!
-Learner ->> Instructor: Here is another paper.
-Instructor -->> Learner: Here is another grade.
-Instructor -->> Learner: Here is your final grade.
-Instructor -->> Institution: Here is their final grade.
-Institution ->> Learner: Here are your credits.
+Instructor -->> Learner: This is true. (deposit)
+Learner ->> Instructor: Here is my paper! (payment)
+Instructor -->> Learner: Here is your grade! (product)
+Learner ->> Instructor: Here is another paper. (payment)
+Instructor -->> Learner: Here is another grade. (product)
+Instructor -->> Institution: Here is their final grade. 
+Institution -->> Learner: Here is your final grade. (product)
+Institution ->> Learner: Here are your credits. (product)
 ```
+
+
+
+# Stop. Be outside. Think.
+
+Recall a time when you were the *object* in an educational transaction, where 'teaching' or 'assessing' was something done **to** you. What might YOU do to avoid commoditizing grades in your practice?
+
+---
+
+## Agency in Assessment
+
+::: {.notes}
+What method of reporting assignment grades to learners best fits your current practice?
+- percentage scale (e.g., 74%)
+- raw score (e.g., 19/26)
+- letter grade (e.g., A+, A, A- ... C-, D, F)
+- proficiency scale (e.g. Excellent, Meets Expectations, Revision Needed, Not Assessable)
+- a combination of the above
+- other (please specify)
+:::
+
+---
+
+```{r}
+#| label: letters
+tt(df_letters)
+
+```
+
+---
+
+> The University-wide system of percentage equivalents is shown in the table below [next slide]. *Faculty members may deviate from this scale*; however, if they do so, they must indicate, in their course syllabus, the percentage equivalency system they use. 
+
+
+# What do you notice? What do you wonder?
+
+---
+
+```{r}
+#| label: equivalents
+tt(df_equiv)
+
+```
+
+
+
+---
+
+```{mermaid}
+flowchart TD
+A((Data)) --> B(Qualitative - non-numerical)
+A --> C(Quantitative - numerical)
+B --> D(Nominal)
+B --> E(Ordinal)
+C --> F(Interval)
+C --> G(Ratio)
+```
+
+---
+
+```{r}
+tt(df_types)
+```
+
+---
+
+Nominal
+: named
+: counts, mode
+
+Ordinal
+: named, ordered
+: counts, mode, median
+
+Interval
+: named, ordered, equidistant
+: counts, mean, median, mode, standard deviation
+
+Ratio
+: named, ordered, equidistant, true zero
+
+---
+
+> Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other. [@freirePedagogyOppressed1990, p. 72]
 
 ---
 
 [cmad.land](https://cmad.land)
 - slides
+
+---
+
+## References
