@@ -470,8 +470,8 @@ Colin Madland
 
     <script>
 
-      function styleCell_yjgvf4hluwpsmra61jdq(i, j, css_id) {
-          var table = document.getElementById("tinytable_yjgvf4hluwpsmra61jdq");
+      function styleCell_4uyvb3o9dfpu50agcf2a(i, j, css_id) {
+          var table = document.getElementById("tinytable_4uyvb3o9dfpu50agcf2a");
           var cell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
           if (cell) {
               console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
@@ -480,8 +480,8 @@ Colin Madland
               console.warn(`Cell at (${i}, ${j}) not found.`);
           }
       }
-      function spanCell_yjgvf4hluwpsmra61jdq(i, j, rowspan, colspan) {
-        var table = document.getElementById("tinytable_yjgvf4hluwpsmra61jdq");
+      function spanCell_4uyvb3o9dfpu50agcf2a(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_4uyvb3o9dfpu50agcf2a");
         const targetCell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
         if (!targetCell) {
           console.warn(`Cell at (${i}, ${j}) not found.`);
@@ -512,14 +512,14 @@ Colin Madland
       window.addEventListener('load', function () {
           var cellsToStyle = [
             // tinytable style arrays after
-          { positions: [ { i: '5', j: 0 }, { i: '5', j: 1 },  ], css_id: 'tinytable_css_q4y5i370w29bng0fshvr',}, 
-          { positions: [ { i: '0', j: 0 }, { i: '0', j: 1 },  ], css_id: 'tinytable_css_rrku7piiybl2p4tfpugo',}, 
+          { positions: [ { i: '5', j: 0 }, { i: '5', j: 1 },  ], css_id: 'tinytable_css_uzfko8of2ftn1f27g5pc',}, 
+          { positions: [ { i: '0', j: 0 }, { i: '0', j: 1 },  ], css_id: 'tinytable_css_58ex6ovipkf5a1a1vzt2',}, 
           ];
 
           // Loop over the arrays to style the cells
           cellsToStyle.forEach(function (group) {
               group.positions.forEach(function (cell) {
-                  styleCell_yjgvf4hluwpsmra61jdq(cell.i, cell.j, group.css_id);
+                  styleCell_4uyvb3o9dfpu50agcf2a(cell.i, cell.j, group.css_id);
               });
           });
       });
@@ -527,11 +527,11 @@ Colin Madland
 
     <style>
       /* tinytable css entries after */
-      .table td.tinytable_css_q4y5i370w29bng0fshvr, .table th.tinytable_css_q4y5i370w29bng0fshvr { border-bottom: solid #d3d8dc 0.1em; }
-      .table td.tinytable_css_rrku7piiybl2p4tfpugo, .table th.tinytable_css_rrku7piiybl2p4tfpugo { border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+      .table td.tinytable_css_uzfko8of2ftn1f27g5pc, .table th.tinytable_css_uzfko8of2ftn1f27g5pc { border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_58ex6ovipkf5a1a1vzt2, .table th.tinytable_css_58ex6ovipkf5a1a1vzt2 { border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
     </style>
     <div class="container">
-      <table class="table table-borderless" id="tinytable_yjgvf4hluwpsmra61jdq" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
+      <table class="table table-borderless" id="tinytable_4uyvb3o9dfpu50agcf2a" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
         <thead>
         
               <tr>
@@ -695,7 +695,7 @@ Colin Madland
 
 
 <img data-src="download.png" class="quarto-figure quarto-figure-center r-stretch" alt="Open File menu in MS Excel online showing the option to 'Create a copy', then the suboption 'Download a Copy'."></section>
-<section id="data-types" class="slide level2">
+<section id="data-types" class="slide level2" data-background-color="white">
 <h2>Data Types</h2>
 <div class="cell" data-reveal="true" data-layout-align="default">
 <div class="cell-output-display">
@@ -836,7 +836,7 @@ C --&gt; G(Ratio)
 <h1>Closed feedback loops</h1>
 
 </section>
-<section id="knowledge-of-results" class="slide level2">
+<section id="knowledge-of-results" class="slide level2" data-background-color="white">
 <h2>Knowledge of Results</h2>
 <div class="cell" data-reveal="true" data-layout-align="default">
 <div class="cell-output-display">
@@ -860,7 +860,7 @@ end
 </div>
 </div>
 </section>
-<section id="feedback-loops" class="slide level2">
+<section id="feedback-loops" class="slide level2" data-background-color="white">
 <h2>Feedback Loops</h2>
 <div class="cell" data-reveal="true" data-layout-align="default">
 <div class="cell-output-display">
@@ -895,8 +895,8 @@ C --&gt;|Learner Sensemaking| A
 </div>
 </div>
 </section>
-<section class="slide level2">
-
+<section id="reassessment-without-penalty-1" class="slide level2" data-background-color="white">
+<h2>Reassessment without penalty</h2>
 <div class="cell" data-reveal="true" data-layout-align="default">
 <div class="cell-output-display">
 <div>
@@ -922,15 +922,15 @@ D --&gt; E(Instructor Assessment of Outcome 2)
 </section>
 <section class="slide level2">
 
-<p><a href="https://cmad.land">cmad.land</a> - slides</p>
-</section>
-<section class="slide level2">
-
 </section></section>
 <section>
 <section id="stop.-be-outside.-think." class="title-slide slide level1 center">
 <h1>Stop. Be outside. Think.</h1>
-<p>Recall a time when you were the <em>object</em> in an educational transaction, where ‘teaching’ or ‘assessing’ was something done <strong>to</strong> you. What might YOU do to avoid commoditizing grades in your practice?</p>
+
+</section>
+<section class="slide level2">
+
+<p><a href="https://cmad.land">cmad.land</a> - slides</p>
 </section>
 <section id="references" class="slide level2 smaller scrollable">
 <h2>References</h2>
@@ -975,8 +975,6 @@ Starch, D., &amp; Elliott, E. C. (1912). Reliability of the <span>Grading</span>
   <script src="../../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
   <script src="../../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
   <script src="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
-  <script src="../../site_libs/revealjs/plugin/multiplex/socket.io.js"></script>
-  <script src="../../site_libs/revealjs/plugin/multiplex/multiplex.js"></script>
   <script src="../../site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
@@ -998,7 +996,6 @@ Starch, D., &amp; Elliott, E. C. (1912). Reliability of the <span>Grading</span>
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
-'multiplex': {"secret":null,"id":"494ded20edc638f6","url":"https://reveal-multiplex.glitch.me/"},
 'smaller': false,
  
         // Display controls in the bottom right corner
@@ -1172,7 +1169,7 @@ Starch, D., &amp; Elliott, E. C. (1912). Reliability of the <span>Grading</span>
         plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
 
           RevealMath,
-          
+          RevealNotes,
           RevealSearch,
           RevealZoom
         ]

@@ -6,7 +6,7 @@ categories: [assessment, transformation, transaction]
 image: "vineyard.jpg"
 format:
   revealjs:
-    multiplex: true
+    # multiplex: true
     incremental: true
     theme: dark
   pptx: default
@@ -173,7 +173,7 @@ https://mytwu-my.sharepoint.com/:x:/g/personal/colin_madland_twu_ca/EWFESCk49hFI
 
 ---
 
-## Data Types
+## Data Types {background-color="white"}
 
 ```{mermaid}
 flowchart TD
@@ -263,7 +263,7 @@ Where to go from here?
 
 # Closed feedback loops
 
-## Knowledge of Results
+## Knowledge of Results {background-color="white"}
 
 ```{mermaid}
 flowchart TD
@@ -280,7 +280,7 @@ end
 
 ---
 
-## Feedback Loops
+## Feedback Loops {background-color="white"}
 
 ```{mermaid}
 flowchart TD
@@ -300,6 +300,8 @@ This does NOT mean 'reassessment without limit'!
 
 ---
 
+## Reassessment without penalty {background-color="white"}
+
 ```{mermaid}
 flowchart TD
 A(Assignment 1 Delivery) --> C(Instructor Assessment of Outcome 1) --> B(Feedback)
@@ -314,15 +316,19 @@ D --> E(Instructor Assessment of Outcome 2)
 
 ---
 
-[cmad.land](https://cmad.land)
-- slides
-
----
-
 
 # Stop. Be outside. Think.
 
-Recall a time when you were the *object* in an educational transaction, where 'teaching' or 'assessing' was something done **to** you. What might YOU do to avoid commoditizing grades in your practice?
+
+
+---
+
+[cmad.land](https://cmad.land)
+- slides
+
+
+
+
 
 ---
 

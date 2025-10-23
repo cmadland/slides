@@ -497,6 +497,13 @@
     "text": "Feedback Loops\n\n\n\n\n\nflowchart TD\nA(Learner Work) --&gt; B(Instructor Evaluation)\nB --&gt; C(Feedback)\nC --&gt;|Learner Sensemaking| A"
   },
   {
+    "objectID": "posts/fpl-assessment/index.html#reassessment-without-penalty-1",
+    "href": "posts/fpl-assessment/index.html#reassessment-without-penalty-1",
+    "title": "Re-imagining Assessment Choices",
+    "section": "Reassessment without penalty",
+    "text": "Reassessment without penalty\n\n\n\n\n\nflowchart TD\nA(Assignment 1 Delivery) --&gt; C(Instructor Assessment of Outcome 1) --&gt; B(Feedback)\nB --&gt;|Learner Sensemaking| D(Assignment 2 Delivery)\nD --&gt; C\nD --&gt; E(Instructor Assessment of Outcome 2)"
+  },
+  {
     "objectID": "posts/fpl-assessment/index.html#references",
     "href": "posts/fpl-assessment/index.html#references",
     "title": "Re-imagining Assessment Choices",
