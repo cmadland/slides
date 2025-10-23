@@ -18,7 +18,6 @@ freeze: false
 # toc: true
 # toc-title: "Agenda"
 link-external-icon: true
-draft: true
 echo: false
 ---
 
@@ -26,6 +25,7 @@ echo: false
 #| label: libraries
 library(tinytable)
 library(tidyverse)
+library(knitr)
 ```
 
 ```{r}
@@ -34,6 +34,8 @@ df_letters <- read.csv("letter_grades.csv")
 df_equiv <- read.csv("pct_grades.csv")
 df_types <- read.csv("data-types.csv")
 ```
+
+# Welcome {background-image="sunrise.jpg"}
 
 
 # What is Assessment?
@@ -44,12 +46,18 @@ df_types <- read.csv("data-types.csv")
 
 ![](assessment-tri.png){fig-align="center" alt="A teal triangle diagram illustrating the assessment triangle. The three sides are labeled Observation, Interpretation, and Cognition in white text. Inside the triangle, three white arrows form a smaller triangle, showing the relationships between the three concepts. The background is plain white, and the tone is neutral and informative."}
 
+::: footer
+[@pellegrinoKnowingWhatStudents2001]
+:::
 
 
 ---
 
-> A grade is an inadequate report of an inaccurate judgement by a biased and variable judge of the extent to which a student has attained an undefined level of mastery of an unknown proportion of an indefinite material. [@feldmanGradingEquityWhat2019, p. 25]
+> A grade is an inadequate report of an inaccurate judgement by a biased and variable judge of the extent to which a student has attained an undefined level of mastery of an unknown proportion of an indefinite material. 
 
+::: footer
+[@feldmanGradingEquityWhat2019, p. 25] 
+:::
 ---
 
 ## Purposes of Assessment...
@@ -58,6 +66,9 @@ df_types <- read.csv("data-types.csv")
 ...for learning  
 ...as learning
 
+::: footer
+[@earlAssessmentLearningUsing2013]
+:::
 
 # learning is ontological
 
@@ -70,7 +81,9 @@ df_types <- read.csv("data-types.csv")
 # Assessment Identity
 beliefs | feelings | knowledge | skills
 
-
+::: footer
+[@looneyReconceptualisingRoleTeachers2017]
+:::
 
 # Discuss with your group how you would characterize your assessment identity as it is and how it came to be.
 
@@ -111,19 +124,23 @@ tt(df_letters)
 
 ---
 
-> The University-wide system of percentage equivalents is shown in the table below [next slide]. *Faculty members may deviate from this scale*; however, if they do so, they must indicate, in their course syllabus, the percentage equivalency system they use. 
+> The University-wide system of percentage equivalents is shown in the table below [upcoming slide]. *Faculty members may deviate from this scale*; however, if they do so, they must indicate, in their course syllabus, the percentage equivalency system they use. 
 
 
 # What do you notice? What do you wonder?
 
 ---
 
+## Percentage Equivalents {style="text-align: center;"}
+<small>
+
 ```{r}
 #| label: equivalents
-tt(df_equiv)
 
+equiv_md <- kable(df_equiv, format = "markdown")
+equiv_md
 ```
-
+</small>
 
 
 ---
@@ -132,12 +149,19 @@ tt(df_equiv)
 
 <span class="badge bg-primary">10 mins</span>
 
+::: {.r-fit-text}
+
+
 - shared MS Excel file which contains _simulated_ grade data from a class of 100 learners who completed 11 assignments, two papers, one midterm exam, and one final exam.
 - all items in the gradebook are recorded as a raw score out of 100
 - download the file and open in MS Excel
 - using the tools in Excel, decide as a group how you would report these learners' final letter grades
 - calculate the grades in the columns to the right of the data
 - Use the [TWU Standard Grading System](https://www.twu.ca/about-us/policies-guidelines/student-policies/university-standard-grading-system)
+
+
+:::
+
 
 ::: {.notes}
 https://mytwu-my.sharepoint.com/:x:/g/personal/colin_madland_twu_ca/EWFESCk49hFIvdhXM_YrZlwBUs5ZCTvQIiQZ9olWTNWdVg?e=ed9rWu
@@ -189,6 +213,10 @@ C --> G(Ratio)
 https://mytwu-my.sharepoint.com/:u:/g/personal/colin_madland_twu_ca/EdaTKeQImyZJk4o8TNQbBvgBo7G8Bg-PvRDwZhIUGAqwTQ?e=hAglQl
 :::
 
+::: footer
+[@starchReliabilityGradingHighSchool1912; @starchReliabilityDistributionGrades1913]
+:::
+
 ---
 
 ![](starch-scores-by-grader.png){fig-align="center" alt="Histogram of data from Starch and Eliott faceted by grader"}
@@ -214,12 +242,73 @@ Where to go from here?
 
 # Clearly-defined outcomes
 
+<small>
+- 'Learners will be able to...'
+  - [verb]
+  - [level of proficiency] 
+- not 'learners will [verb]' (that's an activity, not an outcome)
+- pay attention to the verb
+  - remember vs. apply
+  - define vs. create
+</small>
+
 # Grades communicate progress
+
+- fewer categories of quality (5-13)
+- not assessable, emerging, developing, proficient, extending
+- not assessable, revision needed, meets expectations, excellent
+- 🏗️, ✏️, 👏🏿, 💅🏽, ✨
+
+
 
 # Closed feedback loops
 
+## Knowledge of Results
+
+```{mermaid}
+flowchart TD
+subgraph Assignment 2
+    D[Assignment 2 Delivery] -->|Instructor Assessment| E(Knowledge of Results)
+    E --> F{fin}
+end  
+subgraph Assignment 1
+    A[Assignment 1 Delivery] -->|Instructor Assessment| B(Knowledge of Results)
+    B --> C{fin}
+end
+  
+```
+
+---
+
+## Feedback Loops
+
+```{mermaid}
+flowchart TD
+A(Learner Work) --> B(Instructor Evaluation)
+B --> C(Feedback)
+C -->|Learner Sensemaking| A
+```
+
+
+
+
 # Reassessment without penalty
 
+::: {.callout-important}
+This does NOT mean 'reassessment without limit'!
+:::
+
+---
+
+```{mermaid}
+flowchart TD
+A(Assignment 1 Delivery) --> C(Instructor Assessment of Outcome 1) --> B(Feedback)
+B -->|Learner Sensemaking| D(Assignment 2 Delivery)
+D --> C
+D --> E(Instructor Assessment of Outcome 2)
+```
+
+---
 
 > Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other. [@freirePedagogyOppressed1990, p. 72]
 

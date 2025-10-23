@@ -7,7 +7,7 @@ format:
   revealjs:
     multiplex: true
     incremental: true
-bibliography: ../../references.bib
+bibliography: ../../refs.bib
 csl: ../../apa.csl
 logo: otessa-logo-CS6.png
 footer: "Special thanks to BCcampus" 
