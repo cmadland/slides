@@ -1,6 +1,6 @@
 ---
 title: "Teaching, Learning, and AI"
-author: "Colin Madland"
+author: "Colin Madland, Derrick Mohamed"
 date: "2026-01-15"
 categories: [assessment, transformation, AI]
 image: "mushbowl.jpg"
