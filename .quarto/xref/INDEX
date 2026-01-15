@@ -41,5 +41,9 @@
   "posts/fpl-assessment/index.qmd": {
     "index.html": "1b56a181",
     "index.pptx": "8418ee6c"
+  },
+  "posts/fpl-teaching-learning-ai/index.qmd": {
+    "index.html": "695ce227",
+    "index.pptx": "70200584"
   }
 }

@@ -1,0 +1,5 @@
+Data_type,Mean,Equidistant,True Zero
+Nominal,❌,❌,❌
+Ordinal,❌,❌,❌
+Interval,✅,✅,❌
+Ratio,✅,✅,✅

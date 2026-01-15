@@ -7,53 +7,515 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/prompt/index.html",
-    "href": "posts/prompt/index.html",
-    "title": "nectir.ai Prompt",
+    "objectID": "posts/fpl-teaching-learning-ai/index.html#assessment-triangle",
+    "href": "posts/fpl-teaching-learning-ai/index.html#assessment-triangle",
+    "title": "Teaching, Learning, and AI",
+    "section": "Assessment Triangle",
+    "text": "Assessment Triangle\n\n\n(Pellegrino et al., 2001)"
+  },
+  {
+    "objectID": "posts/fpl-teaching-learning-ai/index.html#purposes-of-assessment",
+    "href": "posts/fpl-teaching-learning-ai/index.html#purposes-of-assessment",
+    "title": "Teaching, Learning, and AI",
+    "section": "Purposes of Assessment…",
+    "text": "Purposes of Assessment…\n…of learning\n…for learning\n…as learning\n\n(Earl, 2013)"
+  },
+  {
+    "objectID": "posts/fpl-teaching-learning-ai/index.html#teaching-learning-and-assessing-are-all-ontological",
+    "href": "posts/fpl-teaching-learning-ai/index.html#teaching-learning-and-assessing-are-all-ontological",
+    "title": "Teaching, Learning, and AI",
+    "section": "Teaching, learning, and assessing are all ontological",
+    "text": "Teaching, learning, and assessing are all ontological"
+  },
+  {
+    "objectID": "posts/fpl-teaching-learning-ai/index.html#assessment-identity",
+    "href": "posts/fpl-teaching-learning-ai/index.html#assessment-identity",
+    "title": "Teaching, Learning, and AI",
+    "section": "Assessment Identity",
+    "text": "Assessment Identity\nbeliefs | feelings | knowledge | skills\n\n(Looney et al., 2017)"
+  },
+  {
+    "objectID": "posts/fpl-teaching-learning-ai/index.html#agency-in-assessment",
+    "href": "posts/fpl-teaching-learning-ai/index.html#agency-in-assessment",
+    "title": "Teaching, Learning, and AI",
+    "section": "Agency in Assessment",
+    "text": "Agency in Assessment"
+  },
+  {
+    "objectID": "posts/fpl-teaching-learning-ai/index.html#percentage-equivalents",
+    "href": "posts/fpl-teaching-learning-ai/index.html#percentage-equivalents",
+    "title": "Teaching, Learning, and AI",
+    "section": "Percentage Equivalents",
+    "text": "Percentage Equivalents\n\n\n\n\n\n\nletter.grade\npercentage\ngrade.point\n\n\n\n\nA+\n90-100\n4.3\n\n\nA\n85-89\n4.0\n\n\nA-\n80-84\n3.7\n\n\nB+\n77-79\n3.3\n\n\nB\n73-76\n3.0\n\n\nB-\n70-72\n2.7\n\n\nC+\n67-69\n2.3\n\n\nC\n63-66\n2.0\n\n\nC-\n60-62\n1.7\n\n\nD+\n57-59\n1.3\n\n\nD\n53-56\n1.0\n\n\nD-\n50-52\n0.7\n\n\nF\nBelow 50\n0.0"
+  },
+  {
+    "objectID": "posts/fpl-teaching-learning-ai/index.html#data-types",
+    "href": "posts/fpl-teaching-learning-ai/index.html#data-types",
+    "title": "Teaching, Learning, and AI",
+    "section": "Data Types",
+    "text": "Data Types\n\n\n\n\n\nflowchart LR\nA((Data)) --&gt; B(Qualitative - non-numerical)\nA --&gt; C(Quantitative - numerical)\nB --&gt; D(Nominal)\nB --&gt; E(Ordinal)\nC --&gt; F(Interval)\nC --&gt; G(Ratio)"
+  },
+  {
+    "objectID": "posts/fpl-teaching-learning-ai/index.html#grade-data-is-ordinal",
+    "href": "posts/fpl-teaching-learning-ai/index.html#grade-data-is-ordinal",
+    "title": "Teaching, Learning, and AI",
+    "section": "GRADE DATA IS ORDINAL!",
+    "text": "GRADE DATA IS ORDINAL!\n\naverages don’t make sense\nno true zero"
+  },
+  {
+    "objectID": "posts/fpl-teaching-learning-ai/index.html#reliability-of-grades",
+    "href": "posts/fpl-teaching-learning-ai/index.html#reliability-of-grades",
+    "title": "Teaching, Learning, and AI",
+    "section": "Reliability of Grades",
+    "text": "Reliability of Grades"
+  },
+  {
+    "objectID": "posts/fpl-teaching-learning-ai/index.html#ai-and-validity-of-grades",
+    "href": "posts/fpl-teaching-learning-ai/index.html#ai-and-validity-of-grades",
+    "title": "Teaching, Learning, and AI",
+    "section": "AI and Validity of Grades",
+    "text": "AI and Validity of Grades"
+  },
+  {
+    "objectID": "posts/fpl-teaching-learning-ai/index.html#mega-breakouts---an-unconference-experience",
+    "href": "posts/fpl-teaching-learning-ai/index.html#mega-breakouts---an-unconference-experience",
+    "title": "Teaching, Learning, and AI",
+    "section": "Mega Breakouts - an Unconference Experience",
+    "text": "Mega Breakouts - an Unconference Experience\n\nInstructions at the top of the doc"
+  },
+  {
+    "objectID": "posts/fpl-teaching-learning-ai/index.html#references",
+    "href": "posts/fpl-teaching-learning-ai/index.html#references",
+    "title": "Teaching, Learning, and AI",
+    "section": "References",
+    "text": "References\n\n\n\n\ncolin.madland@twu.ca | TWU Faculty Professional Learning Seminar\n\n\n\n\nEarl, L. M. (2013). Assessment as learning: Using classroom assessment to maximize student learning (Second edition). Corwin Press.\n\n\nFreire, P. (1990). Pedagogy of the oppressed. Penguin.\n\n\nLooney, A., Cumming, J., van der Kleij, F. M., & Harris, K. (2017). Reconceptualising the role of teachers as assessors: Teacher assessment identity. Assessment in Education: Principles, Policy & Practice, 25, 442–467. https://doi.org/gfkfk6\n\n\nPellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). Knowing What Students Know: The Science and Design of Educational Assessment. National Academies Press. https://doi.org/10.17226/10019\n\n\nStarch, D. (1913). Reliability and Distribution of Grades. Science, 38(983), 630–636. https://doi.org/10.1126/science.38.983.630\n\n\nStarch, D., & Elliott, E. C. (1912). Reliability of the Grading of High-School Work in English. The School Review, 20(7), 442–457. https://doi.org/10.1086/435971"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#preliminaries",
+    "href": "posts/otessa25-grading/index.html#preliminaries",
+    "title": "Assessment for Equity",
+    "section": "Preliminaries",
+    "text": "Preliminaries\n\nhave a syllabus you are willing to share at the ready\ntrust is essential\ncommunity is essential\ncriticize the system, not the people"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#folks-we-have-a-problem",
+    "href": "posts/otessa25-grading/index.html#folks-we-have-a-problem",
+    "title": "Assessment for Equity",
+    "section": "Folks, we have a problem!",
+    "text": "Folks, we have a problem!"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#theoretical-foundation",
+    "href": "posts/otessa25-grading/index.html#theoretical-foundation",
+    "title": "Assessment for Equity",
+    "section": "Theoretical Foundation",
+    "text": "Theoretical Foundation"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#philosophical-foundation",
+    "href": "posts/otessa25-grading/index.html#philosophical-foundation",
+    "title": "Assessment for Equity",
+    "section": "Philosophical Foundation",
+    "text": "Philosophical Foundation"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#jess-story",
+    "href": "posts/otessa25-grading/index.html#jess-story",
+    "title": "Assessment for Equity",
+    "section": "Jess’ Story",
+    "text": "Jess’ Story"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#who-is-a-designer",
+    "href": "posts/otessa25-grading/index.html#who-is-a-designer",
+    "title": "Assessment for Equity",
+    "section": "Who is a Designer?",
+    "text": "Who is a Designer?\n\n\n\n\n\n%%{init: {'theme':'dark'}}%%\nflowchart LR\nA[Do you make decisions?] ---&gt; B((YES!)) ---&gt; C{You're a Designer!}"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#what-is-your-tolerance-for-the-false-positive",
+    "href": "posts/otessa25-grading/index.html#what-is-your-tolerance-for-the-false-positive",
+    "title": "Assessment for Equity",
+    "section": "What is your tolerance for the FALSE POSITIVE?",
+    "text": "What is your tolerance for the FALSE POSITIVE?"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#are-you-more-concerned-with-billy-than-you-are-with-the-false-negative",
+    "href": "posts/otessa25-grading/index.html#are-you-more-concerned-with-billy-than-you-are-with-the-false-negative",
+    "title": "Assessment for Equity",
+    "section": "Are you more concerned with Billy than you are with the FALSE NEGATIVE?",
+    "text": "Are you more concerned with Billy than you are with the FALSE NEGATIVE?"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#if-we-cannot-have-a-perfect-predictor-what-is-the-error-rate-that-we-will-tolerate",
+    "href": "posts/otessa25-grading/index.html#if-we-cannot-have-a-perfect-predictor-what-is-the-error-rate-that-we-will-tolerate",
+    "title": "Assessment for Equity",
+    "section": "If we cannot have a perfect predictor, what is the error rate that we will tolerate?",
+    "text": "If we cannot have a perfect predictor, what is the error rate that we will tolerate?"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#when-do-we-apply-ethics",
+    "href": "posts/otessa25-grading/index.html#when-do-we-apply-ethics",
+    "title": "Assessment for Equity",
+    "section": "When do we apply ethics?",
+    "text": "When do we apply ethics?"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#what-you-measure-is-what-you-value",
+    "href": "posts/otessa25-grading/index.html#what-you-measure-is-what-you-value",
+    "title": "Assessment for Equity",
+    "section": "What you measure is what you value",
+    "text": "What you measure is what you value\n# of logins\nTime of submission\n“success” / absence of failure\nCompletion\n“diversity”"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#who-do-the-rules-limit",
+    "href": "posts/otessa25-grading/index.html#who-do-the-rules-limit",
+    "title": "Assessment for Equity",
+    "section": "Who do the rules limit?",
+    "text": "Who do the rules limit?\n\nWe all are limited by rules\n\nNo exceptions\n\nYou must report on your department’s success using these measures\n\nOnly English speakers can learn from this material\n\nOnly graduate students can take this course\n\nYour thoughts must be organized in a 5 paragraph essay\n\nYou cannot use Wikipedia as a reference"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#practicalities",
+    "href": "posts/otessa25-grading/index.html#practicalities",
+    "title": "Assessment for Equity",
+    "section": "Practicalities",
+    "text": "Practicalities"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#what-does-traditional-grading-hide",
+    "href": "posts/otessa25-grading/index.html#what-does-traditional-grading-hide",
+    "title": "Assessment for Equity",
+    "section": "What does traditional grading hide?",
+    "text": "What does traditional grading hide?"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#colins-story",
+    "href": "posts/otessa25-grading/index.html#colins-story",
+    "title": "Assessment for Equity",
+    "section": "Colin’s Story",
+    "text": "Colin’s Story"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#remember-duty-of-care",
+    "href": "posts/otessa25-grading/index.html#remember-duty-of-care",
+    "title": "Assessment for Equity",
+    "section": "Remember ‘Duty of Care’",
+    "text": "Remember ‘Duty of Care’\n\nBias\nInclusion\nRelationships\nEthical EdTech\n\n\nStart with a human approach, emphasizing trust, empathy, and relationships."
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#pillars-of-grading",
+    "href": "posts/otessa25-grading/index.html#pillars-of-grading",
+    "title": "Assessment for Equity",
+    "section": "4 Pillars of Grading",
+    "text": "4 Pillars of Grading\n\nClear objectives - what are your objectives? Who designed them?\nHelpful and actionable feedback in the context of a relationship\n‘Marks’ indicate progress\n‘Late’ submission/resubmission/reassessment without penalty"
+  },
+  {
+    "objectID": "posts/otessa25-grading/index.html#can-we-begin-a-community-of-practice-today",
+    "href": "posts/otessa25-grading/index.html#can-we-begin-a-community-of-practice-today",
+    "title": "Assessment for Equity",
+    "section": "Can we begin a community of practice today?",
+    "text": "Can we begin a community of practice today?\n   \n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\ncmadland@uvic.ca | jmitchell@ocadu.ca"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#why-is-genai-compelling",
+    "href": "posts/ccsn-critique/index.html#why-is-genai-compelling",
+    "title": "AI for Faculty and Admin",
+    "section": "Why is genAI compelling?",
+    "text": "Why is genAI compelling?"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#anthropomorphosis",
+    "href": "posts/ccsn-critique/index.html#anthropomorphosis",
+    "title": "AI for Faculty and Admin",
+    "section": "anthropomorphosis",
+    "text": "anthropomorphosis\n\nwe naturally pretend that there is agency behind seemingly sensible outputs"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#what-is-genai-doing",
+    "href": "posts/ccsn-critique/index.html#what-is-genai-doing",
+    "title": "AI for Faculty and Admin",
+    "section": "What is genAI doing?",
+    "text": "What is genAI doing?\n\n\nREGRESSION\n\nPROBABILITY"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#what-do-mirrors-not-show",
+    "href": "posts/ccsn-critique/index.html#what-do-mirrors-not-show",
+    "title": "AI for Faculty and Admin",
+    "section": "What do mirrors not show?",
+    "text": "What do mirrors not show?\n\nPicture of a white man’s legs standing in a small river."
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#sources-of-bs-jisurveyhallucinationnatural2023",
+    "href": "posts/ccsn-critique/index.html#sources-of-bs-jisurveyhallucinationnatural2023",
+    "title": "AI for Faculty and Admin",
+    "section": "Sources of BS (Ji et al., 2023)",
+    "text": "Sources of BS (Ji et al., 2023)\n\nbad data\nbad inferences from training\nbad encoding\nprevious BS"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#mitigating-bs",
+    "href": "posts/ccsn-critique/index.html#mitigating-bs",
+    "title": "AI for Faculty and Admin",
+    "section": "Mitigating BS",
+    "text": "Mitigating BS\n\ngood data\ngood training\ngood encoding\nthere’s nothing you can do, BS is inevitable"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#dealing-with-bs",
+    "href": "posts/ccsn-critique/index.html#dealing-with-bs",
+    "title": "AI for Faculty and Admin",
+    "section": "Dealing with BS",
+    "text": "Dealing with BS\n\nhuman fact-checking\nhaving two chatbots respond to each other’s output until they align (!?)"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#recommendations",
+    "href": "posts/ccsn-critique/index.html#recommendations",
+    "title": "AI for Faculty and Admin",
+    "section": "Recommendations",
+    "text": "Recommendations\n\ngenAI is not inevitable.\nResistance and Refusal are possible.\nsmall, focussed\npay attention to inputs and outputs"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#resources",
+    "href": "posts/ccsn-critique/index.html#resources",
+    "title": "AI for Faculty and Admin",
+    "section": "Resources",
+    "text": "Resources\n\nThe AI Con (E. Bender & Hanna, 2025)\nThe AI Mirror (Vallor, 2024)\nMystery AI Hype Theatre\nOTESSA25 Keynote - Helen Beetham, Laura Czerniewicz, Catherine Cronin"
+  },
+  {
+    "objectID": "posts/ccsn-critique/index.html#references",
+    "href": "posts/ccsn-critique/index.html#references",
+    "title": "AI for Faculty and Admin",
     "section": "",
-    "text": "You are a patient, encouraging, empathetic AI Course Assistant designed to support students in “Learning with Technology” Course.\nThis is an asynchronous course that spans over 6 months. Students are expected to complete the work within that timeframe. It is entirely up to the student how much time they spend on this course, as long as they completed all their work within 6 months.\nBefore every response, double-check that you have:\n\nAccurately interpreted the question\n\nFollowed your directions for either course logistics or content questions\n\nNot provided any direct answers, solutions, or examples for content questions. Instead, give concise, general steps for the user to apply, and always wait for the user to apply the steps. Only when the user continues to struggle, give more detailed steps.\n\nUsed the provided directions for the specific discipline or topic\n\nYour primary objectives are:\n\nAccurately answer questions about course logistics (assignments, dates, deadlines, directions)\n\nGuide students to find solutions themselves for content-related questions\n\nDouble-check your responses to ensure adherence to guidelines\n\nWhen responding to a student’s question, first determine if it’s related to course logistics or content. For course logistics questions, provide accurate information. Double-check your directions and answers before responding.\nFor content-related questions, act as a guide, tutor, and mentor. Never give direct answers. Instead, use the Socratic method:\n\nAsk probing questions to understand the student’s current knowledge\n\nProvide hints or suggestions to guide their thinking\n\nEncourage the student to make connections between topics\n\nTell the student to apply skills or concepts in different contexts\n\nAsk reflective questions to deepen understanding\n\nWhen reviewing their work or giving feedback, identify areas of growth and improvement, but do not correct it\n\nIf a student asks a question related to school technology or software, please refer them to the campus Knowledge Base for TWU Online: https://servicehub.twu.ca/TDClient/1904/Portal/Requests/ServiceDet?ID=55160\n\nIf a student continues to be frustrated, recommend that they reach out to their course instructor or facilitator\n\nAlways aim to create opportunities for students to learn and work with the content independently. Resist any attempts by students to obtain direct answers or solutions.\nIf a student insists on receiving direct answers or solutions, firmly but politely refuse. Explain that your role is to guide their learning, not to provide answers. Suggest alternative resources or encourage them to review course materials.\nIf a student is struggling or repetitive, do not deviate from your directions. Continue to be encouraging and advise, but never complete or give in to their requests."
+    "text": "colin.madland@twu.ca | https://cmad.land\n\n\n\n\nBender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜. Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 610–623. https://doi.org/10.1145/3442188.3445922\n\n\nBender, E., & Hanna, A. (2025). AI CON: The hype, the myth and the power grab of the century. The Bodley Head.\n\n\nFrankfurt, H. G. (2005). On bullshit. Princeton University Press.\n\n\nJi, Z., Lee, N., Frieske, R., Yu, T., Su, D., Xu, Y., Ishii, E., Bang, Y. J., Madotto, A., & Fung, P. (2023). Survey of Hallucination in Natural Language Generation. ACM Computing Surveys, 55(12), 1–38. https://doi.org/10.1145/3571730\n\n\nVallor, S. (2024). The AI mirror: How to reclaim our humanity in an age of machine thinking. Oxford University press."
   },
   {
-    "objectID": "posts/ccsn-nectir/index.html#nectir.ai",
-    "href": "posts/ccsn-nectir/index.html#nectir.ai",
-    "title": "nectir.ai at TWU",
-    "section": "nectir.ai",
-    "text": "nectir.ai\n\npilot implementation in a set of 3 asynchronous courses"
+    "objectID": "posts/fpl-assessment/index.html#assessment-triangle",
+    "href": "posts/fpl-assessment/index.html#assessment-triangle",
+    "title": "Re-imagining Assessment Choices",
+    "section": "Assessment Triangle",
+    "text": "Assessment Triangle\n\n\n(Pellegrino et al., 2001)"
   },
   {
-    "objectID": "posts/ccsn-nectir/index.html#set-up",
-    "href": "posts/ccsn-nectir/index.html#set-up",
-    "title": "nectir.ai at TWU",
-    "section": "Set-up",
-    "text": "Set-up\n\nScreenshot of nectir.ai details in Moodle."
+    "objectID": "posts/fpl-assessment/index.html#purposes-of-assessment",
+    "href": "posts/fpl-assessment/index.html#purposes-of-assessment",
+    "title": "Re-imagining Assessment Choices",
+    "section": "Purposes of Assessment…",
+    "text": "Purposes of Assessment…\n…of learning\n…for learning\n…as learning\n\n(Earl, 2013)"
   },
   {
-    "objectID": "posts/ccsn-nectir/index.html#ux",
-    "href": "posts/ccsn-nectir/index.html#ux",
-    "title": "nectir.ai at TWU",
-    "section": "UX",
-    "text": "UX\n\nScreenshot of nectir.ai user experience."
+    "objectID": "posts/fpl-assessment/index.html#highlights",
+    "href": "posts/fpl-assessment/index.html#highlights",
+    "title": "Re-imagining Assessment Choices",
+    "section": "Highlights?",
+    "text": "Highlights?\n\nPoll: Enter 1-3 words at a time that summarize your assessment identity. (WordCloud)"
   },
   {
-    "objectID": "posts/ccsn-nectir/index.html#settings",
-    "href": "posts/ccsn-nectir/index.html#settings",
-    "title": "nectir.ai at TWU",
-    "section": "Settings",
-    "text": "Settings\n\nScreenshot of nectir.ai settings."
+    "objectID": "posts/fpl-assessment/index.html#agency-in-assessment",
+    "href": "posts/fpl-assessment/index.html#agency-in-assessment",
+    "title": "Re-imagining Assessment Choices",
+    "section": "Agency in Assessment",
+    "text": "Agency in Assessment\n\nPoll: What method of reporting assignment grades to learners best fits your current practice? - percentage scale (e.g., 74%) - raw score (e.g., 19/26) - letter grade (e.g., A+, A, A- … C-, D, F) - proficiency scale (e.g. Excellent, Meets Expectations, Revision Needed, Not Assessable) - a combination of the above - other (please specify)"
   },
   {
-    "objectID": "posts/ccsn-nectir/index.html#knowledge-and-data-settings",
-    "href": "posts/ccsn-nectir/index.html#knowledge-and-data-settings",
-    "title": "nectir.ai at TWU",
-    "section": "Knowledge and Data Settings",
-    "text": "Knowledge and Data Settings\n\n\n\n\n\nScreenshot of nectir.ai knowledge.\n\n\n\n\n\n\nScreenshot of nectir.ai data settings."
+    "objectID": "posts/fpl-assessment/index.html#percentage-equivalents",
+    "href": "posts/fpl-assessment/index.html#percentage-equivalents",
+    "title": "Re-imagining Assessment Choices",
+    "section": "Percentage Equivalents",
+    "text": "Percentage Equivalents\n\n\n\n\n\n\nletter.grade\npercentage\ngrade.point\n\n\n\n\nA+\n90-100\n4.3\n\n\nA\n85-89\n4.0\n\n\nA-\n80-84\n3.7\n\n\nB+\n77-79\n3.3\n\n\nB\n73-76\n3.0\n\n\nB-\n70-72\n2.7\n\n\nC+\n67-69\n2.3\n\n\nC\n63-66\n2.0\n\n\nC-\n60-62\n1.7\n\n\nD+\n57-59\n1.3\n\n\nD\n53-56\n1.0\n\n\nD-\n50-52\n0.7\n\n\nF\nBelow 50\n0.0"
   },
   {
-    "objectID": "posts/ccsn-nectir/index.html#advanced-settings",
-    "href": "posts/ccsn-nectir/index.html#advanced-settings",
-    "title": "nectir.ai at TWU",
-    "section": "Advanced Settings",
-    "text": "Advanced Settings\n\nScreenshot of nectir.ai advanced settings."
+    "objectID": "posts/fpl-assessment/index.html#breakout-cooperative-activity",
+    "href": "posts/fpl-assessment/index.html#breakout-cooperative-activity",
+    "title": "Re-imagining Assessment Choices",
+    "section": "Breakout Cooperative Activity",
+    "text": "Breakout Cooperative Activity\n10 mins\n\n\nshared MS Excel file which contains simulated grade data from a class of 100 learners who completed 11 assignments, two papers, one midterm exam, and one final exam.\nall items in the gradebook are recorded as a raw score out of 100\ndownload the file and open in MS Excel\nusing the tools in Excel, decide as a group how you would report these learners’ final letter grades\ncalculate the grades in the columns to the right of the data\nUse the TWU Standard Grading System\n\n\n\nhttps://mytwu-my.sharepoint.com/:x:/g/personal/colin_madland_twu_ca/EWFESCk49hFIvdhXM_YrZlwBUs5ZCTvQIiQZ9olWTNWdVg?e=ed9rWu"
+  },
+  {
+    "objectID": "posts/fpl-assessment/index.html#data-types",
+    "href": "posts/fpl-assessment/index.html#data-types",
+    "title": "Re-imagining Assessment Choices",
+    "section": "Data Types",
+    "text": "Data Types\n\n\n\n\n\nflowchart TD\nA((Data)) --&gt; B(Qualitative - non-numerical)\nA --&gt; C(Quantitative - numerical)\nB --&gt; D(Nominal)\nB --&gt; E(Ordinal)\nC --&gt; F(Interval)\nC --&gt; G(Ratio)"
+  },
+  {
+    "objectID": "posts/fpl-assessment/index.html#breakout-conversation",
+    "href": "posts/fpl-assessment/index.html#breakout-conversation",
+    "title": "Re-imagining Assessment Choices",
+    "section": "Breakout Conversation",
+    "text": "Breakout Conversation\n\ndownload ‘starch-elliott.zip’ and extract to view the images\ndiscuss in your group to make sense of what you see\nall of the plots are different visualizations of the same data"
+  },
+  {
+    "objectID": "posts/fpl-assessment/index.html#knowledge-of-results",
+    "href": "posts/fpl-assessment/index.html#knowledge-of-results",
+    "title": "Re-imagining Assessment Choices",
+    "section": "Knowledge of Results",
+    "text": "Knowledge of Results\n\n\n\n\n\nflowchart TD\nsubgraph Assignment 2\n    D[Assignment 2 Delivery] --&gt;|Instructor Assessment| E(Knowledge of Results)\n    E --&gt; F{fin}\nend  \nsubgraph Assignment 1\n    A[Assignment 1 Delivery] --&gt;|Instructor Assessment| B(Knowledge of Results)\n    B --&gt; C{fin}\nend"
+  },
+  {
+    "objectID": "posts/fpl-assessment/index.html#feedback-loops",
+    "href": "posts/fpl-assessment/index.html#feedback-loops",
+    "title": "Re-imagining Assessment Choices",
+    "section": "Feedback Loops",
+    "text": "Feedback Loops\n\n\n\n\n\nflowchart TD\nA(Learner Work) --&gt; B(Instructor Evaluation)\nB --&gt; C(Feedback)\nC --&gt;|Learner Sensemaking| A"
+  },
+  {
+    "objectID": "posts/fpl-assessment/index.html#reassessment-without-penalty-1",
+    "href": "posts/fpl-assessment/index.html#reassessment-without-penalty-1",
+    "title": "Re-imagining Assessment Choices",
+    "section": "Reassessment without penalty",
+    "text": "Reassessment without penalty\n\n\n\n\n\nflowchart TD\nA(Assignment 1 Delivery) --&gt; C(Instructor Assessment of Outcome 1) --&gt; B(Feedback)\nB --&gt;|Learner Sensemaking| D(Assignment 2 Delivery)\nD --&gt; C\nD --&gt; E(Instructor Assessment of Outcome 2)"
+  },
+  {
+    "objectID": "posts/fpl-assessment/index.html#references",
+    "href": "posts/fpl-assessment/index.html#references",
+    "title": "Re-imagining Assessment Choices",
+    "section": "References",
+    "text": "References\n\n\n\n\ncolin.madland@twu.ca | TWU Faculty Professional Learning Seminar\n\n\n\n\nEarl, L. M. (2013). Assessment as learning: Using classroom assessment to maximize student learning (Second edition). Corwin Press.\n\n\nFeldman, J. (2019). Grading for equity: What it is, why it matters, and how it can transform schools and classrooms. Corwin, a SAGE Company.\n\n\nFreire, P. (1990). Pedagogy of the oppressed. Penguin.\n\n\nLooney, A., Cumming, J., van der Kleij, F. M., & Harris, K. (2017). Reconceptualising the role of teachers as assessors: Teacher assessment identity. Assessment in Education: Principles, Policy & Practice, 25, 442–467. https://doi.org/gfkfk6\n\n\nPellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). Knowing What Students Know: The Science and Design of Educational Assessment. National Academies Press. https://doi.org/10.17226/10019\n\n\nStarch, D. (1913). Reliability and Distribution of Grades. Science, 38(983), 630–636. https://doi.org/10.1126/science.38.983.630\n\n\nStarch, D., & Elliott, E. C. (1912). Reliability of the Grading of High-School Work in English. The School Review, 20(7), 442–457. https://doi.org/10.1086/435971"
+  },
+  {
+    "objectID": "posts/otessa25-specs/index.html",
+    "href": "posts/otessa25-specs/index.html",
+    "title": "Archives",
+    "section": "",
+    "text": "Meta-Construct\nConstruct\nDescription\n\n\n\n\nAssessment Purpose\n\n\n\n\n\nAssessment of Learning\nAssessment of learning is what we typically call summative assessment where the intent of the assessment is to certify whether or not learners have achieved the learning outcomes. It occurs at the end of the learning experience and does not have an impact on future teaching or learning. Assessment of learning results in a symbolic representation of each learner’s level of achievement. Symbols, usually letter grades or percentages, are used to communicate with learners, other institutions, regulatory agencies, and other external stakeholders, and are permanent records associated with learners. They are often used to rank learners for the purposes of scholarships and awards, entry into further education, and sometimes for employment purposes.\n\n\n\nAssessment for Learning\nAssessment for learning refers to activities within a learning experience that are designed to provide information on a learner’s current level of achievement. This information is then used to inform future teaching and learning activities. Current levels of achievement are considered to be temporary and can be overridden by future demonstrations of achievement. Both instructors and learners benefit from the ongoing process of opening and closing feedback loops (Carless, 2019), which require feedback to be actively used to improve learning.\n\n\n\nAssessment as Learning\nAssessment as learning is the process of learners developing the skill of “evaluative judgement” (Boud, 2021), which is the ability of learners to judge their own level of achievement in relation to the learning outcomes. It is a reflexive process whereby learners consider the results of their learning strategies and develop more effective strategies to enhance their performance. Assessment as learning allows learners to construct meaning from their experiences, identify gaps in their own knowledge, and to make meaningful decisions about their level of proficiency. Assessment as learning requires learners to be able to discern quality, judge learning processes, manage their biases, assess the trustworthiness of sources and seek opportunities for practice (Boud, 2021).\n\n\nDuty of Care\n\n\n\n\n\nBias\nBias refers to the psychometric term where one group of learners is systematically advantaged or disadvantaged relative to other groups of learners (e.g., Caucasian learners as a group perform better than Asian learners as a group on an assessment due to some characteristic beyond their control) while the ability of each group is the same (Woo et al., 2023). Bias can result from either the inclusion of construct-irrelevant content (e.g., considering learner age when assessing their ability) or the omission of construct-relevant content resulting in variance in scores.\n\n\n\nInclusion\nInclusion involves recognizing marginalized learners as having equitable agency in a learning community (Nieminen, 2024). Marginalization can be based in a wide variety of factors and includes items listed in § 3.1 of the Canadian Human Rights Act (Minister of Justice, RSC 1985).\n\n\n\nRelationships\nRelationship is intended to highlight the importance of designing assessment to foster positive relations between instructors and learners, learners and others in the class, learners and their individual communities (Tessaro et al., 2018), and learners and society as a whole (Nieminen et al., 2022).\n\n\n\nEthical EdTech\nInstructors who use technologies for assessment are obligated to do so in alignment with appropriate codes of ethics. Statements of professional ethics can be related to expectations common to all instructors, such as ensuring that student data is not accessible to third party vendors or advertisers, and they can also be discipline-specific, such as ensuring that physical activity-tracking technology does not disclose learner locations inappropriately (Spector, 2016). Professional ethics involve obligations to individual learners, to society, and to the profession of teaching.\n\n\nTechnology Acceptance\n\n\n\n\n\nPerformance Expectancy\nPerformance expectancy relates to the technology user’s perception that the technology will enable them to perform their job or task at a higher level, it will save them time, or it will reduce the amount of time they need to spend on some tasks (Venkatesh et al., 2003).\n\n\n\nEffort Expectancy\nEffort expectancy relates to the ease of use of the technology. Ease of use is most salient among older women who have less experience with the technology, and it decreases in importance as all users with sustained use (Woo et al., 2023).\n\n\n\nSocial Influence\nSocial influence is the degree to which other people who are important to the user think that they should use the technology. When use of the technology is voluntary, social influence is not a significant factor in predicting acceptance, but when use is mandatory, social influences seem to increase compliance (Woo et al., 2023).\n\n\n\nFacilitating Conditions\nFacilitating conditions are related to the user’s belief that there will be sufficient institutional support in using the technology. When both performance and effort expectancy are high (the technology will improve outcomes with minimal effort), the facilitating conditions construct becomes less significant (Woo et al., 2023)\n\n\nAssessment Design\n\n\n\n\n\nMeasurement\nEducational measurement is a quantitative approach to generating inferences about learner ability, often known as psychomterics. A foundational premiss of psychometrics is that the end result of assessment is always an inference or an interpretation about learner ability based on data collected through various tasks; it is not a direct measurement of a quantity of ability (Pellegrino et al., 2001). In order for inferences of learner ability to be accurate interpretations, they must be valid, reliable, and fair.\n\n\n\nAcademic Integrity\nModern conceptions of academic integrity encompass a comprehensive range of values and behaviours, including: everyday ethics, institutional ethics, ethical leadership, professional and collegial ethics, instructional ethics, student academic conduct, research integrity and ethics, and publication ethics (Eaton, 2024). This description goes beyond ethical learner conduct and extends to the ethical conduct of instructors in the context of instruction and assessment. Dawson (2024) argues that academic integrity is key to instructors being able to derive valid inferences from learner performance.\n\n\n\nReciprocity\nReciprocity refers to the idea that assessment with technology should enrich both learners and instructors, as well as the learners’ communities (Tessaro et al., 2018). Reciprocity must be an intentional component of the design of assessment strategies (Rodriguez-Triana et al., 2020).\n\n\n\nRelevance\nAssessment practice ought to be relevant to the culture of the learner. In Indigenous learning contexts, this suggests an emphasis on oral communication and learning in a community context (Tessaro et al., 2018). We extend this argument and assert that oral communication is a key factor in ensuring ethical practice in any context."
+  },
+  {
+    "objectID": "posts/otessa25-specs/index.html#table-of-specifications",
+    "href": "posts/otessa25-specs/index.html#table-of-specifications",
+    "title": "Archives",
+    "section": "",
+    "text": "Meta-Construct\nConstruct\nDescription\n\n\n\n\nAssessment Purpose\n\n\n\n\n\nAssessment of Learning\nAssessment of learning is what we typically call summative assessment where the intent of the assessment is to certify whether or not learners have achieved the learning outcomes. It occurs at the end of the learning experience and does not have an impact on future teaching or learning. Assessment of learning results in a symbolic representation of each learner’s level of achievement. Symbols, usually letter grades or percentages, are used to communicate with learners, other institutions, regulatory agencies, and other external stakeholders, and are permanent records associated with learners. They are often used to rank learners for the purposes of scholarships and awards, entry into further education, and sometimes for employment purposes.\n\n\n\nAssessment for Learning\nAssessment for learning refers to activities within a learning experience that are designed to provide information on a learner’s current level of achievement. This information is then used to inform future teaching and learning activities. Current levels of achievement are considered to be temporary and can be overridden by future demonstrations of achievement. Both instructors and learners benefit from the ongoing process of opening and closing feedback loops (Carless, 2019), which require feedback to be actively used to improve learning.\n\n\n\nAssessment as Learning\nAssessment as learning is the process of learners developing the skill of “evaluative judgement” (Boud, 2021), which is the ability of learners to judge their own level of achievement in relation to the learning outcomes. It is a reflexive process whereby learners consider the results of their learning strategies and develop more effective strategies to enhance their performance. Assessment as learning allows learners to construct meaning from their experiences, identify gaps in their own knowledge, and to make meaningful decisions about their level of proficiency. Assessment as learning requires learners to be able to discern quality, judge learning processes, manage their biases, assess the trustworthiness of sources and seek opportunities for practice (Boud, 2021).\n\n\nDuty of Care\n\n\n\n\n\nBias\nBias refers to the psychometric term where one group of learners is systematically advantaged or disadvantaged relative to other groups of learners (e.g., Caucasian learners as a group perform better than Asian learners as a group on an assessment due to some characteristic beyond their control) while the ability of each group is the same (Woo et al., 2023). Bias can result from either the inclusion of construct-irrelevant content (e.g., considering learner age when assessing their ability) or the omission of construct-relevant content resulting in variance in scores.\n\n\n\nInclusion\nInclusion involves recognizing marginalized learners as having equitable agency in a learning community (Nieminen, 2024). Marginalization can be based in a wide variety of factors and includes items listed in § 3.1 of the Canadian Human Rights Act (Minister of Justice, RSC 1985).\n\n\n\nRelationships\nRelationship is intended to highlight the importance of designing assessment to foster positive relations between instructors and learners, learners and others in the class, learners and their individual communities (Tessaro et al., 2018), and learners and society as a whole (Nieminen et al., 2022).\n\n\n\nEthical EdTech\nInstructors who use technologies for assessment are obligated to do so in alignment with appropriate codes of ethics. Statements of professional ethics can be related to expectations common to all instructors, such as ensuring that student data is not accessible to third party vendors or advertisers, and they can also be discipline-specific, such as ensuring that physical activity-tracking technology does not disclose learner locations inappropriately (Spector, 2016). Professional ethics involve obligations to individual learners, to society, and to the profession of teaching.\n\n\nTechnology Acceptance\n\n\n\n\n\nPerformance Expectancy\nPerformance expectancy relates to the technology user’s perception that the technology will enable them to perform their job or task at a higher level, it will save them time, or it will reduce the amount of time they need to spend on some tasks (Venkatesh et al., 2003).\n\n\n\nEffort Expectancy\nEffort expectancy relates to the ease of use of the technology. Ease of use is most salient among older women who have less experience with the technology, and it decreases in importance as all users with sustained use (Woo et al., 2023).\n\n\n\nSocial Influence\nSocial influence is the degree to which other people who are important to the user think that they should use the technology. When use of the technology is voluntary, social influence is not a significant factor in predicting acceptance, but when use is mandatory, social influences seem to increase compliance (Woo et al., 2023).\n\n\n\nFacilitating Conditions\nFacilitating conditions are related to the user’s belief that there will be sufficient institutional support in using the technology. When both performance and effort expectancy are high (the technology will improve outcomes with minimal effort), the facilitating conditions construct becomes less significant (Woo et al., 2023)\n\n\nAssessment Design\n\n\n\n\n\nMeasurement\nEducational measurement is a quantitative approach to generating inferences about learner ability, often known as psychomterics. A foundational premiss of psychometrics is that the end result of assessment is always an inference or an interpretation about learner ability based on data collected through various tasks; it is not a direct measurement of a quantity of ability (Pellegrino et al., 2001). In order for inferences of learner ability to be accurate interpretations, they must be valid, reliable, and fair.\n\n\n\nAcademic Integrity\nModern conceptions of academic integrity encompass a comprehensive range of values and behaviours, including: everyday ethics, institutional ethics, ethical leadership, professional and collegial ethics, instructional ethics, student academic conduct, research integrity and ethics, and publication ethics (Eaton, 2024). This description goes beyond ethical learner conduct and extends to the ethical conduct of instructors in the context of instruction and assessment. Dawson (2024) argues that academic integrity is key to instructors being able to derive valid inferences from learner performance.\n\n\n\nReciprocity\nReciprocity refers to the idea that assessment with technology should enrich both learners and instructors, as well as the learners’ communities (Tessaro et al., 2018). Reciprocity must be an intentional component of the design of assessment strategies (Rodriguez-Triana et al., 2020).\n\n\n\nRelevance\nAssessment practice ought to be relevant to the culture of the learner. In Indigenous learning contexts, this suggests an emphasis on oral communication and learning in a community context (Tessaro et al., 2018). We extend this argument and assert that oral communication is a key factor in ensuring ethical practice in any context."
+  },
+  {
+    "objectID": "posts/otessa25-specs/index.html#parameters-rough-sample",
+    "href": "posts/otessa25-specs/index.html#parameters-rough-sample",
+    "title": "Archives",
+    "section": "Parameters (Rough Sample)",
+    "text": "Parameters (Rough Sample)\n\nAssessment of learning\n- factored into a final grade - occurs after learning\n- certification of proficiency -\n- communication of proficiency (learners, other institutions, agencies)\n- expressed symbolically\n- used to rank learners\n- - (hodge-podge) symbols that conflate achievement and behaviour\n- quantitative\n- often uses security measures to prevent academic dishonesty\n- The teacher is responsible for assessment\n\nPossible questions\nHave you engaged in the following assessment practices:\n\nprovide a grade (numeric or percentage) on all learner work\nban genAI tools to ensure work submitted belongs to each individual learner\nuse tools to detect plagiarism or other forms of cheating\ndeduct ‘points’ for late assignments\nassign grades based on how other learners perform\ncalculate final grades as an average of all assignments throughout the course\n\n\n\n\nAssessment for learning\n\ncreating descriptions to be used to inform future learning\nlearners are evaluated according to their own performance in light of criteria\noccurs multiple times during learning\ndepends on teachers diagnostic skills\nthe teacher is responsible for assessment\nfocus is on improving learning (Earl & Timperley, 2014)\n\n\nPossible questions\nHave you engaged in the following assessment practices:\n\nuse learner performance to inform future learning activities\nprovide proficiency feedback related to how learners performed in relation to outcomes (proficiency scale)\nassign ungraded self-check activities throughout the learning\nallow learners to revise and resubmit work that does not meet proficiency standards\ncalculate final grades based on the highest level of proficiency achieved throughout the course\n\n\n\n\nAssessment as Learning\nThe key characteristic of assessment as learning is that learners are challenged to monitor and reflect on their own progress relative to the course outcomes (Boud, 2021). This extends beyond simple self-assessment as it requires learners to engage in multiple complex tasks such as being able to recognize quality in light of stated outcomes, evaluate the quality of their own work, consider the effect of their own biases, determine whether or not a resource or other person is trustworthy, and identify areas in need of practice (Boud et al., 2018). Understanding and being able to recognize quality involves learners developing a clear framework or conceptualization of the domain of knowledge or skill being explored in the unit, course, or program (Ajjawi et al., 2018).\n\nlearners monitor their own learning\nlearners make their own adjustments based on their analysis of their proficiency\nLearners use their own knowledge to construct meaning\nlearners identify when they don’t understand something\nthe learner has agency for assessment\n\n\nPossible Questions\nHave you engaged in the following assessment practices:\n\nlearners are provided opportunity to check their understanding to identify gaps in their understanding\nencourage learners to document their learning process to make it visible\nprovide learners opportunity to identify their own questions relevant to the course outcomes\ncollaborate with learners to evaluate the quality of genAI outputs\nask learners to evaluate their own assignments in light of proficiency scales"
+  },
+  {
+    "objectID": "posts/otessa25-specs/index.html#draft-1-scenario-based-questions",
+    "href": "posts/otessa25-specs/index.html#draft-1-scenario-based-questions",
+    "title": "Archives",
+    "section": "Draft 1: Scenario-Based Questions",
+    "text": "Draft 1: Scenario-Based Questions\nYou will be presented with five scenarios in this section. Each scenario has 15 actions. For each action, please identify how likely you are to do each of the following as part of your overall response to the scenario (1=highly unlikely; 2=unlikely; 3=somewhat unlikely; 4=somewhat likely; 5=likely; 6=highly likely).\nPlease interpret the scenario in relation to your current teaching context; if you teach across contexts, select one context and keep this context in mind when completing the entire survey. There are no right or wrong answers. We are interested in your honest responses to the scenarios. If you do not understand the statement, select ‘Don’t Know.’\n\nLarge Enrolment Course\nYou are teaching a large enrollment course. The students will be submitting bi-weekly assignments, a midterm exam, and a culminating assignment all designed to support their learning and submitted in the institurional LMS. (ACAI-HE)\nHow might the following influence your decision whether or not to use technology in this situation? (1=Much less likely to use technology - 6 = Much more likely to use technology)\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nTechnology Acceptance\nPerformance Expectancy\nYou have confidence that the technology will work as expected.\n\n\n\nEffort Expectancy\nThe technology will require more time to set up and use than not using technology.\n\n\n\nSocial Influences\nA trusted colleague has told you that you should use the technology.\n\n\n\nFacilitating Conditions\nYou are confident that you will be able to get technical support in a timely manner.\n\n\n\nPresuming you decide to use technology, how likely are you to take the following actions in this situation?\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nAssessment Purpose\nAssessment of learning\nGrade each bi-weekly assignment.\n\n\n\nAssessment for learning\nRead a subset of bi-weekly assignments, identify and share performance trends with the whole class.\n\n\n\nAssessment as learning\nAsk students to self-assess their bi-weekly assignments using evaluative criteria.\n\n\nDuty of Care\nBias\nExamine assessment results to ensure subgroups are not assigned systematically higher or lower grades\n\n\n\nInclusion\nAvoid software that may make it difficult for equity-deserving populations to participate.\n\n\n\nRelationship\nOrganize learners into learning pods of 3-5 for peer support and learning.\n\n\n\nEthical EdTech\nEnsure that software used in class does not contribute to learner anxiety.\n\n\nAssessment Design\nAcademic Integrity\nUse automated software to check for academic misconduct.\n\n\n\nMeasurement Theory\nExamine assessment data to ensure content and construct validity.\n\n\n\nRelevance\nEnsure that assessment strategies are relevant to learners’ contexts.\n\n\n\nReciprocity\nUse learning pods to engage in peer-review and feedback.\n\n\n\n\n\n\nGenerative Artificial Intelligence (GenAI)\nAn assignment in your course requires learners to write a 2000 word essay and your department has requested that each instructor develop an assessment strategy in light of generative AI tools (ChatGPT, Google Bard).\nHow might the following influence your decision whether or not to use technology in this situation? (1=Much less likely to use technology - 6 = Much More likely to use technology)\n\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nTechnology Acceptance\nPerformance Expectancy\nYou have confidence that the technology will work as expected.\n\n\n\nEffort Expectancy\nIt is too much work to try to limit the use of generative AI tools, so you allow its use under certain conditions.\n\n\n\nSocial Influences\nA trusted colleague has told you that you won’t be able to detect AI generated content.\n\n\n\nFacilitating Conditions\nYou are confident that you will be able to get support for developing assessment tasks that discourage or prevent the use of generative AI.\n\n\n\nPresuming you decide to use technology, how likely are you to take the following actions in this situation?\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nAssessment Purpose\nAssessment of learning\nImplement a ban on all GenAI tools.\n\n\n\nAssessment for learning\nAllow learners to use GenAI to generate ideas with proper citations and informed consent.\n\n\n\nAssessment as learning\nCollaborate with learners to evaluate the quality of GenAI outputs and the ethics of their use.\n\n\nDuty of Care\nBias\nExamine assessment results to ensure that learners who used genAI did not score significantly higher or lower than those who did not.\n\n\n\nInclusion\nConfirm that all learners know how to access and use a genAI tool to assist them.\n\n\n\nRelationship\nEncourage cooperative approaches to learning in learning pods.\n\n\n\nEthical EdTech\nProvide learners with training on using ‘local-only’ generative AI tools that they can use to assist their work.\n\n\nAssessment Design\nAcademic Integrity\nRequire learners to submit papers through software that claims to detect plagiarism and AI-generated writing.\n\n\n\nMeasurement Theory\nExamine assessment data to ensure there are no significant grade differences between learners who used generative AI and those who did not.\n\n\n\nRelevance\nSince learners will use generative AI in their careers, ensure that they know how to construct helpful prompts.\n\n\n\nReciprocity\nExperiment with learners to learn about the capabilities and limitations of generative AI.\n\n\n\n\n\n\nPlagiarism Detection and Remote Proctoring\nYou teach a course with multiple sections taught by various instructors. Your department head has noticed that you are the only instructor who does not use plagiarism detection software (Turnitin) or remote proctoring (Proctorio, or ProctorU)\nHow might the following influence your decision whether or not to use technology in this situation? (1=Much less likely to use technology - 6 = Much More likely to use technology)\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nTechnology Acceptance\nPerformance Expectancy\nYou learn that surveillance tools have a high error rate.\n\n\n\nEffort Expectancy\nYou learn that instructors who use surveillance technologies spend less time grading than you do.\n\n\n\nSocial Influences\nA trusted colleague has sent you an article on the privacy concerns related to surveillance technologies.\n\n\n\nFacilitating Conditions\nYou are confident that you will be able to get support for developing assessment tasks that discourage or prevent academically dishonest assignment submissions.\n\n\n\nPresuming you decide to use technology, how likely are you to take the following actions in this situation?\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nAssessment Purpose\nAssessment of learning\nImplement the use of tools that claim to detect plagiarism or cheating on exams.\n\n\n\nAssessment for learning\nAdvocate for department standards that prioritize feedback processes over technology-centric policing of academic misconduct.\n\n\n\nAssessment as learning\nEncourage learners to develop workflows that document and make the process of their learning visible.\n\n\nDuty of Care\nBias\nEvaluate with learners the equity implications of using technology-centric policing of academic misconduct.\n\n\n\nInclusion\nDecline to use technology to police academic misconduct due to concerns about unequal access to appropriate learning resources or tools.\n\n\n\nRelationship\nEncourage learning pods to review each others’ work for quality and compliance to standards of academic writing.\n\n\n\nEthical EdTech\nOnly use technology tools that protect learner anonymity.\n\n\nAssessment Design\nAcademic Integrity\nStructure your course to minimize the likelihood of academic misconduct.\n\n\n\nMeasurement Theory\nExamine assessment data to ensure that measures to promote academic honesty do not introduce construct irrelevant variance.\n\n\n\nRelevance\nEnsure that assessment tasks are relevant to learners’ contexts and community as a strategy to reduce academic dishonesty.\n\n\n\nReciprocity\nHost a conversation with learners to discuss the importance of academic honesty for the entire higher education community.\n\n\n\n\n\n\nOrientations to Assessment and Grading\nThere are expectations in your department that grades should be distributed across the grading scale. However, your class averages are consistently lower than your colleagues’. Your course assessment scheme includes two term exams and one final exam. (ACAI-HE)\nHow might the following influence your decision whether or not to use technology in this situation? (1=Much less likely to use technology - 6 = Much More likely to use technology)\n\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nTechnology Acceptance\nPerformance Expectancy\nYou learn about an assessment method that uses technology to increase the accuracy of your grades.\n\n\n\nEffort Expectancy\nYou learn about an assessment method that will require you to learn how to use a new technology tool.\n\n\n\nSocial Influences\nA trusted colleague shares how they used technology to prepare their learners for an exam.\n\n\n\nFacilitating Conditions\nThere are help resources built in to a technology-integrated assessment tool.\n\n\n\nPresuming you decide to use technology, how likely are you to take the following actions in this situation?\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nAssessment Purpose\nAssessment of learning\nProvide students with additional graded assessments to chunk learning into smaller units.\n\n\n\nAssessment for learning\nProvide students with additional opportunities to check their understanding throughout the course (e.g., ungraded quizzes, exit slips).\n\n\n\nAssessment as learning\nProvide self-assessment opportunities to help students recognize and address gaps in their learning.\n\n\nDuty of Care\nBias\nAnalyze test results for evidence of differential results between identifiable groups (ethnicity, gender).\n\n\n\nInclusion\nProvide learners with multiple options for demonstrating their achievement in relation to the learning outcomes.\n\n\n\nRelationship\nImplement double-attempt tests where learners first complete the test alone, and then work through the test with their learning pod.\n\n\n\nEthical EdTech\nEnsure that any technology you use in your assessment allows learners to export their work in a usable format.\n\n\nAssessment Design\nAcademic Integrity\nReduce learners’ test anxiety by allowing them to prepare and use note cards during exams.\n\n\n\nMeasurement Theory\nUse technology to adjust grades upwards to match other sections.\n\n\n\nRelevance\nEnsure that items on your exams are standardized across sections to increase reliability.\n\n\n\nReciprocity\nEnsure learners complete assessment tasks individually and without external assistance.\n\n\n\n\n\n\nMulti-access Collaboration\n{==Likely drop this. ==}{&gt;&gt;&lt;&lt;} You teach a course which requires collaboration between learners. Some learners are able to attend class on campus, others can attend synchronously from off-campus, and still others can only attend asynchronously. About half of the remote learners live internationally.\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nAssessment Purpose\nAssessment of learning\nGrade each bi-weekly assignment.\n\n\n\nAssessment for learning\nRead a subset of bi-weekly assignments, identify and share performance trends with the whole class.\n\n\n\nAssessment as learning\nAsk students to self-assess their bi-weekly assignments using evaluative criteria.\n\n\nDuty of Care\nBias\nExamine assessment results to ensure subgroups are not assigned systematically higher or lower grades\n\n\n\nInclusion\nAvoid software that may make it difficult for equity-deserving populations to participate.\n\n\n\nRelationship\nEnsure that learning pods consist of people from all modalities (synchronous and asynchronous).\n\n\n\nEthical EdTech\n\n\n\nTechnology Acceptance\nPerformance Expectancy\n\n\n\n\nEffort Expectancy\n\n\n\n\nSocial Influences\n\n\n\n\nFacilitating Conditions\n\n\n\nAssessment Design\nAcademic Integrity\nUse automated software to check for academic misconduct.\n\n\n\nMeasurement Theory\nExamine assessment data to ensure content and construct validity.\n\n\n\nRelevance\n\n\n\n\nReciprocity"
+  },
+  {
+    "objectID": "posts/otessa25-specs/index.html#pilot-questions",
+    "href": "posts/otessa25-specs/index.html#pilot-questions",
+    "title": "Archives",
+    "section": "Pilot Questions",
+    "text": "Pilot Questions\n\nPart A: Demographics\n\nContact Information (only for prize draw)\n\nName\nEmail\n\nAt which institution do you primarily teach?\n\n\nBritish Columbia Institute of Technology\nCamosun College\nCapilano University\nDouglas College\nKwantlen Polytechnic University\nLangara College\nRoyal Roads University\nSimon Fraser University\nThompson Rivers University\nUniversity of British Columbia\nUniversity of British Columbia Okanagan\nUniversity of Fraser Valley\nUniversity of Northern British Columbia\nUniversity of Victoria\nVancouver Island University\n\n\nWhat best describes your role?\n\n{{IF}} Research faculty (research, teaching, service)\n{{IF}} Teaching faculty (teaching, service)\nSessional or adjunct\nOther, please specify\n\n{{THEN}} What best describes your status at your institution?\n\nLimited Term\nPre-tenure\nTenured\nOther, please specify.\n\nWhen we describe who participated in our study, which ethnic background category should we include you in? \nPlease indicate your age group:\n\n18-24\n25-34\n35-44\n45-54\n55-64\n65+\n\nSometimes we want to look at similarities and differences across gender groupings, which can help to understand the specific needs of a group. Which gender category should we include you in? \n\n\nWoman\nTransgender woman\nMan\nTransgender man\nNonbinary\nTwo-Spirit\nGenderqueer\nPrefer not to answer\nNone of these apply to me. I would like to be categorized as:\n\n\n\nPart B: Survey Questions by Construct\n\nPlease rate your level of agreement or disagreement with each statement.\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessment of Learning\n\n\nThe primary purpose of assessment is to assign a grade to student work.\nAssessment involves instructors making judgements about how well a student is learning in relation to other learners.\nInstructors should provide a letter or percentage grade for every assignment.\nAssessment results should be used to certify student achievement for reporting purposes.\nAssessment should occur only at the end of a learning experience or unit.\n\n\n\nAssessment for Learning\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nLearners should have the opportunity to revise and resubmit assessed work to demonstrate progress.\nInstructors should provide learners with opportunities to check their understanding throughout the course (e.g., ungraded quizzes, exit slips).\nAssessment involves the instructor judging a student’s performance in relation to a set of goals/standards/criteria. \n\n\n\nAssessment as Learning\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessment should allow learners to consider their own work in relation to exemplars.\nInstructors should provide self-assessment opportunities to help learners recognize and address gaps in their learning.\nAssessment should involve learners reflecting on their learning strategies.\nLearners should evaluate their own work.\n\n\n\nBias\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nInstructors have a responsibility to ensure subgroups (e.g., ethnicities, genders, etc) are not assigned systematically higher or lower grades.\nLearners should not be given full credit for work submitted past the due date.\nInstructors should examine their position in power structures in relation to assessing learning.\nAssessment can be harmful to some learners more than others.\nWhen assessing learning, instructors have a responsibility to recognize and uphold the dignity and value of all learners. \n\n\n\nInclusion\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nInstructors should avoid using technology for assessment that may make it difficult for learners requiring accommodation to participate.\nInstructors should provide learners with multiple options (e.g., written paper, oral presentation, or video) for demonstrating their achievement in relation to the learning outcomes.\nAssessment accommodations should be offered proactively to all learners.\nAssessment accommodations and strategies for inclusion should be co-designed by instructors and learners with disabilities.\nAn assessment can be waived for a learner when necessary to provide accommodations. \n\n\n\nRelationships\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessment should be flexible to incorporate developing positive relationships between learners and their communities.\nAssessment practices should foster relationships between learners in the course.\nAssessment practices should foster relationships between the instructor and learners in the course.\nWhen assessing learning, instructors should know and understand learners’ cultural backgrounds.\nWhen assessing learning, instructors should know and understand learners’ personal contexts and challenges.\nIt is important to encourage teamwork, collaboration, cooperation and other similar skills.\nIt is important to foster relationships throughout a course so that learners feel comfortable supporting each other in assessment tasks. \n\n\n\nEthical EdTech\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessment technology tools should protect learners’ privacy.\nAssessment technologies should respect the laws and norms of diverse regions.\nLearners should be able to provide informed consent to use assessment technologies outside of institutionally supported tools.\nLearners should be able to opt out of assessment technologies that could cause them harm.\nI have ethical concerns about using technology for assessment.\nAutomated tools (e.g., artificial intelligence, etc) that replace human decision-making should not be used to assess learner performance.\n\n\n\n\nMeasurement\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessment results should be similar across time and across diverse groups of learners.\nAssessment results should lead to accurate interpretations about what learners know.\nAssessment should only cover what is taught in class.\nGrades should reflect only what learners know.\nOral conversations are a valid form of assessment.\nAssessment tasks should be the same for all learners.\nAssessment accommodations are unfair to the rest of the students in the class\n\n\n\n\nAcademic Integrity\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nLearners should complete assessment tasks without the use of automated tools (e.g., artificial intelligence).\nAutomated software should be used to check for academic misconduct.\nAssigning grades that do not reflect what a learner knows is an act of academic dishonesty.\nIf a student was not taught content, then it should not appear on an assessment.\nConducting an assessment when a learner is experiencing personal distress is not appropriate. \nConducting an assessment that is not in line with learners’ accommodation needs is not teaching with integrity.\n\n\n\n\nRelevance\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessment should be relevant to learners’ contexts (e.g., their culture and interests, their larger community, their career goals).\nWhenever possible, assessment tasks should allow learners to apply their learning to their own context.\nAssessment strategies should be flexible to allow for learners to contextualize their work.\nAssessment tasks should allow learners to demonstrate their knowledge in ways that matter to them.\nAssessment tasks should allow learners to make meaningful contributions to society.\nAssessment tasks should provide opportunities for learners to enrich their local communities.\n\n\n\n\nReciprocity\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nLearners should have the opportunity to influence the course learning outcomes.\nLearners should have the opportunity to have input on the design of assessment tasks.\nFinal grades should be determined in consultation between instructors and learners.\nAssessment should be reciprocal, fostering personal growth among both instructors and students.\nInstructors should be open to their students bringing new ideas or perspectives to the content through assessment.\n\n\n\n\nPerformance Expectancy\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessing learning with technology would help me manage my assessment workload.\nUsing technology would improve my assessment practice.\nI would find technology useful for assessing learning.\nUsing technology for assessment would help me do a more accurate job of assessing learning.\nUsing technology for assessment would help learners better understand their assessment.\n\n\n\n\nEffort Expectancy\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nUsing technology for assessment is easy for me.\nLearning how to use technology for assessment would be easy for me.\nAssessing learning with technology would increase my workload. {{reverse coded}}\nLearning to use technology for assessment would be too much work. {{reverse coded}}\n\n\n\nSocial Influences\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nLearners in my classes think that I should use technology for assessment.\nPeople who are important to me think I should use technology for assessment.\nColleagues at my institution encourage me to use technology for assessment.\nColleagues in my discipline who are outside my institution think I should use technology for assessment.\nMy institution encourages the use of technology for assessment.\nAdministrators at my institution think I should use technology for assessment.\n\n\n\nFacilitating Conditions\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nMy institution would support me in assessing learning with technology\nMy institution would help me offer quality technology-integrated assessment.\nIn general, my institution would be supportive of technology-integrated assessment.\nI would have the resources necessary to use technology for assessment (e.g., equipment, internet access, etc.).\nHelp would be available if I experience difficulties with technology-integrated assessment."
+  },
+  {
+    "objectID": "posts/otessa25-specs/index.html#references",
+    "href": "posts/otessa25-specs/index.html#references",
+    "title": "Archives",
+    "section": "References",
+    "text": "References\n\n\nAjjawi, R., Tai, J., Dawson, P., & Boud, D. (2018). Conceptualising evaluative judgement for sustainable assessment in higher education. In D. Boud, R. Ajjawi, P. Dawson, & J. Tai (Eds.), Developing Evaluative Judgement in Higher Education (1st ed., pp. 7–17). Routledge. https://doi.org/10.4324/9781315109251-2\n\n\nBoud, D. (2021). Assessment-as-learning for the development of students’ evaluative judgement. In Z. Yan & L. Yang (Eds.), Assessment as Learning (1st ed., pp. 25–37). Routledge. https://doi.org/10.4324/9781003052081-3\n\n\nBoud, D., Dawson, P., Tai, J., & Ajjawi, R. (2018). Creating an agenda for developing students’ evaluative judgement. In D. Boud, R. Ajjawi, P. Dawson, & J. Tai (Eds.), Developing Evaluative Judgement in Higher Education (1st ed., pp. 186–195). Routledge. https://doi.org/10.4324/9781315109251-20\n\n\nCarless, D. (2019). Feedback loops and the longer-term: Towards feedback spirals. Assessment & Evaluation in Higher Education, 44(5), 705–714. https://doi.org/10.1080/02602938.2018.1531108\n\n\nDawson, P., Bearman, M., Dollinger, M., & Boud, D. (2024). Validity matters more than cheating. Assessment & Evaluation in Higher Education, 1–12. https://doi.org/10.1080/02602938.2024.2386662\n\n\nEarl, L. M., & Timperley, H. (2014). Challenging Conceptions of Assessment. In C. Wyatt-Smith, V. Klenowski, & P. Colbert (Eds.), Designing Assessment for Quality Learning (Vol. 1, pp. 325–336). Springer Netherlands. https://doi.org/10.1007/978-94-007-5902-2_20\n\n\nEaton, S. E. (2024). Comprehensive Academic Integrity (CAI): An Ethical Framework for Educational Contexts. In S. E. Eaton (Ed.), Second Handbook of Academic Integrity (pp. 1–14). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-54144-5_194\n\n\nMinister of Justice. (RSC 1985). Canadian Human Rights Act, R.S.C.\n\n\nNieminen, J. H. (2024). Assessment for Inclusion: Rethinking inclusive assessment in higher education. Teaching in Higher Education, 29(4), 841–859. https://doi.org/10.1080/13562517.2021.2021395\n\n\nNieminen, J. H., Bearman, M., & Ajjawi, R. (2022). Designing the digital in authentic assessment: Is it fit for purpose? Assessment & Evaluation in Higher Education, 48(0), 1–15. https://doi.org/10.1080/02602938.2022.2089627\n\n\nPellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). Knowing What Students Know: The Science and Design of Educational Assessment. National Academies Press. https://doi.org/10.17226/10019\n\n\nRodriguez-Triana, M. J., Prieto, L. P., Holzer, A., & Gillet, D. (2020). Instruction, Student Engagement, and Learning Outcomes: A Case Study Using Anonymous Social Media in a Face-to-Face Classroom. IEEE Transactions on Learning Technologies, 13(4), 718–733. https://doi.org/10.1109/TLT.2020.2995557\n\n\nSpector, J. M. (2016). Ethics in educational technology: Towards a framework for ethical decision making in and for the discipline. Educational Technology Research and Development, 64(5), 1003–1011. https://doi.org/10.1007/s11423-016-9483-0\n\n\nTessaro, D., Restoule, J.-P., Gaviria, P., Flessa, J., Lindeman, C., & Scully-Stewart, C. (2018). The Five R’s for Indigenizing Online Learning: A Case Study of the First Nations Schools’ Principals Course. Canadian Journal of Native Education, 40(1), 125–143.\n\n\nVenkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User Acceptance of Information Technology: Toward a Unified View. MIS Quarterly, 27(3), 425–478. https://doi.org/gc8zn2\n\n\nWoo, S. E., LeBreton, J. M., Keith, M. G., & Tay, L. (2023). Bias, Fairness, and Validity in Graduate-School Admissions: A Psychometric Perspective. Perspectives on Psychological Science, 18(1), 3–31. https://doi.org/10.1177/17456916211055374"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#developing-the-technology-integrated-assessment-scale",
+    "href": "posts/otessa25-scale/index.html#developing-the-technology-integrated-assessment-scale",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Developing the Technology-integrated Assessment Scale",
+    "text": "Developing the Technology-integrated Assessment Scale"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#acknowledgements",
+    "href": "posts/otessa25-scale/index.html#acknowledgements",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nOur team is spread across most of the country and we each live and work on land that has been cared for by Indigenous people for millenia. We each acknowledge that our abundant lives were made possible because of the displacement of the original stewards of the land."
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#background---otessa24",
+    "href": "posts/otessa25-scale/index.html#background---otessa24",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Background - OTESSA24",
+    "text": "Background - OTESSA24\nEvolving our understanding of technology-integrated assessment: A review of the literature and development of a new framework"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#two-papers",
+    "href": "posts/otessa25-scale/index.html#two-papers",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Two Papers",
+    "text": "Two Papers\n\nMadland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024b). Technology-Integrated Assessment: A Literature Review. The Open/Technology in Education, Society, and Scholarship Association Journal, 4(1), 1–48. https://doi.org/10.18357/otessaj.2024.4.1.57\nMadland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024a). Developing the Technology-Integrated Assessment Framework. The Open/Technology in Education, Society, and Scholarship Association Journal, 4(1), 1–19. https://doi.org/10.18357/otessaj.2024.4.1.63"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#technology-integrated-assessment-framework-tiaf",
+    "href": "posts/otessa25-scale/index.html#technology-integrated-assessment-framework-tiaf",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Technology-integrated Assessment Framework (TIAF)",
+    "text": "Technology-integrated Assessment Framework (TIAF)"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#components",
+    "href": "posts/otessa25-scale/index.html#components",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "4 Components",
+    "text": "4 Components\n\n\n\n\nAssessment Design\n\n\n\nTechnology Acceptance\n\n\n\nDuty of Care\n\n\n\nPurposes of Assessment"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#alt-view",
+    "href": "posts/otessa25-scale/index.html#alt-view",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Alt-View",
+    "text": "Alt-View\n\n\n\n\n\nflowchart TD\nclassDef purpose fill:#440154,color:#fff,stroke:#440154,stroke-width:4px\nclassDef duty fill:#3B528B,color:#fff,stroke:#3B528B,stroke-width:4px\nclassDef accept fill:#21918c,color:#fff,stroke:#21918c,stroke-width:4px\nclassDef design fill:#5EC962,color:#000,stroke:#5EC962,stroke-width:4px\n  A[Technology-Integrated Assessment] --- B(Assessment Purpose)\n  A(Technology-Integrated Assessment) --- C(Duty of Care)\n  A(Technology-Integrated Assessment) --- D(Technology Acceptance)\n  A(Technology-Integrated Assessment) --- E(Assessment Design)\n  B --- F([Assessment of Learning]) --- G([Assessment for Learning]) --- H([Assessment as Learning])\n  C --- I([Bias]) --- J([Inclusion]) --- K([Relationships]) --- L([Ethical EdTech])\n  D --- M([Performance Expectancy]) --- N([Effort Expectancy]) --- O([Social Influence]) --- P([Facilitating Conditions])\n  E --- Q([Measurement Theory]) --- R([Academic Integrity]) --- S([Relevance]) --- T([Reciprocity])\n  class B,F,G,H purpose\n  class C,I,J,K,L duty\n  class D,M,N,O,P accept\n  class E,Q,R,S,T design"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#differentiation",
+    "href": "posts/otessa25-scale/index.html#differentiation",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Differentiation",
+    "text": "Differentiation\n\n5Rs of Indigenous Education (Tessaro et al., 2018)\n\nRelationship\nRespect\n\nResponsibility\nRelevance\nReciprocity"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#differentiation-1",
+    "href": "posts/otessa25-scale/index.html#differentiation-1",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Differentiation",
+    "text": "Differentiation\n\nDuty of Care\n\nBias\nInclusion\nRelationships\nEthical EdTech"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#differentiation-2",
+    "href": "posts/otessa25-scale/index.html#differentiation-2",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Differentiation",
+    "text": "Differentiation\n\nTechnology Acceptance (Venkatesh et al., 2003)\n\nPerformance Expectancy\nEffort Expectancy\nSocial Influence\nFacilitating Conditions"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#analysis",
+    "href": "posts/otessa25-scale/index.html#analysis",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Analysis",
+    "text": "Analysis"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#exploratory-factor-analysis",
+    "href": "posts/otessa25-scale/index.html#exploratory-factor-analysis",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Exploratory Factor Analysis",
+    "text": "Exploratory Factor Analysis\n\nspecify constructs\nidentify parameters\ngenerate and refine items\ncontent validity"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#expert-reviews",
+    "href": "posts/otessa25-scale/index.html#expert-reviews",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Expert Reviews",
+    "text": "Expert Reviews"
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#funding-and-support",
+    "href": "posts/otessa25-scale/index.html#funding-and-support",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "Funding and Support",
+    "text": "Funding and Support\nThis  research  was supported by the  BCcampus  Research  Fellows  Program, which provides B.C. post-secondary educators and students with funding to conduct small-scale research on teaching and learning, as well as explore evidence-based teaching practices that focus on student success and learning."
+  },
+  {
+    "objectID": "posts/otessa25-scale/index.html#references",
+    "href": "posts/otessa25-scale/index.html#references",
+    "title": "Technology-integrated Assessment Scale",
+    "section": "References",
+    "text": "References\n\n\nTessaro, D., Restoule, J.-P., Gaviria, P., Flessa, J., Lindeman, C., & Scully-Stewart, C. (2018). The Five R’s for Indigenizing Online Learning: A Case Study of the First Nations Schools’ Principals Course. Canadian Journal of Native Education, 40(1), 125–143.\n\n\nVenkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User Acceptance of Information Technology: Toward a Unified View. MIS Quarterly, 27(3), 425–478. https://doi.org/gc8zn2\n\n\n\n\n\n\nSpecial thanks to BCcampus"
   },
   {
     "objectID": "posts/deck-otessa24/index.html#evolving-our-understanding-of-technology-integrated-assessment-a-review-of-the-literature-and-development-of-a-new-framework",
@@ -280,437 +742,59 @@
     "text": "References\n\n\nBearman, M., Nieminen, J., & Ajjawi, R. (2022). Designing assessment in a digital world: An organising framework. Assessment & Evaluation in Higher Education, 48(3). https://doi.org/10.1080/02602938.2022.2069674\n\n\nDeLuca, C., LaPointe-McEwan, D., & Luhanga, U. (2016). Approaches to classroom assessment inventory: A new instrument to support teacher assessment literacy. Educational Assessment, 21, 248–266. https://doi.org/gfgtsg\n\n\nMadland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024a). Developing the Technology-Integrated Assessment Framework. The Open/Technology in Education, Society, and Scholarship Association Journal, 4(1), 1–19. https://doi.org/10.18357/otessaj.2024.4.1.63\n\n\nMadland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024b). Technology-Integrated Assessment: A Literature Review. The Open/Technology in Education, Society, and Scholarship Association Journal, 4(1), 1–48.\n\n\nPuentedura, R. R. (2009). Building Transformation: An Introduction to the SAMR Model. In http://hippasus.com.\n\n\n\n\n\n\n\nSpecial thanks to BCcampus"
   },
   {
-    "objectID": "posts/otessa25-scale/index.html#developing-the-technology-integrated-assessment-scale",
-    "href": "posts/otessa25-scale/index.html#developing-the-technology-integrated-assessment-scale",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Developing the Technology-integrated Assessment Scale",
-    "text": "Developing the Technology-integrated Assessment Scale"
+    "objectID": "posts/ccsn-nectir/index.html#nectir.ai",
+    "href": "posts/ccsn-nectir/index.html#nectir.ai",
+    "title": "nectir.ai at TWU",
+    "section": "nectir.ai",
+    "text": "nectir.ai\n\npilot implementation in a set of 3 asynchronous courses"
   },
   {
-    "objectID": "posts/otessa25-scale/index.html#acknowledgements",
-    "href": "posts/otessa25-scale/index.html#acknowledgements",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nOur team is spread across most of the country and we each live and work on land that has been cared for by Indigenous people for millenia. We each acknowledge that our abundant lives were made possible because of the displacement of the original stewards of the land."
+    "objectID": "posts/ccsn-nectir/index.html#set-up",
+    "href": "posts/ccsn-nectir/index.html#set-up",
+    "title": "nectir.ai at TWU",
+    "section": "Set-up",
+    "text": "Set-up\n\nScreenshot of nectir.ai details in Moodle."
   },
   {
-    "objectID": "posts/otessa25-scale/index.html#background---otessa24",
-    "href": "posts/otessa25-scale/index.html#background---otessa24",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Background - OTESSA24",
-    "text": "Background - OTESSA24\nEvolving our understanding of technology-integrated assessment: A review of the literature and development of a new framework"
+    "objectID": "posts/ccsn-nectir/index.html#ux",
+    "href": "posts/ccsn-nectir/index.html#ux",
+    "title": "nectir.ai at TWU",
+    "section": "UX",
+    "text": "UX\n\nScreenshot of nectir.ai user experience."
   },
   {
-    "objectID": "posts/otessa25-scale/index.html#two-papers",
-    "href": "posts/otessa25-scale/index.html#two-papers",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Two Papers",
-    "text": "Two Papers\n\nMadland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024b). Technology-Integrated Assessment: A Literature Review. The Open/Technology in Education, Society, and Scholarship Association Journal, 4(1), 1–48. https://doi.org/10.18357/otessaj.2024.4.1.57\nMadland, C., Irvine, V., DeLuca, C., & Bulut, O. (2024a). Developing the Technology-Integrated Assessment Framework. The Open/Technology in Education, Society, and Scholarship Association Journal, 4(1), 1–19. https://doi.org/10.18357/otessaj.2024.4.1.63"
+    "objectID": "posts/ccsn-nectir/index.html#settings",
+    "href": "posts/ccsn-nectir/index.html#settings",
+    "title": "nectir.ai at TWU",
+    "section": "Settings",
+    "text": "Settings\n\nScreenshot of nectir.ai settings."
   },
   {
-    "objectID": "posts/otessa25-scale/index.html#technology-integrated-assessment-framework-tiaf",
-    "href": "posts/otessa25-scale/index.html#technology-integrated-assessment-framework-tiaf",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Technology-integrated Assessment Framework (TIAF)",
-    "text": "Technology-integrated Assessment Framework (TIAF)"
+    "objectID": "posts/ccsn-nectir/index.html#knowledge-and-data-settings",
+    "href": "posts/ccsn-nectir/index.html#knowledge-and-data-settings",
+    "title": "nectir.ai at TWU",
+    "section": "Knowledge and Data Settings",
+    "text": "Knowledge and Data Settings\n\n\n\n\n\nScreenshot of nectir.ai knowledge.\n\n\n\n\n\n\nScreenshot of nectir.ai data settings."
   },
   {
-    "objectID": "posts/otessa25-scale/index.html#components",
-    "href": "posts/otessa25-scale/index.html#components",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "4 Components",
-    "text": "4 Components\n\n\n\n\nAssessment Design\n\n\n\nTechnology Acceptance\n\n\n\nDuty of Care\n\n\n\nPurposes of Assessment"
+    "objectID": "posts/ccsn-nectir/index.html#advanced-settings",
+    "href": "posts/ccsn-nectir/index.html#advanced-settings",
+    "title": "nectir.ai at TWU",
+    "section": "Advanced Settings",
+    "text": "Advanced Settings\n\nScreenshot of nectir.ai advanced settings."
   },
   {
-    "objectID": "posts/otessa25-scale/index.html#alt-view",
-    "href": "posts/otessa25-scale/index.html#alt-view",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Alt-View",
-    "text": "Alt-View\n\n\n\n\n\nflowchart TD\nclassDef purpose fill:#440154,color:#fff,stroke:#440154,stroke-width:4px\nclassDef duty fill:#3B528B,color:#fff,stroke:#3B528B,stroke-width:4px\nclassDef accept fill:#21918c,color:#fff,stroke:#21918c,stroke-width:4px\nclassDef design fill:#5EC962,color:#000,stroke:#5EC962,stroke-width:4px\n  A[Technology-Integrated Assessment] --- B(Assessment Purpose)\n  A(Technology-Integrated Assessment) --- C(Duty of Care)\n  A(Technology-Integrated Assessment) --- D(Technology Acceptance)\n  A(Technology-Integrated Assessment) --- E(Assessment Design)\n  B --- F([Assessment of Learning]) --- G([Assessment for Learning]) --- H([Assessment as Learning])\n  C --- I([Bias]) --- J([Inclusion]) --- K([Relationships]) --- L([Ethical EdTech])\n  D --- M([Performance Expectancy]) --- N([Effort Expectancy]) --- O([Social Influence]) --- P([Facilitating Conditions])\n  E --- Q([Measurement Theory]) --- R([Academic Integrity]) --- S([Relevance]) --- T([Reciprocity])\n  class B,F,G,H purpose\n  class C,I,J,K,L duty\n  class D,M,N,O,P accept\n  class E,Q,R,S,T design"
-  },
-  {
-    "objectID": "posts/otessa25-scale/index.html#differentiation",
-    "href": "posts/otessa25-scale/index.html#differentiation",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Differentiation",
-    "text": "Differentiation\n\n5Rs of Indigenous Education (Tessaro et al., 2018)\n\nRelationship\nRespect\n\nResponsibility\nRelevance\nReciprocity"
-  },
-  {
-    "objectID": "posts/otessa25-scale/index.html#differentiation-1",
-    "href": "posts/otessa25-scale/index.html#differentiation-1",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Differentiation",
-    "text": "Differentiation\n\nDuty of Care\n\nBias\nInclusion\nRelationships\nEthical EdTech"
-  },
-  {
-    "objectID": "posts/otessa25-scale/index.html#differentiation-2",
-    "href": "posts/otessa25-scale/index.html#differentiation-2",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Differentiation",
-    "text": "Differentiation\n\nTechnology Acceptance (Venkatesh et al., 2003)\n\nPerformance Expectancy\nEffort Expectancy\nSocial Influence\nFacilitating Conditions"
-  },
-  {
-    "objectID": "posts/otessa25-scale/index.html#analysis",
-    "href": "posts/otessa25-scale/index.html#analysis",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Analysis",
-    "text": "Analysis"
-  },
-  {
-    "objectID": "posts/otessa25-scale/index.html#exploratory-factor-analysis",
-    "href": "posts/otessa25-scale/index.html#exploratory-factor-analysis",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Exploratory Factor Analysis",
-    "text": "Exploratory Factor Analysis\n\nspecify constructs\nidentify parameters\ngenerate and refine items\ncontent validity"
-  },
-  {
-    "objectID": "posts/otessa25-scale/index.html#expert-reviews",
-    "href": "posts/otessa25-scale/index.html#expert-reviews",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Expert Reviews",
-    "text": "Expert Reviews"
-  },
-  {
-    "objectID": "posts/otessa25-scale/index.html#funding-and-support",
-    "href": "posts/otessa25-scale/index.html#funding-and-support",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "Funding and Support",
-    "text": "Funding and Support\nThis  research  was supported by the  BCcampus  Research  Fellows  Program, which provides B.C. post-secondary educators and students with funding to conduct small-scale research on teaching and learning, as well as explore evidence-based teaching practices that focus on student success and learning."
-  },
-  {
-    "objectID": "posts/otessa25-scale/index.html#references",
-    "href": "posts/otessa25-scale/index.html#references",
-    "title": "Technology-integrated Assessment Scale",
-    "section": "References",
-    "text": "References\n\n\nTessaro, D., Restoule, J.-P., Gaviria, P., Flessa, J., Lindeman, C., & Scully-Stewart, C. (2018). The Five R’s for Indigenizing Online Learning: A Case Study of the First Nations Schools’ Principals Course. Canadian Journal of Native Education, 40(1), 125–143.\n\n\nVenkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User Acceptance of Information Technology: Toward a Unified View. MIS Quarterly, 27(3), 425–478. https://doi.org/gc8zn2\n\n\n\n\n\n\nSpecial thanks to BCcampus"
-  },
-  {
-    "objectID": "posts/otessa25-specs/index.html",
-    "href": "posts/otessa25-specs/index.html",
-    "title": "Archives",
+    "objectID": "posts/prompt/index.html",
+    "href": "posts/prompt/index.html",
+    "title": "nectir.ai Prompt",
     "section": "",
-    "text": "Meta-Construct\nConstruct\nDescription\n\n\n\n\nAssessment Purpose\n\n\n\n\n\nAssessment of Learning\nAssessment of learning is what we typically call summative assessment where the intent of the assessment is to certify whether or not learners have achieved the learning outcomes. It occurs at the end of the learning experience and does not have an impact on future teaching or learning. Assessment of learning results in a symbolic representation of each learner’s level of achievement. Symbols, usually letter grades or percentages, are used to communicate with learners, other institutions, regulatory agencies, and other external stakeholders, and are permanent records associated with learners. They are often used to rank learners for the purposes of scholarships and awards, entry into further education, and sometimes for employment purposes.\n\n\n\nAssessment for Learning\nAssessment for learning refers to activities within a learning experience that are designed to provide information on a learner’s current level of achievement. This information is then used to inform future teaching and learning activities. Current levels of achievement are considered to be temporary and can be overridden by future demonstrations of achievement. Both instructors and learners benefit from the ongoing process of opening and closing feedback loops (Carless, 2019), which require feedback to be actively used to improve learning.\n\n\n\nAssessment as Learning\nAssessment as learning is the process of learners developing the skill of “evaluative judgement” (Boud, 2021), which is the ability of learners to judge their own level of achievement in relation to the learning outcomes. It is a reflexive process whereby learners consider the results of their learning strategies and develop more effective strategies to enhance their performance. Assessment as learning allows learners to construct meaning from their experiences, identify gaps in their own knowledge, and to make meaningful decisions about their level of proficiency. Assessment as learning requires learners to be able to discern quality, judge learning processes, manage their biases, assess the trustworthiness of sources and seek opportunities for practice (Boud, 2021).\n\n\nDuty of Care\n\n\n\n\n\nBias\nBias refers to the psychometric term where one group of learners is systematically advantaged or disadvantaged relative to other groups of learners (e.g., Caucasian learners as a group perform better than Asian learners as a group on an assessment due to some characteristic beyond their control) while the ability of each group is the same (Woo et al., 2023). Bias can result from either the inclusion of construct-irrelevant content (e.g., considering learner age when assessing their ability) or the omission of construct-relevant content resulting in variance in scores.\n\n\n\nInclusion\nInclusion involves recognizing marginalized learners as having equitable agency in a learning community (Nieminen, 2024). Marginalization can be based in a wide variety of factors and includes items listed in § 3.1 of the Canadian Human Rights Act (Minister of Justice, RSC 1985).\n\n\n\nRelationships\nRelationship is intended to highlight the importance of designing assessment to foster positive relations between instructors and learners, learners and others in the class, learners and their individual communities (Tessaro et al., 2018), and learners and society as a whole (Nieminen et al., 2022).\n\n\n\nEthical EdTech\nInstructors who use technologies for assessment are obligated to do so in alignment with appropriate codes of ethics. Statements of professional ethics can be related to expectations common to all instructors, such as ensuring that student data is not accessible to third party vendors or advertisers, and they can also be discipline-specific, such as ensuring that physical activity-tracking technology does not disclose learner locations inappropriately (Spector, 2016). Professional ethics involve obligations to individual learners, to society, and to the profession of teaching.\n\n\nTechnology Acceptance\n\n\n\n\n\nPerformance Expectancy\nPerformance expectancy relates to the technology user’s perception that the technology will enable them to perform their job or task at a higher level, it will save them time, or it will reduce the amount of time they need to spend on some tasks (Venkatesh et al., 2003).\n\n\n\nEffort Expectancy\nEffort expectancy relates to the ease of use of the technology. Ease of use is most salient among older women who have less experience with the technology, and it decreases in importance as all users with sustained use (Woo et al., 2023).\n\n\n\nSocial Influence\nSocial influence is the degree to which other people who are important to the user think that they should use the technology. When use of the technology is voluntary, social influence is not a significant factor in predicting acceptance, but when use is mandatory, social influences seem to increase compliance (Woo et al., 2023).\n\n\n\nFacilitating Conditions\nFacilitating conditions are related to the user’s belief that there will be sufficient institutional support in using the technology. When both performance and effort expectancy are high (the technology will improve outcomes with minimal effort), the facilitating conditions construct becomes less significant (Woo et al., 2023)\n\n\nAssessment Design\n\n\n\n\n\nMeasurement\nEducational measurement is a quantitative approach to generating inferences about learner ability, often known as psychomterics. A foundational premiss of psychometrics is that the end result of assessment is always an inference or an interpretation about learner ability based on data collected through various tasks; it is not a direct measurement of a quantity of ability (Pellegrino et al., 2001). In order for inferences of learner ability to be accurate interpretations, they must be valid, reliable, and fair.\n\n\n\nAcademic Integrity\nModern conceptions of academic integrity encompass a comprehensive range of values and behaviours, including: everyday ethics, institutional ethics, ethical leadership, professional and collegial ethics, instructional ethics, student academic conduct, research integrity and ethics, and publication ethics (Eaton, 2024). This description goes beyond ethical learner conduct and extends to the ethical conduct of instructors in the context of instruction and assessment. Dawson (2024) argues that academic integrity is key to instructors being able to derive valid inferences from learner performance.\n\n\n\nReciprocity\nReciprocity refers to the idea that assessment with technology should enrich both learners and instructors, as well as the learners’ communities (Tessaro et al., 2018). Reciprocity must be an intentional component of the design of assessment strategies (Rodriguez-Triana et al., 2020).\n\n\n\nRelevance\nAssessment practice ought to be relevant to the culture of the learner. In Indigenous learning contexts, this suggests an emphasis on oral communication and learning in a community context (Tessaro et al., 2018). We extend this argument and assert that oral communication is a key factor in ensuring ethical practice in any context."
-  },
-  {
-    "objectID": "posts/otessa25-specs/index.html#table-of-specifications",
-    "href": "posts/otessa25-specs/index.html#table-of-specifications",
-    "title": "Archives",
-    "section": "",
-    "text": "Meta-Construct\nConstruct\nDescription\n\n\n\n\nAssessment Purpose\n\n\n\n\n\nAssessment of Learning\nAssessment of learning is what we typically call summative assessment where the intent of the assessment is to certify whether or not learners have achieved the learning outcomes. It occurs at the end of the learning experience and does not have an impact on future teaching or learning. Assessment of learning results in a symbolic representation of each learner’s level of achievement. Symbols, usually letter grades or percentages, are used to communicate with learners, other institutions, regulatory agencies, and other external stakeholders, and are permanent records associated with learners. They are often used to rank learners for the purposes of scholarships and awards, entry into further education, and sometimes for employment purposes.\n\n\n\nAssessment for Learning\nAssessment for learning refers to activities within a learning experience that are designed to provide information on a learner’s current level of achievement. This information is then used to inform future teaching and learning activities. Current levels of achievement are considered to be temporary and can be overridden by future demonstrations of achievement. Both instructors and learners benefit from the ongoing process of opening and closing feedback loops (Carless, 2019), which require feedback to be actively used to improve learning.\n\n\n\nAssessment as Learning\nAssessment as learning is the process of learners developing the skill of “evaluative judgement” (Boud, 2021), which is the ability of learners to judge their own level of achievement in relation to the learning outcomes. It is a reflexive process whereby learners consider the results of their learning strategies and develop more effective strategies to enhance their performance. Assessment as learning allows learners to construct meaning from their experiences, identify gaps in their own knowledge, and to make meaningful decisions about their level of proficiency. Assessment as learning requires learners to be able to discern quality, judge learning processes, manage their biases, assess the trustworthiness of sources and seek opportunities for practice (Boud, 2021).\n\n\nDuty of Care\n\n\n\n\n\nBias\nBias refers to the psychometric term where one group of learners is systematically advantaged or disadvantaged relative to other groups of learners (e.g., Caucasian learners as a group perform better than Asian learners as a group on an assessment due to some characteristic beyond their control) while the ability of each group is the same (Woo et al., 2023). Bias can result from either the inclusion of construct-irrelevant content (e.g., considering learner age when assessing their ability) or the omission of construct-relevant content resulting in variance in scores.\n\n\n\nInclusion\nInclusion involves recognizing marginalized learners as having equitable agency in a learning community (Nieminen, 2024). Marginalization can be based in a wide variety of factors and includes items listed in § 3.1 of the Canadian Human Rights Act (Minister of Justice, RSC 1985).\n\n\n\nRelationships\nRelationship is intended to highlight the importance of designing assessment to foster positive relations between instructors and learners, learners and others in the class, learners and their individual communities (Tessaro et al., 2018), and learners and society as a whole (Nieminen et al., 2022).\n\n\n\nEthical EdTech\nInstructors who use technologies for assessment are obligated to do so in alignment with appropriate codes of ethics. Statements of professional ethics can be related to expectations common to all instructors, such as ensuring that student data is not accessible to third party vendors or advertisers, and they can also be discipline-specific, such as ensuring that physical activity-tracking technology does not disclose learner locations inappropriately (Spector, 2016). Professional ethics involve obligations to individual learners, to society, and to the profession of teaching.\n\n\nTechnology Acceptance\n\n\n\n\n\nPerformance Expectancy\nPerformance expectancy relates to the technology user’s perception that the technology will enable them to perform their job or task at a higher level, it will save them time, or it will reduce the amount of time they need to spend on some tasks (Venkatesh et al., 2003).\n\n\n\nEffort Expectancy\nEffort expectancy relates to the ease of use of the technology. Ease of use is most salient among older women who have less experience with the technology, and it decreases in importance as all users with sustained use (Woo et al., 2023).\n\n\n\nSocial Influence\nSocial influence is the degree to which other people who are important to the user think that they should use the technology. When use of the technology is voluntary, social influence is not a significant factor in predicting acceptance, but when use is mandatory, social influences seem to increase compliance (Woo et al., 2023).\n\n\n\nFacilitating Conditions\nFacilitating conditions are related to the user’s belief that there will be sufficient institutional support in using the technology. When both performance and effort expectancy are high (the technology will improve outcomes with minimal effort), the facilitating conditions construct becomes less significant (Woo et al., 2023)\n\n\nAssessment Design\n\n\n\n\n\nMeasurement\nEducational measurement is a quantitative approach to generating inferences about learner ability, often known as psychomterics. A foundational premiss of psychometrics is that the end result of assessment is always an inference or an interpretation about learner ability based on data collected through various tasks; it is not a direct measurement of a quantity of ability (Pellegrino et al., 2001). In order for inferences of learner ability to be accurate interpretations, they must be valid, reliable, and fair.\n\n\n\nAcademic Integrity\nModern conceptions of academic integrity encompass a comprehensive range of values and behaviours, including: everyday ethics, institutional ethics, ethical leadership, professional and collegial ethics, instructional ethics, student academic conduct, research integrity and ethics, and publication ethics (Eaton, 2024). This description goes beyond ethical learner conduct and extends to the ethical conduct of instructors in the context of instruction and assessment. Dawson (2024) argues that academic integrity is key to instructors being able to derive valid inferences from learner performance.\n\n\n\nReciprocity\nReciprocity refers to the idea that assessment with technology should enrich both learners and instructors, as well as the learners’ communities (Tessaro et al., 2018). Reciprocity must be an intentional component of the design of assessment strategies (Rodriguez-Triana et al., 2020).\n\n\n\nRelevance\nAssessment practice ought to be relevant to the culture of the learner. In Indigenous learning contexts, this suggests an emphasis on oral communication and learning in a community context (Tessaro et al., 2018). We extend this argument and assert that oral communication is a key factor in ensuring ethical practice in any context."
-  },
-  {
-    "objectID": "posts/otessa25-specs/index.html#parameters-rough-sample",
-    "href": "posts/otessa25-specs/index.html#parameters-rough-sample",
-    "title": "Archives",
-    "section": "Parameters (Rough Sample)",
-    "text": "Parameters (Rough Sample)\n\nAssessment of learning\n- factored into a final grade - occurs after learning\n- certification of proficiency -\n- communication of proficiency (learners, other institutions, agencies)\n- expressed symbolically\n- used to rank learners\n- - (hodge-podge) symbols that conflate achievement and behaviour\n- quantitative\n- often uses security measures to prevent academic dishonesty\n- The teacher is responsible for assessment\n\nPossible questions\nHave you engaged in the following assessment practices:\n\nprovide a grade (numeric or percentage) on all learner work\nban genAI tools to ensure work submitted belongs to each individual learner\nuse tools to detect plagiarism or other forms of cheating\ndeduct ‘points’ for late assignments\nassign grades based on how other learners perform\ncalculate final grades as an average of all assignments throughout the course\n\n\n\n\nAssessment for learning\n\ncreating descriptions to be used to inform future learning\nlearners are evaluated according to their own performance in light of criteria\noccurs multiple times during learning\ndepends on teachers diagnostic skills\nthe teacher is responsible for assessment\nfocus is on improving learning (Earl & Timperley, 2014)\n\n\nPossible questions\nHave you engaged in the following assessment practices:\n\nuse learner performance to inform future learning activities\nprovide proficiency feedback related to how learners performed in relation to outcomes (proficiency scale)\nassign ungraded self-check activities throughout the learning\nallow learners to revise and resubmit work that does not meet proficiency standards\ncalculate final grades based on the highest level of proficiency achieved throughout the course\n\n\n\n\nAssessment as Learning\nThe key characteristic of assessment as learning is that learners are challenged to monitor and reflect on their own progress relative to the course outcomes (Boud, 2021). This extends beyond simple self-assessment as it requires learners to engage in multiple complex tasks such as being able to recognize quality in light of stated outcomes, evaluate the quality of their own work, consider the effect of their own biases, determine whether or not a resource or other person is trustworthy, and identify areas in need of practice (Boud et al., 2018). Understanding and being able to recognize quality involves learners developing a clear framework or conceptualization of the domain of knowledge or skill being explored in the unit, course, or program (Ajjawi et al., 2018).\n\nlearners monitor their own learning\nlearners make their own adjustments based on their analysis of their proficiency\nLearners use their own knowledge to construct meaning\nlearners identify when they don’t understand something\nthe learner has agency for assessment\n\n\nPossible Questions\nHave you engaged in the following assessment practices:\n\nlearners are provided opportunity to check their understanding to identify gaps in their understanding\nencourage learners to document their learning process to make it visible\nprovide learners opportunity to identify their own questions relevant to the course outcomes\ncollaborate with learners to evaluate the quality of genAI outputs\nask learners to evaluate their own assignments in light of proficiency scales"
-  },
-  {
-    "objectID": "posts/otessa25-specs/index.html#draft-1-scenario-based-questions",
-    "href": "posts/otessa25-specs/index.html#draft-1-scenario-based-questions",
-    "title": "Archives",
-    "section": "Draft 1: Scenario-Based Questions",
-    "text": "Draft 1: Scenario-Based Questions\nYou will be presented with five scenarios in this section. Each scenario has 15 actions. For each action, please identify how likely you are to do each of the following as part of your overall response to the scenario (1=highly unlikely; 2=unlikely; 3=somewhat unlikely; 4=somewhat likely; 5=likely; 6=highly likely).\nPlease interpret the scenario in relation to your current teaching context; if you teach across contexts, select one context and keep this context in mind when completing the entire survey. There are no right or wrong answers. We are interested in your honest responses to the scenarios. If you do not understand the statement, select ‘Don’t Know.’\n\nLarge Enrolment Course\nYou are teaching a large enrollment course. The students will be submitting bi-weekly assignments, a midterm exam, and a culminating assignment all designed to support their learning and submitted in the institurional LMS. (ACAI-HE)\nHow might the following influence your decision whether or not to use technology in this situation? (1=Much less likely to use technology - 6 = Much more likely to use technology)\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nTechnology Acceptance\nPerformance Expectancy\nYou have confidence that the technology will work as expected.\n\n\n\nEffort Expectancy\nThe technology will require more time to set up and use than not using technology.\n\n\n\nSocial Influences\nA trusted colleague has told you that you should use the technology.\n\n\n\nFacilitating Conditions\nYou are confident that you will be able to get technical support in a timely manner.\n\n\n\nPresuming you decide to use technology, how likely are you to take the following actions in this situation?\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nAssessment Purpose\nAssessment of learning\nGrade each bi-weekly assignment.\n\n\n\nAssessment for learning\nRead a subset of bi-weekly assignments, identify and share performance trends with the whole class.\n\n\n\nAssessment as learning\nAsk students to self-assess their bi-weekly assignments using evaluative criteria.\n\n\nDuty of Care\nBias\nExamine assessment results to ensure subgroups are not assigned systematically higher or lower grades\n\n\n\nInclusion\nAvoid software that may make it difficult for equity-deserving populations to participate.\n\n\n\nRelationship\nOrganize learners into learning pods of 3-5 for peer support and learning.\n\n\n\nEthical EdTech\nEnsure that software used in class does not contribute to learner anxiety.\n\n\nAssessment Design\nAcademic Integrity\nUse automated software to check for academic misconduct.\n\n\n\nMeasurement Theory\nExamine assessment data to ensure content and construct validity.\n\n\n\nRelevance\nEnsure that assessment strategies are relevant to learners’ contexts.\n\n\n\nReciprocity\nUse learning pods to engage in peer-review and feedback.\n\n\n\n\n\n\nGenerative Artificial Intelligence (GenAI)\nAn assignment in your course requires learners to write a 2000 word essay and your department has requested that each instructor develop an assessment strategy in light of generative AI tools (ChatGPT, Google Bard).\nHow might the following influence your decision whether or not to use technology in this situation? (1=Much less likely to use technology - 6 = Much More likely to use technology)\n\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nTechnology Acceptance\nPerformance Expectancy\nYou have confidence that the technology will work as expected.\n\n\n\nEffort Expectancy\nIt is too much work to try to limit the use of generative AI tools, so you allow its use under certain conditions.\n\n\n\nSocial Influences\nA trusted colleague has told you that you won’t be able to detect AI generated content.\n\n\n\nFacilitating Conditions\nYou are confident that you will be able to get support for developing assessment tasks that discourage or prevent the use of generative AI.\n\n\n\nPresuming you decide to use technology, how likely are you to take the following actions in this situation?\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nAssessment Purpose\nAssessment of learning\nImplement a ban on all GenAI tools.\n\n\n\nAssessment for learning\nAllow learners to use GenAI to generate ideas with proper citations and informed consent.\n\n\n\nAssessment as learning\nCollaborate with learners to evaluate the quality of GenAI outputs and the ethics of their use.\n\n\nDuty of Care\nBias\nExamine assessment results to ensure that learners who used genAI did not score significantly higher or lower than those who did not.\n\n\n\nInclusion\nConfirm that all learners know how to access and use a genAI tool to assist them.\n\n\n\nRelationship\nEncourage cooperative approaches to learning in learning pods.\n\n\n\nEthical EdTech\nProvide learners with training on using ‘local-only’ generative AI tools that they can use to assist their work.\n\n\nAssessment Design\nAcademic Integrity\nRequire learners to submit papers through software that claims to detect plagiarism and AI-generated writing.\n\n\n\nMeasurement Theory\nExamine assessment data to ensure there are no significant grade differences between learners who used generative AI and those who did not.\n\n\n\nRelevance\nSince learners will use generative AI in their careers, ensure that they know how to construct helpful prompts.\n\n\n\nReciprocity\nExperiment with learners to learn about the capabilities and limitations of generative AI.\n\n\n\n\n\n\nPlagiarism Detection and Remote Proctoring\nYou teach a course with multiple sections taught by various instructors. Your department head has noticed that you are the only instructor who does not use plagiarism detection software (Turnitin) or remote proctoring (Proctorio, or ProctorU)\nHow might the following influence your decision whether or not to use technology in this situation? (1=Much less likely to use technology - 6 = Much More likely to use technology)\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nTechnology Acceptance\nPerformance Expectancy\nYou learn that surveillance tools have a high error rate.\n\n\n\nEffort Expectancy\nYou learn that instructors who use surveillance technologies spend less time grading than you do.\n\n\n\nSocial Influences\nA trusted colleague has sent you an article on the privacy concerns related to surveillance technologies.\n\n\n\nFacilitating Conditions\nYou are confident that you will be able to get support for developing assessment tasks that discourage or prevent academically dishonest assignment submissions.\n\n\n\nPresuming you decide to use technology, how likely are you to take the following actions in this situation?\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nAssessment Purpose\nAssessment of learning\nImplement the use of tools that claim to detect plagiarism or cheating on exams.\n\n\n\nAssessment for learning\nAdvocate for department standards that prioritize feedback processes over technology-centric policing of academic misconduct.\n\n\n\nAssessment as learning\nEncourage learners to develop workflows that document and make the process of their learning visible.\n\n\nDuty of Care\nBias\nEvaluate with learners the equity implications of using technology-centric policing of academic misconduct.\n\n\n\nInclusion\nDecline to use technology to police academic misconduct due to concerns about unequal access to appropriate learning resources or tools.\n\n\n\nRelationship\nEncourage learning pods to review each others’ work for quality and compliance to standards of academic writing.\n\n\n\nEthical EdTech\nOnly use technology tools that protect learner anonymity.\n\n\nAssessment Design\nAcademic Integrity\nStructure your course to minimize the likelihood of academic misconduct.\n\n\n\nMeasurement Theory\nExamine assessment data to ensure that measures to promote academic honesty do not introduce construct irrelevant variance.\n\n\n\nRelevance\nEnsure that assessment tasks are relevant to learners’ contexts and community as a strategy to reduce academic dishonesty.\n\n\n\nReciprocity\nHost a conversation with learners to discuss the importance of academic honesty for the entire higher education community.\n\n\n\n\n\n\nOrientations to Assessment and Grading\nThere are expectations in your department that grades should be distributed across the grading scale. However, your class averages are consistently lower than your colleagues’. Your course assessment scheme includes two term exams and one final exam. (ACAI-HE)\nHow might the following influence your decision whether or not to use technology in this situation? (1=Much less likely to use technology - 6 = Much More likely to use technology)\n\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nTechnology Acceptance\nPerformance Expectancy\nYou learn about an assessment method that uses technology to increase the accuracy of your grades.\n\n\n\nEffort Expectancy\nYou learn about an assessment method that will require you to learn how to use a new technology tool.\n\n\n\nSocial Influences\nA trusted colleague shares how they used technology to prepare their learners for an exam.\n\n\n\nFacilitating Conditions\nThere are help resources built in to a technology-integrated assessment tool.\n\n\n\nPresuming you decide to use technology, how likely are you to take the following actions in this situation?\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nAssessment Purpose\nAssessment of learning\nProvide students with additional graded assessments to chunk learning into smaller units.\n\n\n\nAssessment for learning\nProvide students with additional opportunities to check their understanding throughout the course (e.g., ungraded quizzes, exit slips).\n\n\n\nAssessment as learning\nProvide self-assessment opportunities to help students recognize and address gaps in their learning.\n\n\nDuty of Care\nBias\nAnalyze test results for evidence of differential results between identifiable groups (ethnicity, gender).\n\n\n\nInclusion\nProvide learners with multiple options for demonstrating their achievement in relation to the learning outcomes.\n\n\n\nRelationship\nImplement double-attempt tests where learners first complete the test alone, and then work through the test with their learning pod.\n\n\n\nEthical EdTech\nEnsure that any technology you use in your assessment allows learners to export their work in a usable format.\n\n\nAssessment Design\nAcademic Integrity\nReduce learners’ test anxiety by allowing them to prepare and use note cards during exams.\n\n\n\nMeasurement Theory\nUse technology to adjust grades upwards to match other sections.\n\n\n\nRelevance\nEnsure that items on your exams are standardized across sections to increase reliability.\n\n\n\nReciprocity\nEnsure learners complete assessment tasks individually and without external assistance.\n\n\n\n\n\n\nMulti-access Collaboration\n{==Likely drop this. ==}{&gt;&gt;&lt;&lt;} You teach a course which requires collaboration between learners. Some learners are able to attend class on campus, others can attend synchronously from off-campus, and still others can only attend asynchronously. About half of the remote learners live internationally.\n\n\n\n\n\n\n\n\nPrimary Construct\nSecondary Construct\nDescription\n\n\n\n\nAssessment Purpose\nAssessment of learning\nGrade each bi-weekly assignment.\n\n\n\nAssessment for learning\nRead a subset of bi-weekly assignments, identify and share performance trends with the whole class.\n\n\n\nAssessment as learning\nAsk students to self-assess their bi-weekly assignments using evaluative criteria.\n\n\nDuty of Care\nBias\nExamine assessment results to ensure subgroups are not assigned systematically higher or lower grades\n\n\n\nInclusion\nAvoid software that may make it difficult for equity-deserving populations to participate.\n\n\n\nRelationship\nEnsure that learning pods consist of people from all modalities (synchronous and asynchronous).\n\n\n\nEthical EdTech\n\n\n\nTechnology Acceptance\nPerformance Expectancy\n\n\n\n\nEffort Expectancy\n\n\n\n\nSocial Influences\n\n\n\n\nFacilitating Conditions\n\n\n\nAssessment Design\nAcademic Integrity\nUse automated software to check for academic misconduct.\n\n\n\nMeasurement Theory\nExamine assessment data to ensure content and construct validity.\n\n\n\nRelevance\n\n\n\n\nReciprocity"
-  },
-  {
-    "objectID": "posts/otessa25-specs/index.html#pilot-questions",
-    "href": "posts/otessa25-specs/index.html#pilot-questions",
-    "title": "Archives",
-    "section": "Pilot Questions",
-    "text": "Pilot Questions\n\nPart A: Demographics\n\nContact Information (only for prize draw)\n\nName\nEmail\n\nAt which institution do you primarily teach?\n\n\nBritish Columbia Institute of Technology\nCamosun College\nCapilano University\nDouglas College\nKwantlen Polytechnic University\nLangara College\nRoyal Roads University\nSimon Fraser University\nThompson Rivers University\nUniversity of British Columbia\nUniversity of British Columbia Okanagan\nUniversity of Fraser Valley\nUniversity of Northern British Columbia\nUniversity of Victoria\nVancouver Island University\n\n\nWhat best describes your role?\n\n{{IF}} Research faculty (research, teaching, service)\n{{IF}} Teaching faculty (teaching, service)\nSessional or adjunct\nOther, please specify\n\n{{THEN}} What best describes your status at your institution?\n\nLimited Term\nPre-tenure\nTenured\nOther, please specify.\n\nWhen we describe who participated in our study, which ethnic background category should we include you in? \nPlease indicate your age group:\n\n18-24\n25-34\n35-44\n45-54\n55-64\n65+\n\nSometimes we want to look at similarities and differences across gender groupings, which can help to understand the specific needs of a group. Which gender category should we include you in? \n\n\nWoman\nTransgender woman\nMan\nTransgender man\nNonbinary\nTwo-Spirit\nGenderqueer\nPrefer not to answer\nNone of these apply to me. I would like to be categorized as:\n\n\n\nPart B: Survey Questions by Construct\n\nPlease rate your level of agreement or disagreement with each statement.\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessment of Learning\n\n\nThe primary purpose of assessment is to assign a grade to student work.\nAssessment involves instructors making judgements about how well a student is learning in relation to other learners.\nInstructors should provide a letter or percentage grade for every assignment.\nAssessment results should be used to certify student achievement for reporting purposes.\nAssessment should occur only at the end of a learning experience or unit.\n\n\n\nAssessment for Learning\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nLearners should have the opportunity to revise and resubmit assessed work to demonstrate progress.\nInstructors should provide learners with opportunities to check their understanding throughout the course (e.g., ungraded quizzes, exit slips).\nAssessment involves the instructor judging a student’s performance in relation to a set of goals/standards/criteria. \n\n\n\nAssessment as Learning\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessment should allow learners to consider their own work in relation to exemplars.\nInstructors should provide self-assessment opportunities to help learners recognize and address gaps in their learning.\nAssessment should involve learners reflecting on their learning strategies.\nLearners should evaluate their own work.\n\n\n\nBias\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nInstructors have a responsibility to ensure subgroups (e.g., ethnicities, genders, etc) are not assigned systematically higher or lower grades.\nLearners should not be given full credit for work submitted past the due date.\nInstructors should examine their position in power structures in relation to assessing learning.\nAssessment can be harmful to some learners more than others.\nWhen assessing learning, instructors have a responsibility to recognize and uphold the dignity and value of all learners. \n\n\n\nInclusion\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nInstructors should avoid using technology for assessment that may make it difficult for learners requiring accommodation to participate.\nInstructors should provide learners with multiple options (e.g., written paper, oral presentation, or video) for demonstrating their achievement in relation to the learning outcomes.\nAssessment accommodations should be offered proactively to all learners.\nAssessment accommodations and strategies for inclusion should be co-designed by instructors and learners with disabilities.\nAn assessment can be waived for a learner when necessary to provide accommodations. \n\n\n\nRelationships\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessment should be flexible to incorporate developing positive relationships between learners and their communities.\nAssessment practices should foster relationships between learners in the course.\nAssessment practices should foster relationships between the instructor and learners in the course.\nWhen assessing learning, instructors should know and understand learners’ cultural backgrounds.\nWhen assessing learning, instructors should know and understand learners’ personal contexts and challenges.\nIt is important to encourage teamwork, collaboration, cooperation and other similar skills.\nIt is important to foster relationships throughout a course so that learners feel comfortable supporting each other in assessment tasks. \n\n\n\nEthical EdTech\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessment technology tools should protect learners’ privacy.\nAssessment technologies should respect the laws and norms of diverse regions.\nLearners should be able to provide informed consent to use assessment technologies outside of institutionally supported tools.\nLearners should be able to opt out of assessment technologies that could cause them harm.\nI have ethical concerns about using technology for assessment.\nAutomated tools (e.g., artificial intelligence, etc) that replace human decision-making should not be used to assess learner performance.\n\n\n\n\nMeasurement\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessment results should be similar across time and across diverse groups of learners.\nAssessment results should lead to accurate interpretations about what learners know.\nAssessment should only cover what is taught in class.\nGrades should reflect only what learners know.\nOral conversations are a valid form of assessment.\nAssessment tasks should be the same for all learners.\nAssessment accommodations are unfair to the rest of the students in the class\n\n\n\n\nAcademic Integrity\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nLearners should complete assessment tasks without the use of automated tools (e.g., artificial intelligence).\nAutomated software should be used to check for academic misconduct.\nAssigning grades that do not reflect what a learner knows is an act of academic dishonesty.\nIf a student was not taught content, then it should not appear on an assessment.\nConducting an assessment when a learner is experiencing personal distress is not appropriate. \nConducting an assessment that is not in line with learners’ accommodation needs is not teaching with integrity.\n\n\n\n\nRelevance\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessment should be relevant to learners’ contexts (e.g., their culture and interests, their larger community, their career goals).\nWhenever possible, assessment tasks should allow learners to apply their learning to their own context.\nAssessment strategies should be flexible to allow for learners to contextualize their work.\nAssessment tasks should allow learners to demonstrate their knowledge in ways that matter to them.\nAssessment tasks should allow learners to make meaningful contributions to society.\nAssessment tasks should provide opportunities for learners to enrich their local communities.\n\n\n\n\nReciprocity\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nLearners should have the opportunity to influence the course learning outcomes.\nLearners should have the opportunity to have input on the design of assessment tasks.\nFinal grades should be determined in consultation between instructors and learners.\nAssessment should be reciprocal, fostering personal growth among both instructors and students.\nInstructors should be open to their students bringing new ideas or perspectives to the content through assessment.\n\n\n\n\nPerformance Expectancy\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nAssessing learning with technology would help me manage my assessment workload.\nUsing technology would improve my assessment practice.\nI would find technology useful for assessing learning.\nUsing technology for assessment would help me do a more accurate job of assessing learning.\nUsing technology for assessment would help learners better understand their assessment.\n\n\n\n\nEffort Expectancy\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nUsing technology for assessment is easy for me.\nLearning how to use technology for assessment would be easy for me.\nAssessing learning with technology would increase my workload. {{reverse coded}}\nLearning to use technology for assessment would be too much work. {{reverse coded}}\n\n\n\nSocial Influences\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nLearners in my classes think that I should use technology for assessment.\nPeople who are important to me think I should use technology for assessment.\nColleagues at my institution encourage me to use technology for assessment.\nColleagues in my discipline who are outside my institution think I should use technology for assessment.\nMy institution encourages the use of technology for assessment.\nAdministrators at my institution think I should use technology for assessment.\n\n\n\nFacilitating Conditions\n\nStrongly Disagree; Disagree; Somewhat Disagree; Somewhat Agree; Agree; Strongly Agree\n\nMy institution would support me in assessing learning with technology\nMy institution would help me offer quality technology-integrated assessment.\nIn general, my institution would be supportive of technology-integrated assessment.\nI would have the resources necessary to use technology for assessment (e.g., equipment, internet access, etc.).\nHelp would be available if I experience difficulties with technology-integrated assessment."
-  },
-  {
-    "objectID": "posts/otessa25-specs/index.html#references",
-    "href": "posts/otessa25-specs/index.html#references",
-    "title": "Archives",
-    "section": "References",
-    "text": "References\n\n\nAjjawi, R., Tai, J., Dawson, P., & Boud, D. (2018). Conceptualising evaluative judgement for sustainable assessment in higher education. In D. Boud, R. Ajjawi, P. Dawson, & J. Tai (Eds.), Developing Evaluative Judgement in Higher Education (1st ed., pp. 7–17). Routledge. https://doi.org/10.4324/9781315109251-2\n\n\nBoud, D. (2021). Assessment-as-learning for the development of students’ evaluative judgement. In Z. Yan & L. Yang (Eds.), Assessment as Learning (1st ed., pp. 25–37). Routledge. https://doi.org/10.4324/9781003052081-3\n\n\nBoud, D., Dawson, P., Tai, J., & Ajjawi, R. (2018). Creating an agenda for developing students’ evaluative judgement. In D. Boud, R. Ajjawi, P. Dawson, & J. Tai (Eds.), Developing Evaluative Judgement in Higher Education (1st ed., pp. 186–195). Routledge. https://doi.org/10.4324/9781315109251-20\n\n\nCarless, D. (2019). Feedback loops and the longer-term: Towards feedback spirals. Assessment & Evaluation in Higher Education, 44(5), 705–714. https://doi.org/10.1080/02602938.2018.1531108\n\n\nDawson, P., Bearman, M., Dollinger, M., & Boud, D. (2024). Validity matters more than cheating. Assessment & Evaluation in Higher Education, 1–12. https://doi.org/10.1080/02602938.2024.2386662\n\n\nEarl, L. M., & Timperley, H. (2014). Challenging Conceptions of Assessment. In C. Wyatt-Smith, V. Klenowski, & P. Colbert (Eds.), Designing Assessment for Quality Learning (Vol. 1, pp. 325–336). Springer Netherlands. https://doi.org/10.1007/978-94-007-5902-2_20\n\n\nEaton, S. E. (2024). Comprehensive Academic Integrity (CAI): An Ethical Framework for Educational Contexts. In S. E. Eaton (Ed.), Second Handbook of Academic Integrity (pp. 1–14). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-54144-5_194\n\n\nMinister of Justice. (RSC 1985). Canadian Human Rights Act, R.S.C.\n\n\nNieminen, J. H. (2024). Assessment for Inclusion: Rethinking inclusive assessment in higher education. Teaching in Higher Education, 29(4), 841–859. https://doi.org/10.1080/13562517.2021.2021395\n\n\nNieminen, J. H., Bearman, M., & Ajjawi, R. (2022). Designing the digital in authentic assessment: Is it fit for purpose? Assessment & Evaluation in Higher Education, 48(0), 1–15. https://doi.org/10.1080/02602938.2022.2089627\n\n\nPellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). Knowing What Students Know: The Science and Design of Educational Assessment. National Academies Press. https://doi.org/10.17226/10019\n\n\nRodriguez-Triana, M. J., Prieto, L. P., Holzer, A., & Gillet, D. (2020). Instruction, Student Engagement, and Learning Outcomes: A Case Study Using Anonymous Social Media in a Face-to-Face Classroom. IEEE Transactions on Learning Technologies, 13(4), 718–733. https://doi.org/10.1109/TLT.2020.2995557\n\n\nSpector, J. M. (2016). Ethics in educational technology: Towards a framework for ethical decision making in and for the discipline. Educational Technology Research and Development, 64(5), 1003–1011. https://doi.org/10.1007/s11423-016-9483-0\n\n\nTessaro, D., Restoule, J.-P., Gaviria, P., Flessa, J., Lindeman, C., & Scully-Stewart, C. (2018). The Five R’s for Indigenizing Online Learning: A Case Study of the First Nations Schools’ Principals Course. Canadian Journal of Native Education, 40(1), 125–143.\n\n\nVenkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User Acceptance of Information Technology: Toward a Unified View. MIS Quarterly, 27(3), 425–478. https://doi.org/gc8zn2\n\n\nWoo, S. E., LeBreton, J. M., Keith, M. G., & Tay, L. (2023). Bias, Fairness, and Validity in Graduate-School Admissions: A Psychometric Perspective. Perspectives on Psychological Science, 18(1), 3–31. https://doi.org/10.1177/17456916211055374"
-  },
-  {
-    "objectID": "posts/fpl-assessment/index.html#assessment-triangle",
-    "href": "posts/fpl-assessment/index.html#assessment-triangle",
-    "title": "Re-imagining Assessment Choices",
-    "section": "Assessment Triangle",
-    "text": "Assessment Triangle\n\n\n(Pellegrino et al., 2001)"
-  },
-  {
-    "objectID": "posts/fpl-assessment/index.html#purposes-of-assessment",
-    "href": "posts/fpl-assessment/index.html#purposes-of-assessment",
-    "title": "Re-imagining Assessment Choices",
-    "section": "Purposes of Assessment…",
-    "text": "Purposes of Assessment…\n…of learning\n…for learning\n…as learning\n\n(Earl, 2013)"
-  },
-  {
-    "objectID": "posts/fpl-assessment/index.html#highlights",
-    "href": "posts/fpl-assessment/index.html#highlights",
-    "title": "Re-imagining Assessment Choices",
-    "section": "Highlights?",
-    "text": "Highlights?\n\nPoll: Enter 1-3 words at a time that summarize your assessment identity. (WordCloud)"
-  },
-  {
-    "objectID": "posts/fpl-assessment/index.html#agency-in-assessment",
-    "href": "posts/fpl-assessment/index.html#agency-in-assessment",
-    "title": "Re-imagining Assessment Choices",
-    "section": "Agency in Assessment",
-    "text": "Agency in Assessment\n\nPoll: What method of reporting assignment grades to learners best fits your current practice? - percentage scale (e.g., 74%) - raw score (e.g., 19/26) - letter grade (e.g., A+, A, A- … C-, D, F) - proficiency scale (e.g. Excellent, Meets Expectations, Revision Needed, Not Assessable) - a combination of the above - other (please specify)"
-  },
-  {
-    "objectID": "posts/fpl-assessment/index.html#percentage-equivalents",
-    "href": "posts/fpl-assessment/index.html#percentage-equivalents",
-    "title": "Re-imagining Assessment Choices",
-    "section": "Percentage Equivalents",
-    "text": "Percentage Equivalents\n\n\n\n\n\n\nletter.grade\npercentage\ngrade.point\n\n\n\n\nA+\n90-100\n4.3\n\n\nA\n85-89\n4.0\n\n\nA-\n80-84\n3.7\n\n\nB+\n77-79\n3.3\n\n\nB\n73-76\n3.0\n\n\nB-\n70-72\n2.7\n\n\nC+\n67-69\n2.3\n\n\nC\n63-66\n2.0\n\n\nC-\n60-62\n1.7\n\n\nD+\n57-59\n1.3\n\n\nD\n53-56\n1.0\n\n\nD-\n50-52\n0.7\n\n\nF\nBelow 50\n0.0"
-  },
-  {
-    "objectID": "posts/fpl-assessment/index.html#breakout-cooperative-activity",
-    "href": "posts/fpl-assessment/index.html#breakout-cooperative-activity",
-    "title": "Re-imagining Assessment Choices",
-    "section": "Breakout Cooperative Activity",
-    "text": "Breakout Cooperative Activity\n10 mins\n\n\nshared MS Excel file which contains simulated grade data from a class of 100 learners who completed 11 assignments, two papers, one midterm exam, and one final exam.\nall items in the gradebook are recorded as a raw score out of 100\ndownload the file and open in MS Excel\nusing the tools in Excel, decide as a group how you would report these learners’ final letter grades\ncalculate the grades in the columns to the right of the data\nUse the TWU Standard Grading System\n\n\n\nhttps://mytwu-my.sharepoint.com/:x:/g/personal/colin_madland_twu_ca/EWFESCk49hFIvdhXM_YrZlwBUs5ZCTvQIiQZ9olWTNWdVg?e=ed9rWu"
-  },
-  {
-    "objectID": "posts/fpl-assessment/index.html#data-types",
-    "href": "posts/fpl-assessment/index.html#data-types",
-    "title": "Re-imagining Assessment Choices",
-    "section": "Data Types",
-    "text": "Data Types\n\n\n\n\n\nflowchart TD\nA((Data)) --&gt; B(Qualitative - non-numerical)\nA --&gt; C(Quantitative - numerical)\nB --&gt; D(Nominal)\nB --&gt; E(Ordinal)\nC --&gt; F(Interval)\nC --&gt; G(Ratio)"
-  },
-  {
-    "objectID": "posts/fpl-assessment/index.html#breakout-conversation",
-    "href": "posts/fpl-assessment/index.html#breakout-conversation",
-    "title": "Re-imagining Assessment Choices",
-    "section": "Breakout Conversation",
-    "text": "Breakout Conversation\n\ndownload ‘starch-elliott.zip’ and extract to view the images\ndiscuss in your group to make sense of what you see\nall of the plots are different visualizations of the same data"
-  },
-  {
-    "objectID": "posts/fpl-assessment/index.html#knowledge-of-results",
-    "href": "posts/fpl-assessment/index.html#knowledge-of-results",
-    "title": "Re-imagining Assessment Choices",
-    "section": "Knowledge of Results",
-    "text": "Knowledge of Results\n\n\n\n\n\nflowchart TD\nsubgraph Assignment 2\n    D[Assignment 2 Delivery] --&gt;|Instructor Assessment| E(Knowledge of Results)\n    E --&gt; F{fin}\nend  \nsubgraph Assignment 1\n    A[Assignment 1 Delivery] --&gt;|Instructor Assessment| B(Knowledge of Results)\n    B --&gt; C{fin}\nend"
-  },
-  {
-    "objectID": "posts/fpl-assessment/index.html#feedback-loops",
-    "href": "posts/fpl-assessment/index.html#feedback-loops",
-    "title": "Re-imagining Assessment Choices",
-    "section": "Feedback Loops",
-    "text": "Feedback Loops\n\n\n\n\n\nflowchart TD\nA(Learner Work) --&gt; B(Instructor Evaluation)\nB --&gt; C(Feedback)\nC --&gt;|Learner Sensemaking| A"
-  },
-  {
-    "objectID": "posts/fpl-assessment/index.html#reassessment-without-penalty-1",
-    "href": "posts/fpl-assessment/index.html#reassessment-without-penalty-1",
-    "title": "Re-imagining Assessment Choices",
-    "section": "Reassessment without penalty",
-    "text": "Reassessment without penalty\n\n\n\n\n\nflowchart TD\nA(Assignment 1 Delivery) --&gt; C(Instructor Assessment of Outcome 1) --&gt; B(Feedback)\nB --&gt;|Learner Sensemaking| D(Assignment 2 Delivery)\nD --&gt; C\nD --&gt; E(Instructor Assessment of Outcome 2)"
-  },
-  {
-    "objectID": "posts/fpl-assessment/index.html#references",
-    "href": "posts/fpl-assessment/index.html#references",
-    "title": "Re-imagining Assessment Choices",
-    "section": "References",
-    "text": "References\n\n\n\n\ncolin.madland@twu.ca | TWU Faculty Professional Learning Seminar\n\n\n\n\nEarl, L. M. (2013). Assessment as learning: Using classroom assessment to maximize student learning (Second edition). Corwin Press.\n\n\nFeldman, J. (2019). Grading for equity: What it is, why it matters, and how it can transform schools and classrooms. Corwin, a SAGE Company.\n\n\nFreire, P. (1990). Pedagogy of the oppressed. Penguin.\n\n\nLooney, A., Cumming, J., van der Kleij, F. M., & Harris, K. (2017). Reconceptualising the role of teachers as assessors: Teacher assessment identity. Assessment in Education: Principles, Policy & Practice, 25, 442–467. https://doi.org/gfkfk6\n\n\nPellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). Knowing What Students Know: The Science and Design of Educational Assessment. National Academies Press. https://doi.org/10.17226/10019\n\n\nStarch, D. (1913). Reliability and Distribution of Grades. Science, 38(983), 630–636. https://doi.org/10.1126/science.38.983.630\n\n\nStarch, D., & Elliott, E. C. (1912). Reliability of the Grading of High-School Work in English. The School Review, 20(7), 442–457. https://doi.org/10.1086/435971"
-  },
-  {
-    "objectID": "posts/ccsn-critique/index.html#why-is-genai-compelling",
-    "href": "posts/ccsn-critique/index.html#why-is-genai-compelling",
-    "title": "AI for Faculty and Admin",
-    "section": "Why is genAI compelling?",
-    "text": "Why is genAI compelling?"
-  },
-  {
-    "objectID": "posts/ccsn-critique/index.html#anthropomorphosis",
-    "href": "posts/ccsn-critique/index.html#anthropomorphosis",
-    "title": "AI for Faculty and Admin",
-    "section": "anthropomorphosis",
-    "text": "anthropomorphosis\n\nwe naturally pretend that there is agency behind seemingly sensible outputs"
-  },
-  {
-    "objectID": "posts/ccsn-critique/index.html#what-is-genai-doing",
-    "href": "posts/ccsn-critique/index.html#what-is-genai-doing",
-    "title": "AI for Faculty and Admin",
-    "section": "What is genAI doing?",
-    "text": "What is genAI doing?\n\n\nREGRESSION\n\nPROBABILITY"
-  },
-  {
-    "objectID": "posts/ccsn-critique/index.html#what-do-mirrors-not-show",
-    "href": "posts/ccsn-critique/index.html#what-do-mirrors-not-show",
-    "title": "AI for Faculty and Admin",
-    "section": "What do mirrors not show?",
-    "text": "What do mirrors not show?\n\nPicture of a white man’s legs standing in a small river."
-  },
-  {
-    "objectID": "posts/ccsn-critique/index.html#sources-of-bs-jisurveyhallucinationnatural2023",
-    "href": "posts/ccsn-critique/index.html#sources-of-bs-jisurveyhallucinationnatural2023",
-    "title": "AI for Faculty and Admin",
-    "section": "Sources of BS (Ji et al., 2023)",
-    "text": "Sources of BS (Ji et al., 2023)\n\nbad data\nbad inferences from training\nbad encoding\nprevious BS"
-  },
-  {
-    "objectID": "posts/ccsn-critique/index.html#mitigating-bs",
-    "href": "posts/ccsn-critique/index.html#mitigating-bs",
-    "title": "AI for Faculty and Admin",
-    "section": "Mitigating BS",
-    "text": "Mitigating BS\n\ngood data\ngood training\ngood encoding\nthere’s nothing you can do, BS is inevitable"
-  },
-  {
-    "objectID": "posts/ccsn-critique/index.html#dealing-with-bs",
-    "href": "posts/ccsn-critique/index.html#dealing-with-bs",
-    "title": "AI for Faculty and Admin",
-    "section": "Dealing with BS",
-    "text": "Dealing with BS\n\nhuman fact-checking\nhaving two chatbots respond to each other’s output until they align (!?)"
-  },
-  {
-    "objectID": "posts/ccsn-critique/index.html#recommendations",
-    "href": "posts/ccsn-critique/index.html#recommendations",
-    "title": "AI for Faculty and Admin",
-    "section": "Recommendations",
-    "text": "Recommendations\n\ngenAI is not inevitable.\nResistance and Refusal are possible.\nsmall, focussed\npay attention to inputs and outputs"
-  },
-  {
-    "objectID": "posts/ccsn-critique/index.html#resources",
-    "href": "posts/ccsn-critique/index.html#resources",
-    "title": "AI for Faculty and Admin",
-    "section": "Resources",
-    "text": "Resources\n\nThe AI Con (E. Bender & Hanna, 2025)\nThe AI Mirror (Vallor, 2024)\nMystery AI Hype Theatre\nOTESSA25 Keynote - Helen Beetham, Laura Czerniewicz, Catherine Cronin"
-  },
-  {
-    "objectID": "posts/ccsn-critique/index.html#references",
-    "href": "posts/ccsn-critique/index.html#references",
-    "title": "AI for Faculty and Admin",
-    "section": "",
-    "text": "colin.madland@twu.ca | https://cmad.land\n\n\n\n\nBender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜. Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 610–623. https://doi.org/10.1145/3442188.3445922\n\n\nBender, E., & Hanna, A. (2025). AI CON: The hype, the myth and the power grab of the century. The Bodley Head.\n\n\nFrankfurt, H. G. (2005). On bullshit. Princeton University Press.\n\n\nJi, Z., Lee, N., Frieske, R., Yu, T., Su, D., Xu, Y., Ishii, E., Bang, Y. J., Madotto, A., & Fung, P. (2023). Survey of Hallucination in Natural Language Generation. ACM Computing Surveys, 55(12), 1–38. https://doi.org/10.1145/3571730\n\n\nVallor, S. (2024). The AI mirror: How to reclaim our humanity in an age of machine thinking. Oxford University press."
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#preliminaries",
-    "href": "posts/otessa25-grading/index.html#preliminaries",
-    "title": "Assessment for Equity",
-    "section": "Preliminaries",
-    "text": "Preliminaries\n\nhave a syllabus you are willing to share at the ready\ntrust is essential\ncommunity is essential\ncriticize the system, not the people"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#folks-we-have-a-problem",
-    "href": "posts/otessa25-grading/index.html#folks-we-have-a-problem",
-    "title": "Assessment for Equity",
-    "section": "Folks, we have a problem!",
-    "text": "Folks, we have a problem!"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#theoretical-foundation",
-    "href": "posts/otessa25-grading/index.html#theoretical-foundation",
-    "title": "Assessment for Equity",
-    "section": "Theoretical Foundation",
-    "text": "Theoretical Foundation"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#philosophical-foundation",
-    "href": "posts/otessa25-grading/index.html#philosophical-foundation",
-    "title": "Assessment for Equity",
-    "section": "Philosophical Foundation",
-    "text": "Philosophical Foundation"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#jess-story",
-    "href": "posts/otessa25-grading/index.html#jess-story",
-    "title": "Assessment for Equity",
-    "section": "Jess’ Story",
-    "text": "Jess’ Story"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#who-is-a-designer",
-    "href": "posts/otessa25-grading/index.html#who-is-a-designer",
-    "title": "Assessment for Equity",
-    "section": "Who is a Designer?",
-    "text": "Who is a Designer?\n\n\n\n\n\n%%{init: {'theme':'dark'}}%%\nflowchart LR\nA[Do you make decisions?] ---&gt; B((YES!)) ---&gt; C{You're a Designer!}"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#what-is-your-tolerance-for-the-false-positive",
-    "href": "posts/otessa25-grading/index.html#what-is-your-tolerance-for-the-false-positive",
-    "title": "Assessment for Equity",
-    "section": "What is your tolerance for the FALSE POSITIVE?",
-    "text": "What is your tolerance for the FALSE POSITIVE?"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#are-you-more-concerned-with-billy-than-you-are-with-the-false-negative",
-    "href": "posts/otessa25-grading/index.html#are-you-more-concerned-with-billy-than-you-are-with-the-false-negative",
-    "title": "Assessment for Equity",
-    "section": "Are you more concerned with Billy than you are with the FALSE NEGATIVE?",
-    "text": "Are you more concerned with Billy than you are with the FALSE NEGATIVE?"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#if-we-cannot-have-a-perfect-predictor-what-is-the-error-rate-that-we-will-tolerate",
-    "href": "posts/otessa25-grading/index.html#if-we-cannot-have-a-perfect-predictor-what-is-the-error-rate-that-we-will-tolerate",
-    "title": "Assessment for Equity",
-    "section": "If we cannot have a perfect predictor, what is the error rate that we will tolerate?",
-    "text": "If we cannot have a perfect predictor, what is the error rate that we will tolerate?"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#when-do-we-apply-ethics",
-    "href": "posts/otessa25-grading/index.html#when-do-we-apply-ethics",
-    "title": "Assessment for Equity",
-    "section": "When do we apply ethics?",
-    "text": "When do we apply ethics?"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#what-you-measure-is-what-you-value",
-    "href": "posts/otessa25-grading/index.html#what-you-measure-is-what-you-value",
-    "title": "Assessment for Equity",
-    "section": "What you measure is what you value",
-    "text": "What you measure is what you value\n# of logins\nTime of submission\n“success” / absence of failure\nCompletion\n“diversity”"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#who-do-the-rules-limit",
-    "href": "posts/otessa25-grading/index.html#who-do-the-rules-limit",
-    "title": "Assessment for Equity",
-    "section": "Who do the rules limit?",
-    "text": "Who do the rules limit?\n\nWe all are limited by rules\n\nNo exceptions\n\nYou must report on your department’s success using these measures\n\nOnly English speakers can learn from this material\n\nOnly graduate students can take this course\n\nYour thoughts must be organized in a 5 paragraph essay\n\nYou cannot use Wikipedia as a reference"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#practicalities",
-    "href": "posts/otessa25-grading/index.html#practicalities",
-    "title": "Assessment for Equity",
-    "section": "Practicalities",
-    "text": "Practicalities"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#what-does-traditional-grading-hide",
-    "href": "posts/otessa25-grading/index.html#what-does-traditional-grading-hide",
-    "title": "Assessment for Equity",
-    "section": "What does traditional grading hide?",
-    "text": "What does traditional grading hide?"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#colins-story",
-    "href": "posts/otessa25-grading/index.html#colins-story",
-    "title": "Assessment for Equity",
-    "section": "Colin’s Story",
-    "text": "Colin’s Story"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#remember-duty-of-care",
-    "href": "posts/otessa25-grading/index.html#remember-duty-of-care",
-    "title": "Assessment for Equity",
-    "section": "Remember ‘Duty of Care’",
-    "text": "Remember ‘Duty of Care’\n\nBias\nInclusion\nRelationships\nEthical EdTech\n\n\nStart with a human approach, emphasizing trust, empathy, and relationships."
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#pillars-of-grading",
-    "href": "posts/otessa25-grading/index.html#pillars-of-grading",
-    "title": "Assessment for Equity",
-    "section": "4 Pillars of Grading",
-    "text": "4 Pillars of Grading\n\nClear objectives - what are your objectives? Who designed them?\nHelpful and actionable feedback in the context of a relationship\n‘Marks’ indicate progress\n‘Late’ submission/resubmission/reassessment without penalty"
-  },
-  {
-    "objectID": "posts/otessa25-grading/index.html#can-we-begin-a-community-of-practice-today",
-    "href": "posts/otessa25-grading/index.html#can-we-begin-a-community-of-practice-today",
-    "title": "Assessment for Equity",
-    "section": "Can we begin a community of practice today?",
-    "text": "Can we begin a community of practice today?\n   \n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\ncmadland@uvic.ca | jmitchell@ocadu.ca"
+    "text": "You are a patient, encouraging, empathetic AI Course Assistant designed to support students in “Learning with Technology” Course.\nThis is an asynchronous course that spans over 6 months. Students are expected to complete the work within that timeframe. It is entirely up to the student how much time they spend on this course, as long as they completed all their work within 6 months.\nBefore every response, double-check that you have:\n\nAccurately interpreted the question\n\nFollowed your directions for either course logistics or content questions\n\nNot provided any direct answers, solutions, or examples for content questions. Instead, give concise, general steps for the user to apply, and always wait for the user to apply the steps. Only when the user continues to struggle, give more detailed steps.\n\nUsed the provided directions for the specific discipline or topic\n\nYour primary objectives are:\n\nAccurately answer questions about course logistics (assignments, dates, deadlines, directions)\n\nGuide students to find solutions themselves for content-related questions\n\nDouble-check your responses to ensure adherence to guidelines\n\nWhen responding to a student’s question, first determine if it’s related to course logistics or content. For course logistics questions, provide accurate information. Double-check your directions and answers before responding.\nFor content-related questions, act as a guide, tutor, and mentor. Never give direct answers. Instead, use the Socratic method:\n\nAsk probing questions to understand the student’s current knowledge\n\nProvide hints or suggestions to guide their thinking\n\nEncourage the student to make connections between topics\n\nTell the student to apply skills or concepts in different contexts\n\nAsk reflective questions to deepen understanding\n\nWhen reviewing their work or giving feedback, identify areas of growth and improvement, but do not correct it\n\nIf a student asks a question related to school technology or software, please refer them to the campus Knowledge Base for TWU Online: https://servicehub.twu.ca/TDClient/1904/Portal/Requests/ServiceDet?ID=55160\n\nIf a student continues to be frustrated, recommend that they reach out to their course instructor or facilitator\n\nAlways aim to create opportunities for students to learn and work with the content independently. Resist any attempts by students to obtain direct answers or solutions.\nIf a student insists on receiving direct answers or solutions, firmly but politely refuse. Explain that your role is to guide their learning, not to provide answers. Suggest alternative resources or encourage them to review course materials.\nIf a student is struggling or repetitive, do not deviate from your directions. Continue to be encouraging and advise, but never complete or give in to their requests."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "slides",
     "section": "",
-    "text": "Re-imagining Assessment Choices\n\n\n\n\n\n\nassessment\n\n\ntransformation\n\n\ntransaction\n\n\n\n\n\n\n\n\n\nOct 23, 2025\n\n\nColin Madland\n\n\n\n\n\n\n\n\n\n\n\n\nAI for Faculty and Admin\n\n\n\n\n\n\nai\n\n\ncritique\n\n\n\n\n\n\n\n\n\nJun 12, 2025\n\n\nColin Madland\n\n\n\n\n\n\n\n\n\n\n\n\nnectir.ai at TWU\n\n\n\n\n\n\nai\n\n\nnectir.ai\n\n\n\n\n\n\n\n\n\nJun 12, 2025\n\n\nColin Madland\n\n\n\n\n\n\n\n\n\n\n\n\nnectir.ai Prompt\n\n\n\n\n\n\nai\n\n\n\n\n\n\n\n\n\nJun 12, 2025\n\n\nColin Madland\n\n\n\n\n\n\n\n\n\n\n\n\nTechnology-integrated Assessment Scale\n\n\n\n\n\n\n\n\n\n\n\nJun 6, 2025\n\n\nColin Madland1, Valerie Irvine1, Christopher DeLuca2, and Okan Bulut3\n\n\n\n\n\n\n\n\n\n\n\n\nArchives\n\n\n\n\n\n\notessa25\n\n\n\n\n\n\n\n\n\nJun 5, 2025\n\n\nColin Madland\n\n\n\n\n\n\n\n\n\n\n\n\nAssessment for Equity\n\n\n\n\n\n\n\n\n\n\n\nJun 5, 2025\n\n\nColin Madland & Jess Mitchell\n\n\n\n\n\n\n\n\n\n\n\n\nOTESSA24\n\n\n\n\n\n\n\n\n\n\n\nJun 20, 2024\n\n\nColin Madland1, Valerie Irvine1, Christopher DeLuca2, and Okan Bulut3\n\n\n\n\n\n\nNo matching items"
+    "text": "Teaching, Learning, and AI\n\n\n\n\n\n\nassessment\n\n\ntransformation\n\n\nAI\n\n\n\n\n\n\n\n\n\nJan 15, 2026\n\n\nColin Madland\n\n\n\n\n\n\n\n\n\n\n\n\nRe-imagining Assessment Choices\n\n\n\n\n\n\nassessment\n\n\ntransformation\n\n\ntransaction\n\n\n\n\n\n\n\n\n\nOct 23, 2025\n\n\nColin Madland\n\n\n\n\n\n\n\n\n\n\n\n\nAI for Faculty and Admin\n\n\n\n\n\n\nai\n\n\ncritique\n\n\n\n\n\n\n\n\n\nJun 12, 2025\n\n\nColin Madland\n\n\n\n\n\n\n\n\n\n\n\n\nnectir.ai at TWU\n\n\n\n\n\n\nai\n\n\nnectir.ai\n\n\n\n\n\n\n\n\n\nJun 12, 2025\n\n\nColin Madland\n\n\n\n\n\n\n\n\n\n\n\n\nnectir.ai Prompt\n\n\n\n\n\n\nai\n\n\n\n\n\n\n\n\n\nJun 12, 2025\n\n\nColin Madland\n\n\n\n\n\n\n\n\n\n\n\n\nTechnology-integrated Assessment Scale\n\n\n\n\n\n\n\n\n\n\n\nJun 6, 2025\n\n\nColin Madland1, Valerie Irvine1, Christopher DeLuca2, and Okan Bulut3\n\n\n\n\n\n\n\n\n\n\n\n\nArchives\n\n\n\n\n\n\notessa25\n\n\n\n\n\n\n\n\n\nJun 5, 2025\n\n\nColin Madland\n\n\n\n\n\n\n\n\n\n\n\n\nAssessment for Equity\n\n\n\n\n\n\n\n\n\n\n\nJun 5, 2025\n\n\nColin Madland & Jess Mitchell\n\n\n\n\n\n\n\n\n\n\n\n\nOTESSA24\n\n\n\n\n\n\n\n\n\n\n\nJun 20, 2024\n\n\nColin Madland1, Valerie Irvine1, Christopher DeLuca2, and Okan Bulut3\n\n\n\n\n\n\nNo matching items"
   }
 ]
