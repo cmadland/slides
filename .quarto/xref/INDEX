@@ -45,5 +45,8 @@
   "posts/fpl-teaching-learning-ai/index.qmd": {
     "index.html": "695ce227",
     "index.pptx": "70200584"
+  },
+  "posts/design/design-slides.qmd": {
+    "design-slides.html": "336d0b7b"
   }
 }

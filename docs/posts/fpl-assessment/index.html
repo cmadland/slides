@@ -6,8 +6,8 @@
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-4d9afe2b8d18ee9fa5d0d57b5ed4214d.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.8.27">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.9.36">
 
   <meta name="author" content="Colin Madland">
   <meta name="dcterms.date" content="2025-10-23">
@@ -18,6 +18,9 @@
   <link rel="stylesheet" href="../../site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="../../site_libs/revealjs/dist/reveal.css">
   <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -50,7 +53,7 @@
     div.csl-indent {
       margin-left: 2em;
     }  </style>
-  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-9d5f41a43766c5cdc1efcaf438d8d4c8.css">
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-bb6179a90e382b64d0614561084b8a13.css">
   <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -219,7 +222,7 @@ Colin Madland
 <h1>Assessment Identity</h1>
 <p>beliefs | feelings | knowledge | skills</p>
 <div class="footer">
-<p><span class="citation" data-cites="looneyReconceptualisingRoleTeachers2017">(<a href="#/references" role="doc-biblioref" onclick="">Looney et al., 2017</a>)</span></p>
+<p><span class="citation" data-cites="looneyReconceptualisingRoleTeachers2017">(<a href="#/references" role="doc-biblioref" onclick=""><span class="nocase">Looney et al.</span>, 2017</a>)</span></p>
 </div>
 </section>
 
@@ -269,98 +272,64 @@ Colin Madland
 <div class="cell-output-display">
 <!-- preamble start -->
 
+    <script src="https://cdn.jsdelivr.net/gh/vincentarelbundock/tinytable@main/inst/tinytable.js"></script>
+
     <script>
-
-      function styleCell_xgapmtbr9fkdxg1gp4y4(i, j, css_id) {
-          var table = document.getElementById("tinytable_xgapmtbr9fkdxg1gp4y4");
-          var cell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
-          if (cell) {
-              console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
-              cell.classList.add(css_id);
-          } else {
-              console.warn(`Cell at (${i}, ${j}) not found.`);
-          }
-      }
-      function spanCell_xgapmtbr9fkdxg1gp4y4(i, j, rowspan, colspan) {
-        var table = document.getElementById("tinytable_xgapmtbr9fkdxg1gp4y4");
-        const targetCell = table.querySelector(`[data-row="${i}"][data-col="${j}"]`);
-        if (!targetCell) {
-          console.warn(`Cell at (${i}, ${j}) not found.`);
-        }
-
-        // Get all cells that need to be removed
-        const cellsToRemove = [];
-        for (let r = 0; r < rowspan; r++) {
-          for (let c = 0; c < colspan; c++) {
-            if (r === 0 && c === 0) continue; // Skip the target cell
-            const cell = table.querySelector(`[data-row="${i + r}"][data-col="${j + c}"]`);
-            if (cell) {
-              cellsToRemove.push(cell);
-            }
-          }
-        }
-
-        // Remove all cells
-        cellsToRemove.forEach(cell => cell.remove());
-
-        // Set rowspan and colspan of the target cell if it exists
-        if (targetCell) {
-          targetCell.rowSpan = rowspan;
-          targetCell.colSpan = colspan;
-        }
-      }
+      // Create table-specific functions using external factory
+      const tableFns_4yf6gj58243gg7ku79rl = TinyTable.createTableFunctions("tinytable_4yf6gj58243gg7ku79rl");
       // tinytable span after
       window.addEventListener('load', function () {
           var cellsToStyle = [
             // tinytable style arrays after
-          { positions: [ { i: '5', j: 0 }, { i: '5', j: 1 },  ], css_id: 'tinytable_css_1jownv69yhhl32e38brh',}, 
-          { positions: [ { i: '0', j: 0 }, { i: '0', j: 1 },  ], css_id: 'tinytable_css_fecs6dmvvzi7le55m11o',}, 
+          { positions: [ { i: '5', j: 1 }, { i: '5', j: 2 } ], css_id: 'tinytable_css_hw0t881yi3f0sy5u7tib',}, 
+          { positions: [ { i: '0', j: 1 }, { i: '0', j: 2 } ], css_id: 'tinytable_css_ayj21ctlw9ev8gqhmziv',}, 
           ];
 
           // Loop over the arrays to style the cells
           cellsToStyle.forEach(function (group) {
               group.positions.forEach(function (cell) {
-                  styleCell_xgapmtbr9fkdxg1gp4y4(cell.i, cell.j, group.css_id);
+                  tableFns_4yf6gj58243gg7ku79rl.styleCell(cell.i, cell.j, group.css_id);
               });
           });
       });
     </script>
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/vincentarelbundock/tinytable@main/inst/tinytable.css">
     <style>
-      /* tinytable css entries after */
-      .table td.tinytable_css_1jownv69yhhl32e38brh, .table th.tinytable_css_1jownv69yhhl32e38brh { border-bottom: solid #d3d8dc 0.1em; }
-      .table td.tinytable_css_fecs6dmvvzi7le55m11o, .table th.tinytable_css_fecs6dmvvzi7le55m11o { border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+    /* tinytable css entries after */
+    #tinytable_4yf6gj58243gg7ku79rl td.tinytable_css_hw0t881yi3f0sy5u7tib, #tinytable_4yf6gj58243gg7ku79rl th.tinytable_css_hw0t881yi3f0sy5u7tib {  position: relative; --border-bottom: 1; --border-left: 0; --border-right: 0; --border-top: 0; --line-color-bottom: var(--tt-line-color); --line-color-left: var(--tt-line-color); --line-color-right: var(--tt-line-color); --line-color-top: var(--tt-line-color); --line-width-bottom: 0.08em; --line-width-left: 0.1em; --line-width-right: 0.1em; --line-width-top: 0.1em; --trim-bottom-left: 0%; --trim-bottom-right: 0%; --trim-left-bottom: 0%; --trim-left-top: 0%; --trim-right-bottom: 0%; --trim-right-top: 0%; --trim-top-left: 0%; --trim-top-right: 0%;  }
+    #tinytable_4yf6gj58243gg7ku79rl td.tinytable_css_ayj21ctlw9ev8gqhmziv, #tinytable_4yf6gj58243gg7ku79rl th.tinytable_css_ayj21ctlw9ev8gqhmziv {  position: relative; --border-bottom: 1; --border-left: 0; --border-right: 0; --border-top: 1; --line-color-bottom: var(--tt-line-color); --line-color-left: var(--tt-line-color); --line-color-right: var(--tt-line-color); --line-color-top: var(--tt-line-color); --line-width-bottom: 0.05em; --line-width-left: 0.1em; --line-width-right: 0.1em; --line-width-top: 0.08em; --trim-bottom-left: 0%; --trim-bottom-right: 0%; --trim-left-bottom: 0%; --trim-left-top: 0%; --trim-right-bottom: 0%; --trim-right-top: 0%; --trim-top-left: 0%; --trim-top-right: 0%;  }
     </style>
     <div class="container">
-      <table class="table table-borderless" id="tinytable_xgapmtbr9fkdxg1gp4y4" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
-        <thead>
+      <table class="tinytable" id="tinytable_4yf6gj58243gg7ku79rl" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
         
+        <thead>
               <tr>
-                <th scope="col" data-row="0" data-col="0">letter.grade</th>
-                <th scope="col" data-row="0" data-col="1">quality.characteristics</th>
+                <th scope="col" data-row="0" data-col="1">letter.grade</th>
+                <th scope="col" data-row="0" data-col="2">quality.characteristics</th>
               </tr>
         </thead>
         
         <tbody>
                 <tr>
-                  <td data-row="1" data-col="0">A</td>
-                  <td data-row="1" data-col="1">Outstanding, excellent work; exceptional performance with …</td>
+                  <td data-row="1" data-col="1">A</td>
+                  <td data-row="1" data-col="2">Outstanding, excellent work; exceptional performance with …</td>
                 </tr>
                 <tr>
-                  <td data-row="2" data-col="0">B</td>
-                  <td data-row="2" data-col="1">Good, competent work; laudable performance with…</td>
+                  <td data-row="2" data-col="1">B</td>
+                  <td data-row="2" data-col="2">Good, competent work; laudable performance with…</td>
                 </tr>
                 <tr>
-                  <td data-row="3" data-col="0">C</td>
-                  <td data-row="3" data-col="1">Adequate, reasonably satisfactory work; fair performance but infrequent evidence …</td>
+                  <td data-row="3" data-col="1">C</td>
+                  <td data-row="3" data-col="2">Adequate, reasonably satisfactory work; fair performance but infrequent evidence …</td>
                 </tr>
                 <tr>
-                  <td data-row="4" data-col="0">D</td>
-                  <td data-row="4" data-col="1">Minimally acceptable work; relatively weak performance with …</td>
+                  <td data-row="4" data-col="1">D</td>
+                  <td data-row="4" data-col="2">Minimally acceptable work; relatively weak performance with …</td>
                 </tr>
                 <tr>
-                  <td data-row="5" data-col="0">F</td>
-                  <td data-row="5" data-col="1">Inadequate work; poor performance that indicates a lack of understanding …</td>
+                  <td data-row="5" data-col="1">F</td>
+                  <td data-row="5" data-col="2">Inadequate work; poor performance that indicates a lack of understanding …</td>
                 </tr>
         </tbody>
       </table>
@@ -748,7 +717,7 @@ Feldman, J. (2019). <em>Grading for equity: What it is, why it matters, and how 
 Freire, P. (1990). <em>Pedagogy of the oppressed</em>. Penguin.
 </div>
 <div id="ref-looneyReconceptualisingRoleTeachers2017" class="csl-entry" role="listitem">
-Looney, A., Cumming, J., van der Kleij, F. M., &amp; Harris, K. (2017). Reconceptualising the role of teachers as assessors: Teacher assessment identity. <em>Assessment in Education: Principles, Policy &amp; Practice</em>, <em>25</em>, 442–467. <a href="https://doi.org/10/gfkfk6">https://doi.org/10/gfkfk6</a>
+<span class="nocase">Looney, A., Cumming, J., van der Kleij, F. M., &amp; Harris, K.</span> (2017). Reconceptualising the role of teachers as assessors: Teacher assessment identity. <em>Assessment in Education: Principles, Policy &amp; Practice</em>, <em>25</em>, 442–467. <a href="https://doi.org/10/gfkfk6">https://doi.org/10/gfkfk6</a>
 </div>
 <div id="ref-pellegrinoKnowingWhatStudents2001" class="csl-entry" role="listitem">
 Pellegrino, J. W., Chudowsky, N., &amp; Glaser, R. (2001). <em>Knowing <span>What Students Know</span>: <span>The Science</span> and <span>Design</span> of <span>Educational Assessment</span></em>. National Academies Press. <a href="https://doi.org/10.17226/10019">https://doi.org/10.17226/10019</a>
