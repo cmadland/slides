@@ -234,7 +234,7 @@ That is, Wiggins and McTighe (2005) argue:
 flowchart LR
   A([Identify Outcomes]) --> B([Determine Criteria])
   B --> C([Determine Assessment Tasks])
-  C --> D([Plan Learning Experiences and Resources])
+  C --> D([Plan Learning Experiences])
 ```
 
 ---
