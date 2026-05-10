@@ -1,5 +1,9 @@
 ---
 title: 'Thinking about Design'
+author: "Colin Madland, Scott Macklin, Mark Halvorson"
+date: "2026-05-11"
+categories: [design, design thinking, edci337]
+image: "bike.jpg"
 format:
   revealjs:
     # multiplex: true
@@ -100,7 +104,7 @@ Christopher Alexander defines good design as the **goodness of fit** between the
 
 - Ideation work is about generating new ideas, which provides the source material for making prototypes.
 - You ideate by
-  - **Combining your *conscious* and *unconscious* mind and *rational* thoughts with *imagination*.
+  - **Combining** your *conscious* and *unconscious* mind and *rational* thoughts with *imagination*.
   - Using **brainstorming** to leverage the synergy of the group to reach new ideas.
   - Adding **constraints** and seeking **inspirations**.
 
