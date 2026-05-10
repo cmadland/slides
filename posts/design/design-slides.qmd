@@ -1,6 +1,5 @@
 ---
 title: 'Thinking about Design'
-author: "Colin Madland, Scott Macklin, Mark Halvorson"
 date: "2026-05-11"
 categories: [design, design thinking, edci337]
 image: "bike.jpg"
@@ -8,7 +7,9 @@ format:
   revealjs:
     # multiplex: true
     incremental: true
-    theme: night
+    footer: "Contributors: Colin Madland, Scott Macklin, Mark Halvorson"
+    logo: "visualstickery.jpg"
+    mermaid-format: png
 ---
 
 
@@ -115,7 +116,7 @@ Christopher Alexander defines good design as the **goodness of fit** between the
 
 ::: {.columns}
 
-::: {.column width="40%"}
+::: {.column width="50%"}
 
 - 1919, Osborn joined with Bruce Fairchild Barton and Roy Sarles Durstine to form the BDO advertising agency.
 - 1928, Osborn led BDO’s merger with the George Batten Co. to create BBDO (a major global advertising firm).
@@ -139,7 +140,7 @@ Christopher Alexander defines good design as the **goodness of fit** between the
 
 ---
 
-# Osborn's Creative Brainstorming Rules
+## Osborn's Creative Brainstorming Rules
 
 
 ::: {.columns}
@@ -219,14 +220,24 @@ Christopher Alexander defines good design as the **goodness of fit** between the
   - Begin the learning design by **clarifying the learning outcomes,** rather than focusing on learning activities.
   - **Use authentic task-based learning** to assess learning outcomes.
 
+---
+
 That is, Wiggins and McTighe (2005) argue:
 
 > understanding is revealed in performance (p. 153)
 
 ---
 
-## The three stages of backward learning design.
+## The four stages of backward learning design.
 
+```{mermaid}
+flowchart LR
+  A([Identify Outcomes]) --> B([Determine Criteria])
+  B --> C([Determine Assessment Tasks])
+  C --> D([Plan Learning Experiences and Resources])
+```
+
+---
 
 ![](stages.png)
 
