@@ -125,6 +125,9 @@
       margin-right: 0; 
     }
   </style>
+  <script src="../../site_libs/quarto-diagram/mermaid.min.js"></script>
+  <script src="../../site_libs/quarto-diagram/mermaid-init.js"></script>
+  <link href="../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -315,12 +318,16 @@ Backwards Learning Design</p>
 </section>
 <section id="the-four-stages-of-backward-learning-design." class="slide level2">
 <h2>The four stages of backward learning design.</h2>
-<div class="cell" data-layout-align="default">
+<div class="cell" data-reveal="true" data-layout-align="default">
 <div class="cell-output-display">
 <div>
 <p></p><figure class=""><p></p>
 <div>
-<p><img data-src="design-slides_files/figure-revealjs/mermaid-figure-1.png" style="width:9.82in;height:0.82in"></p>
+<pre class="mermaid mermaid-js">flowchart LR
+  A([Identify Outcomes]) --&gt; B([Determine Criteria])
+  B --&gt; C([Determine Assessment Tasks])
+  C --&gt; D([Plan Learning Experiences and Resources])
+</pre>
 </div>
 <p></p></figure><p></p>
 </div>

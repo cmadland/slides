@@ -9,7 +9,7 @@ format:
     incremental: true
     footer: "Contributors: Colin Madland, Scott Macklin, Mark Halvorson"
     logo: "visualstickery.jpg"
-    mermaid-format: png
+    # mermaid-format: png
 ---
 
 
