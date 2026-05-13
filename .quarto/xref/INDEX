@@ -48,5 +48,9 @@
   },
   "posts/design/design-slides.qmd": {
     "design-slides.html": "336d0b7b"
+  },
+  "posts/isaac/index.qmd": {
+    "index.html": "97134be4",
+    "index.pptx": "9195931b"
   }
 }

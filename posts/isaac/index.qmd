@@ -1,0 +1,227 @@
+---
+title: "Isaac Madland - Capstone Presentation"
+subtitle: "Physiotherapist or Carpenter"
+author: "Isaac Madland"
+institute: "Mount Boucherie High School"
+date: "2026-05-14"
+format:
+  revealjs:
+    multiplex: true
+    incremental: true
+    theme: default
+  pptx: default
+# bibliography: refs.bib
+# csl: .apa.csl
+# logo: otessa-logo-CS6.png
+footer: "imadland@icloud.com" 
+freeze: false
+toc: false
+draft: true
+---
+
+```{r}
+library(gt)
+```
+
+## My Learning Story
+
+- Football & Rugby
+- Injuries
+  - concussions
+  - meniscus
+  - ACL
+
+---
+
+## My Learning Story
+
+- Post-concussion Syndrome
+  - migraines
+  - brain fog
+  - difficulty with concentrating
+
+
+---
+
+
+## My Learning Story
+
+- Triggers
+  - flourescent lights
+  - projectors
+  - hallway noise
+
+---
+
+
+## My Learning Story
+
+- Human Kinetics
+  - interest in injury recovery
+  - desire to stay connected with organized athletics
+
+---
+
+
+## My Learning Story
+
+- Grandpa Gore Award
+  - determination
+  - faith in teammates
+  - leadership
+
+---
+
+## Core Competency
+
+### Critical Thinking
+
+- challenging due to PCS
+- significant difficulty with math and science in Gr 9-10
+- turnaround in Math 10 (thank you Ms...!)
+
+---
+
+### Critical Thinking
+
+- personal sense of pride
+- exceeded my own expectations
+
+---
+
+## Skills Showcase
+
+### Music
+
+### Athletics
+
+
+---
+
+## Skills Showcase - Music
+
+- drumming since age 4
+- older brother was an inspiration
+- impeccable sense of timing
+- offered session gigs from producers
+
+---
+
+## Skills Showcase - Music
+
+- have already connected with musicians near TWU
+- plan to get involved as much as possible
+
+---
+
+## Plan A - Physiotherapy
+
+- execute treatment plans
+  - improve physical ability
+  - ease pain
+  - prevent further problems
+
+---
+
+## Plan A - Physiotherapy
+
+- need to manage complex needs with every patient (e.g. torn biceps brachii vs plantar fasciitis)
+- requires deep knowledge of anatomy and physiology
+- diagnoses from process of elimination
+
+---
+
+## Plan A - Physiotherapy
+
+### Working Conditions
+
+- wide variety
+  - public clinics
+  - private practice
+  - hospitals
+  - travelling to remote locations
+- combination of office and gym environment
+
+---
+
+## Plan A - Physiotherapy{}
+
+### Salary and Outlook
+
+```{r}
+salaries_tbl <- read.csv(file = "salaries.csv")
+
+gt(salaries_tbl) |>
+  tab_source_note(
+    source_note = "Source: Indeed"
+  ) |>
+  cols_align(
+    align = "center",
+    columns = "Salary.per.year"
+  ) |>
+  cols_align(
+    align = "right",
+    columns = "Relation.to.Average"
+  )
+```
+
+---
+
+## Plan A - Physiotherapy
+
+### Outlook
+
+- average provincial need is moderate. 
+- higher demand in the Maritimes and Alberta.
+
+---
+
+## Plan A - Physiotherapy
+
+### Educational Pathways
+
+- A masters degree in physiotherapy along with a period of supervised practical training
+-  A license or registration with a regulatory body
+- Completion of physiotherapy competency
+
+---
+
+## Plan A - Physiotherapy
+
+### Educational Pathways
+
+- BHK at Trinity Western University
+- MSc at UBC
+
+---
+
+## Plan A - Physiotherapy
+
+### Why Physio?
+
+- athletics
+- injuries
+- recovery is physical and mental
+- struggled with depression and anxiety
+- desire to help people recover
+- help people feel seen and respected
+
+---
+
+## Plan B - Carpentry
+
+- wide variety of individual trades
+- physically demanding
+- requires skill with hand tools
+- job sites vary, and are outside
+- requires heavy lifting, use of dangerous tools, and PPE
+
+---
+
+
+
+## Work/Volunteer (Mentor) Experience
+
+##### Make sure that you have completed the Mentorship ( Work Experience - 30 Hours) assignment.
+
+
