@@ -52,5 +52,9 @@
   "posts/isaac/index.qmd": {
     "index.html": "97134be4",
     "index.pptx": "9195931b"
+  },
+  "script.qmd": {
+    "script.html": "577a96ae",
+    "script.docx": "2d5d243b"
   }
 }

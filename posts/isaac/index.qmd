@@ -208,6 +208,19 @@ gt(salaries_tbl) |>
 
 ---
 
+## Plan A Budget Overview
+
+```{r}
+budget_tbl <- read.csv(file = "budget.csv")
+
+gt(budget_tbl) |>
+  cols_align(
+    align = "right",
+    columns = "Amount"
+  )
+```
+
+
 ## Plan B - Carpentry
 
 - wide variety of individual trades
@@ -219,9 +232,33 @@ gt(salaries_tbl) |>
 ---
 
 
+## Plan B - Carpentry
+
+### Educational Pathway
+
+- high number of entry-level jobs
+- many apprenticeship pathways allow students to work while going to school
+- significant investment from Government of Canada in trades
+
+---
+
+## Plan B - Carpentry
+
+### Why this plan B?
+
+- love working with my hands
+- many memories of working with my Grandpa
+- easy to start, could start after high school
+- $77,800 starting wage (Indeed)
+- flexibility
+
+---
 
 ## Work/Volunteer (Mentor) Experience
 
-##### Make sure that you have completed the Mentorship ( Work Experience - 30 Hours) assignment.
+- XX hours
+- documentation is submitted
+
+
 
 
