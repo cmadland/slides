@@ -4,15 +4,15 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: bluesky
+      text: BlueSky
+      href: https://bsky.app/profile/cmadland.bsky.social
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: www.linkedin.com/in/colin-madland
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/cmadland
 
 ---
 
