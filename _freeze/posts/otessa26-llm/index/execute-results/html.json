@@ -1,0 +1,15 @@
+{
+  "hash": "e5e5efb10a4beb55839b5842b67c87ac",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nformat: dashboard\nauthor: \"Colin Madland\"\ntitle: \"Instructor Perspectives on Large Language Model Use in BC Higher Education\"\ndate: \"2026-06-09\"\ncategories: [LLM, dashboard, dissertation, otessa]\nbibliography: refs.bib\ncsl: ../../apa.csl\nlogo: assets/visualstickery-colin.jpg\nfooter: \"cmadland@uvic.ca | OTESSA 2026 Online\"\nlink-external-icon: true\necho: false\n---\n\n\n\n::: {.cell}\n\n:::\n\n\n\n::: {.cell}\n\n:::\n\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
